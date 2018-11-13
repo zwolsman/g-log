@@ -1,14 +1,12 @@
 # Graduation log
 
-<!-- toc -->
-
 ## Dag 1, 3-9-2018
 
 ### Stage kickoff dag
 
-Deze dag is begonnen in Veenendaal, hier moest ik om 9u aanwezig zijn. Gelukkig zaten de files mee en kwam ik precies op tijd. Eenmaal aangekomen ontmoette ik 2 mede stagaires die ook gaan afstuderen maar dan in Veenendaal. Na opgehaald te worden door _Bart Bijl_ kwamen we in de kantine terecht. Hier was het meerendeel van de andere stagaires al aanwezig. We moesten nog eventjes wachten op een vijftal laat komers (dit kwam door het verkeer).
+Deze dag is begonnen in Veenendaal, hier moest ik om 9u aanwezig zijn. Gelukkig zaten de files mee en kwam ik precies op tijd. Eenmaal aangekomen ontmoette ik 2 mede stagiaires die ook gaan afstuderen maar dan in Veenendaal. Na opgehaald te worden door _Bart Bijl_ kwamen we in de kantine terecht. Hier was het merendeel van de andere stagiaires al aanwezig. We moesten nog eventjes wachten op een vijftal laatkomers (dit kwam door het verkeer).
 
-We zijn toen als complete groep naar de Seminar ruimte begeleid en mochten daar plaats nemen. Hier werd een powerpoint gehouden met informatie over het afstuderen. Na deze algemene powerpoint kwam er een collega langs om door het plan van aanpak (PvA) te lopen. Dit heeft enige tijd geduurd omdat het template vanuit Info Support zelf zeer uitgebreid is en er veel vragen waren.
+We zijn toen als complete groep naar de Seminar ruimte begeleid en mochten daar plaats nemen. Hier werd een PowerPoint gehouden met informatie over het afstuderen. Na deze algemene PowerPoint kwam er een collega langs om door het plan van aanpak (PvA) te lopen. Dit heeft enige tijd geduurd omdat het template vanuit Info Support zelf zeer uitgebreid is en er veel vragen waren.
 
 Na de presentatie was er een lunch, hier hebben we met zijn alle gebruik van gemaakt en heerlijk van genoten. Na een half uur pauze was het tijd voor een ontmoeting met de systeembeheerders voor de pasjes en laptops die in bruikleen worden uitgegeven. Toen we klaar waren bij de systeem beheerders mocht ik al naar huis; dit kwam omdat ik afstudeerde in Mechelen i.p.v. in Veenendaal.
 
@@ -16,9 +14,9 @@ Na de presentatie was er een lunch, hier hebben we met zijn alle gebruik van gem
 
 ### Laptop en werkplek inrichten
 
-Mijn eerste dag bij Info Support in Belgie. Hier ben ik om 8:30uur aangekomen en een rondleiding gekregen van Christen en Ilse. Na de rondleiding heb ik werkplek toegewezen gekregen bij 4 andere collega's op de kamer. Na kennis te maken ben ik begonnen met mijn laptop in te richten.
+Mijn eerste dag bij Info Support in België. Hier ben ik om 8:30uur aangekomen en een rondleiding gekregen van Christen en Ilse. Na de rondleiding heb ik werkplek toegewezen gekregen bij 4 andere collega's op de kamer. Na kennis te maken ben ik begonnen met mijn laptop in te richten.
 
-De volgende software heb ik als eerste geinstalleerd
+De volgende software heb ik als eerste geïnstalleerd
 
 - Visual Studio code
   - Markdownlint
@@ -27,7 +25,7 @@ De volgende software heb ik als eerste geinstalleerd
 - GitKraken (Git UI)
 - iTunes (Muziek)
 
-Na deze installaties ben ik mijn afstudeeropdracht nog eens gaan lezen om mijzelf voor te bereiden op het gesprek met mijn begeleider. Ik heb ook een snelle Google search gedaan naar vergeleikbare producten en kwam al snel candidaten tegen.
+Na deze installaties ben ik mijn afstudeeropdracht nog eens gaan lezen om mijzelf voor te bereiden op het gesprek met mijn begeleider. Ik heb ook een snelle Google search gedaan naar vergelijkbare producten en kwam al snel kandidaten tegen.
 
 - [peoplecart](https://peoplecart.com)
 - [Bonusly](https://bonus.ly/)
@@ -37,12 +35,12 @@ Na gesprek gehad te hebben met Benny is de opdracht een stuk duidelijker. De sof
 
 ### Bronnen gelezen
 
-Ik heb de volgende bronnen gelezen om al vast een feel te krijgen voor de blockchain/etheruim/smartcontracts.
+Ik heb de volgende bronnen gelezen om al vast een feel te krijgen voor de blockchain/ethereum/smartcontracts.
 
 - [How Do Ethereum Smart Contracts Work?](https://www.coindesk.com/information/ethereum-smart-contracts-work/)
 - [The Hitchhiker’s Guide to Smart Contracts in Ethereum](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
-Na deze geleze te hebben ben ik begonnen aan mijn PvA (Plan van Aanpak) en zal hier nog enige dagen mee bezig zijn. Ik heb concreet met Benny afgesproken vrijdag een concept versie in te leveren en deze dinsdag te bespreken met desbetreffende feedback zodat in week 2 (hopelijk) een definitieve versie verschijnt.
+Na deze gelezen te hebben ben ik begonnen aan mijn PvA (Plan van Aanpak) en zal hier nog enige dagen mee bezig zijn. Ik heb concreet met Benny afgesproken vrijdag een concept versie in te leveren en deze dinsdag te bespreken met desbetreffende feedback zodat in week 2 (hopelijk) een definitieve versie verschijnt.
 
 ## Dag 3, 5-9-2018
 
@@ -52,7 +50,7 @@ Deze dag startte rustig. Ik heb mijn werkplek de dag ervoor al toegewezen dus va
 
 ### Test & Lunch
 
-Toen we pauze hadden was er een test van een applicatie die gemaakt was voor een klant. De applicatie kon je op je telefoon openen en het was een soort quiz. Er werd gebruik gemaakt van je camera om QR codes te scannen zodat de "zoektoch" gevalideerd kon worden echter was er nu een master QR code. Toen de test klaar was en de feedback verzameld was bleek het een geslaagde test te zijn geweest.
+Toen we pauze hadden was er een test van een applicatie die gemaakt was voor een klant. De applicatie kon je op je telefoon openen en het was een soort quiz. Er werd gebruik gemaakt van je camera om QR codes te scannen zodat de "zoektocht" gevalideerd kon worden echter was er nu een master QR code. Toen de test klaar was en de feedback verzameld was bleek het een geslaagde test te zijn geweest.
 
 ### Kikkeren!?
 
@@ -60,13 +58,13 @@ Toen we pauze hadden was er een test van een applicatie die gemaakt was voor een
 
 Ik ben toen uitgenodigd door een 3-tal collega's om te gaan _kikkeren_, dit is natuurlijk gewoon tafelvoetbal. Ik heb hier zelf niet veel ervaring mee en ik denk dat daarom ook mijn team verloren had..
 
-### Processbegeleidster
+### Procesbegeleidster
 
 Ik heb ook met mijn procesbegeleidster afspraken gemaakt over hoe vaak we elkaar gaan spreken. We zijn akkoord gegaan met een ontmoeting om de 2 weken ingaande vanaf week 3 op woensdag.
 
 ### Begin van blockchain kennis..
 
-Ik ben altijd heel erg van de handen vies maken i.p.v. alleen maar artikelen lezen. Ik begin meestal met YouTube videos. De videos die ik vandaag heb bekeken met betrekking tot blockchain techniek
+Ik ben altijd heel erg van de handen vies maken i.p.v. alleen maar artikelen lezen. Ik begin meestal met YouTube video's. De video's die ik vandaag heb bekeken met betrekking tot blockchain techniek
 
 - [What is a Smart Contract? A Beginner’s Guide - Ameer Rosic](https://www.youtube.com/watch?v=qdoUpGg_DpQ)
 - [Ethereum Explained - Siraj Raval](https://www.youtube.com/watch?v=-_Qs0XdPpw8)
@@ -78,9 +76,9 @@ Ik heb toch een paar blogs gelezen
 - [Lightweight Ethereum Clients Using Web3j](https://www.baeldung.com/web3j)
 - [Web3j](https://web3j.io/)
 
-#### Geth geinstalleerd
+#### Geth geïnstalleerd
 
-Na de informatie vergaard te hebben over de blockchain stond mij een ding te wachten. Een lokale blockchain te starten voor development. Ik had hier echter geen ervaring mee. De software die nodig was (blijkend uit de filmjes) is `geth`. Dit is een Etherium blockchain node geprogrammeerd in `Go` (Google's eigen programmeertaal). Deze installatie kon echter niet op mijn werk laptop en heb ik gedaan op mijn persoonlijke. Ik heb nog geen admin rechten (mailtje is verstuurd naar de systeembeheerders). Toen ik dit eenmal had geinstalleerd was het alweer 6u en dat was etenstijd.
+Na de informatie vergaard te hebben over de blockchain stond mij een ding te wachten. Een lokale blockchain te starten voor development. Ik had hier echter geen ervaring mee. De software die nodig was (blijkend uit de filmpjes) is `geth`. Dit is een Ethereum blockchain node geprogrammeerd in `Go` (Google's eigen programmeertaal). Deze installatie kon echter niet op mijn werk laptop en heb ik gedaan op mijn persoonlijke. Ik heb nog geen admin rechten (mailtje is verstuurd naar de systeembeheerders). Toen ik dit eenmaal had geïnstalleerd was het alweer 6u en dat was etenstijd.
 
 ### Kwartaalmeeting (ISKA)
 
@@ -92,7 +90,7 @@ Dit kladblokje had vooral betrekking op de branding. Info Support wil meer zijn 
 
 ### MEER BLOCKCHAIN!
 
-Na het inlezen gister nog ik niet wachten met beginnen. Ik wilde het echt graag begrijpen. Ik heb eerst lopen sukkelen met de blockchain daadwerkelijk lokaal werkend te krijgen. Uiteindelijk had ik een guide gevonden, ik was eerst bezig met op het `--testnet` te komen van etherium (dit is nog steeds een _online_ blockchain) maar dat was helemaal niet de bedoeling. Ik kwam na het lezen van de blog post [How To: Create Your Own Private Ethereum Blockchain](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f) erachter hoe het moest. Ik heb de volgende instructies gebruikt:
+Na het inlezen gister nog ik niet wachten met beginnen. Ik wilde het echt graag begrijpen. Ik heb eerst lopen sukkelen met de blockchain daadwerkelijk lokaal werkend te krijgen. Uiteindelijk had ik een guide gevonden, ik was eerst bezig met op het `--testnet` te komen van ethereum (dit is nog steeds een _online_ blockchain) maar dat was helemaal niet de bedoeling. Ik kwam na het lezen van de blog post [How To: Create Your Own Private Ethereum Blockchain](https://medium.com/mercuryprotocol/how-to-create-your-own-private-ethereum-blockchain-dad6af82fc9f) erachter hoe het moest. Ik heb de volgende instructies gebruikt:
 
 #### Genesis file
 
@@ -215,7 +213,7 @@ Process finished with exit code 0
 
 ### Slack intergratie
 
-Het uiteindelijk systeem moet geintegreerg in slack zijn.. maar hoe doe je dat nou eigenlijk? Ik ben begonnen met het bekijken van bonusly in slack. Hier zag ik dat er een simpel commando `/give +100 @user`. Hoe maak je zo'n commando? Wat doet het? Waar leeft het? Dit waren dingen die ik uit moest zoeken. Ik ben begonnen met de [officiele Slack API documentatie](https://api.slack.com) te lezen. Hier zie je al aan de linkerkant onder het kopje _"App features"_ Slash Commando's staan. Mij leek het logisch dat dit het was natuurlijk. Na de documentatie te lezen van het desbetreffende onderwerp wist ik het zeker; dit is het!
+Het uiteindelijk systeem moet geïntegreerd in Slack zijn.. maar hoe doe je dat nou eigenlijk? Ik ben begonnen met het bekijken van bonusly in Slack. Hier zag ik dat er een simpel commando `/give +100 @user`. Hoe maak je zo'n commando? Wat doet het? Waar leeft het? Dit waren dingen die ik uit moest zoeken. Ik ben begonnen met de [officiële Slack API documentatie](https://api.slack.com) te lezen. Hier zie je al aan de linkerkant onder het kopje _"App features"_ Slash Commando's staan. Mij leek het logisch dat dit het was natuurlijk. Na de documentatie te lezen van het desbetreffende onderwerp wist ik het zeker; dit is het!
 
 ### Hoe werkt zo'n slash commando?
 
@@ -227,7 +225,7 @@ Het werkt vrij simpel. Alle commando's die beginnen met een `/` worden doorgegev
 
 - **Request URL**
 
-  Dit heeft iets meer diepgang dan dat het lijkt te hebben. Omdat alles publiekelijk toegankelijk moest zijn en ik lokaal aan het werk was moest dit anders. Ik heb er voor gekozen om `ngrok` te gebruiken. Dit wordt verder toegeligt in een ander hoofdstuk.
+  Dit heeft iets meer diepgang dan dat het lijkt te hebben. Omdat alles publiekelijk toegankelijk moest zijn en ik lokaal aan het werk was moest dit anders. Ik heb er voor gekozen om `ngrok` te gebruiken. Dit wordt verder toegelicht in een ander hoofdstuk.
 
 - **Short description**
 
@@ -265,15 +263,15 @@ class GiveSlashCommand(private val slackApi : SlackApi) {
 }
 ```
 
-Zoals je ziet zat hier geen logica achter maar kon ik wel zien wat ik binnen kreeg. Omdat ik de optie `Escape usernames,channels & links` krijg ik plaintext mentions binnen. Dit betekende dat ik gewoon een `@gebruikersnaam` kreeg en deze niet kon mappen aan een user id. Hoe ik dit opgelost heb? Als mijn applicatie gestart werd gebruikte het de officiele Slack Web API om alle gebruikers van de desbetreffende workspace op te halen en te mappen in een in-memory database met gebruikersnaam, user id en email. Deze data had ik nodig.
+Zoals je ziet zat hier geen logica achter maar kon ik wel zien wat ik binnen kreeg. Omdat ik de optie `Escape usernames, channels & links` krijg ik plaintext mentions binnen. Dit betekende dat ik gewoon een `@gebruikersnaam` kreeg en deze niet kon mappen aan een user id. Hoe ik dit opgelost heb? Als mijn applicatie gestart werd gebruikte het de officiële Slack Web API om alle gebruikers van de desbetreffende workspace op te halen en te mappen in een in-memory database met gebruikersnaam, user id en email. Deze data had ik nodig.
 
-Met de plaintext mention kon ik de gebruikersnamen eruit halen door een Regex. Deze matches werden dan opgezocht in de vooraf opgehaalde data en zo kon ik er toch een email aan koppelen. Dit is natuurlijk niet de juiste manier want als er een nieuwe gebruiker zich aanmeld of een mention is die niet bestaat gaat het fout. Toch kon ik nergens vinden hoe het _wel_ moest totdat ik dit aan het schrijven was. Omdat ik goed door de opties heen leesde kwam ik er achter dat je dus wel het gebruikers id mee kan sturen waardoor je met een simpele request het profiel op kan halen en zo kan koppelen aan een email. Dit is iets voor morgen om verder uit te werken.
+Met de plaintext mention kon ik de gebruikersnamen eruit halen door een RegEx. Deze matches werden dan opgezocht in de vooraf opgehaalde data en zo kon ik er toch een email aan koppelen. Dit is natuurlijk niet de juiste manier want als er een nieuwe gebruiker zich aanmeld of een mention is die niet bestaat gaat het fout. Toch kon ik nergens vinden hoe het _wel_ moest totdat ik dit aan het schrijven was. Omdat ik goed door de opties heen las kwam ik er achter dat je dus wel het gebruikers id mee kan sturen waardoor je met een simpele request het profiel op kan halen en zo kan koppelen aan een email. Dit is iets voor morgen om verder uit te werken.
 
 ## Dag 5, 7-9-2018
 
 ### Slack dag
 
-Om de dag te beginnen gaan we de fout van gister is oplossen. Het eerste wat gedaan moet worden is de regex aanpassen om de nieuwe _escaped_ mentions te vinden. Deze regex is opzich niet heel lastig en zal de volgende zijn: `<@([WU].+?)>`.
+Om de dag te beginnen gaan we de fout van gister is oplossen. Het eerste wat gedaan moet worden is de RegEx aanpassen om de nieuwe _escaped_ mentions te vinden. Deze RegEx is opzich niet heel lastig en zal de volgende zijn: `<@([WU].+?)>`.
 
 Een bericht ziet er als volgt uit met mentions
 
@@ -281,17 +279,17 @@ Een bericht ziet er als volgt uit met mentions
 dit is tekst en dan komt nu een mention <@UCNAPUFHT|joell> en dit is een andere mention <@UCNAJL7FF|murf> dit is een channel <#CCPG179GE|random>
 ```
 
-Zoals je ziet is een mention een begin met `<@` en eindigt met een `>`. Dat is precies wat deze regex doet met een check dat een username id altijd met een **W** of een **U** begint. Ik heb deze regex getest met [RegexPal](https://www.regexpal.com). Dit is een website waarin je al je matches meteen ziet en live je regex kan aanpassen.
+Zoals je ziet is een mention een begin met `<@` en eindigt met een `>`. Dat is precies wat deze RegEx doet met een check dat een username id altijd met een **W** of een **U** begint. Ik heb deze RegEx getest met [RegexPal](https://www.regexpal.com). Dit is een website waarin je al je matches meteen ziet en live je RegEx kan aanpassen.
 
 Nu ik makkelijk user id's kan ophalen uit een bericht kan ik ook een profiel ophalen en dus desbetreffende email. Toen heb ik met Benny overlegt welke data er op de blockchain zal komen en welke data er echt nodig is. Ik heb hier een diagram voor geschetst.
 
 ![Schets van data](https://raw.githubusercontent.com/zwolsman/g-log/master/img/IMG_9111.JPG "Schets van data")
 
-De eerste vraag die Benny eigenlijk vroeg was, wie gaat de maandelijkse punten bijhouden? Het idee is dat er een x aantal punten vrijkomen per persoon per maand. Dus dat moet ergens bijgehouden worden.. maar waar? Dit is een probleem in ons achterhoofd te houden. Ik wou eerst een proof of concept maken met interactie tussen slack & de blockchain.
+De eerste vraag die Benny eigenlijk vroeg was, wie gaat de maandelijkse punten bijhouden? Het idee is dat er een x aantal punten vrijkomen per persoon per maand. Dus dat moet ergens bijgehouden worden.. maar waar? Dit is een probleem in ons achterhoofd te houden. Ik wou eerst een proof of concept maken met interactie tussen Slack & de blockchain.
 
 ### Solidity
 
-Nu ik de user id's om kon vormen naar emails (en die gebruikt kunnen worden als id's) is de volgende stap ze ergens opslaan. Hoe doe je dit? Met smart contracts. Ik had de vorige dag al het een en ander meegekregen maar wist al niet meer precies hoe. Wat ik wel nog wist was het volgende interactie scenario.
+Nu ik de user id's om kon vormen naar e-mails (en die gebruikt kunnen worden als id's) is de volgende stap ze ergens opslaan. Hoe doe je dit? Met smart contracts. Ik had de vorige dag al het een en ander meegekregen maar wist al niet meer precies hoe. Wat ik wel nog wist was het volgende interactie scenario.
 
 > **Slack -> Web API (Spring Boot in Kotlin) (-> ...?) -> Blockchain**
 
@@ -313,11 +311,11 @@ contract SimpleStorage {
 }
 ```
 
-Dit was een contract die gewoon een nummertje opsloeg. Dat was alles! Ik keek er naar en snapte wel hoe het werkte, de taal had uiteraard veel beinvloeding van C++, Python en JavaScript en daardoor voelde het wel bekend. Ik dacht bij mezelf, hoe moeilijk is het om een array van structs op te slaan waarin staat wie welke bonus heeft weggegeven. Ik vond dit wel een mooi idee om mee te starten.
+Dit was een contract die gewoon een nummertje opsloeg. Dat was alles! Ik keek er naar en snapte wel hoe het werkte, de taal had uiteraard veel beïnvloeding van C++, Python en JavaScript en daardoor voelde het wel bekend. Ik dacht bij mezelf, hoe moeilijk is het om een array van structs op te slaan waarin staat wie welke bonus heeft weggegeven. Ik vond dit wel een mooi idee om mee te starten.
 
 #### Wat komt hier bij kijken?
 
-Het idee is vrij simpel, een array van structs maar hoe interact je hier mee? Hoe voeg je een element toe aan de array? Dat zijn vragen die mij meteen binnen schoten. Ik begon met het lezen van hoe je een struct definieerd. Dit is vrij simpel.
+Het idee is vrij simpel, een array van structs maar hoe interacteer je hier mee? Hoe voeg je een element toe aan de array? Dat zijn vragen die mij meteen binnen schoten. Ik begon met het lezen van hoe je een struct definieert. Dit is vrij simpel.
 
 ```solidity
  struct Bonus {
@@ -362,13 +360,13 @@ contract InfoBonus {
 
 #### Wat nu..?
 
-Oke, je hebt je contract en je wil deze deployen en gebruiken, maar hoe? Solidity heeft zijn eigen compiler genaamd `solc`. Ik heb deze aangeroepen met het volgende commando
+Oké, je hebt je contract en je wil deze deployen en gebruiken, maar hoe? Solidity heeft zijn eigen compiler genaamd `solc`. Ik heb deze aangeroepen met het volgende commando
 
 ```bash
 murf@Marvins-MBP: [~/Projects/info-chain-api/contracts] $ solc test.sol --bin --abi --optimize -o ./bin
 ```
 
-Dit maakt een _.bin_ en _.abi_. Deze bestanden heb je nodig om het contract te deployen en daarna mee te interacten. Ik had mijn eigen `geth` node nog draaien met mijn prive blockchain. Laten we die gebruiken! Hoe werkt dit allemaal? Geen idee. Ik wist wel dat de web3j een manier had om een smart contract te deployen; laten we daar is verder naar kijken.
+Dit maakt een _.bin_ en _.abi_. Deze bestanden heb je nodig om het contract te deployen en daarna mee te interacteren. Ik had mijn eigen `geth` node nog draaien met mijn privé blockchain. Laten we die gebruiken! Hoe werkt dit allemaal? Geen idee. Ik wist wel dat de web3j een manier had om een smart contract te deployen; laten we daar is verder naar kijken.
 
 ```java
 Web3j web3 = Web3j.build(new HttpService());  // defaults to http://localhost:8545/
@@ -380,7 +378,7 @@ YourSmartContract contract = YourSmartContract.deploy(
         <param1>, ..., <paramN>).send();  // constructor params
 ```
 
-Oke, dit snap ik, dit is java. Hoe kom ik aan credentials? Oh ja! Die had ik gister aangemaakt.. maar waar staat dat? In de keystore van de blockchain en deze had ik in de map `~/info-chain/data` opgeslagen. Ik vind daar 1 bestand in genaamd _UTC--2018-09-06T07-22-52.415241284Z--691a8c8438e67d37999f21a65bc91f41504a9aed_ dus dit zal wel mijn wallet zijn.
+Oké, dit snap ik, dit is Java. Hoe kom ik aan credentials? Oh ja! Die had ik gister aangemaakt.. maar waar staat dat? In de keystore van de blockchain en deze had ik in de map `~/info-chain/data` opgeslagen. Ik vind daar 1 bestand in genaamd _UTC--2018-09-06T07-22-52.415241284Z--691a8c8438e67d37999f21a65bc91f41504a9aed_ dus dit zal wel mijn wallet zijn.
 
 Nu moest ik alleen nog van de _.bin_ en _.abi_ iets maken waarmee ik in mijn project dus een wrapper had. Dit doet web3j dus ook. Dit kan je doen via een CLI die eenvoudig te installeren is op een MacBook. De volgende commando's deden het al.
 
@@ -395,7 +393,7 @@ Op de README van web3j kon je een voorbeeld vinden hoe je dan een wrapper genere
 murf@Marvins-MBP: [~/Projects/info-chain-api/contracts] $ web3j solidity generate ./bin/InfoBonus.bin ./bin/InfoBonus.abi -o ../src/main/java -p com.zwolsman.infochain
 ```
 
-Nu had ik dus Java Wrappers die het mogelijk maakte om met mijn contract te interacten via Java (Kotlin in mijn geval). Ik heb dus `web3` gedeelte, de `credentials` en `params` heb ik niet nodig (dat zijn de constructor params van je contract). Nu alleen nog de `GAS_PRICE` en `GAS_LIMIT`. Geen idee wat dit was maar het moest wel een `BigInteger` zijn dus ik zette 1 en 10 neer. Het resultaat wat je terug krijgt is een contract instantie waar je dingen mee kan doen. Ik wist dat een smart contract een adres kreeg en dat je die in de toekomst moest gebruiken om het opnieuw aan te spreken. Dit gaf ik dus terug als feedback zodat ik wist dat het gelukt was.
+Nu had ik dus Java Wrappers die het mogelijk maakte om met mijn contract te interacteren via Java (Kotlin in mijn geval). Ik heb dus `web3` gedeelte, de `credentials` en `params` heb ik niet nodig (dat zijn de constructor params van je contract). Nu alleen nog de `GAS_PRICE` en `GAS_LIMIT`. Geen idee wat dit was maar het moest wel een `BigInteger` zijn dus ik zette 1 en 10 neer. Het resultaat wat je terug krijgt is een contract instantie waar je dingen mee kan doen. Ik wist dat een smart contract een adres kreeg en dat je die in de toekomst moest gebruiken om het opnieuw aan te spreken. Dit gaf ik dus terug als feedback zodat ik wist dat het gelukt was.
 
 ```kotlin
 val result = InfoBonus.deploy(web3, credentials, GAS_PRICE, GAS_LIMIT).send()
@@ -403,7 +401,7 @@ logger.info("Deployed contract; address: ${result.contractAddress}")
 return "OK, address: ${result.contractAddress}"
 ```
 
-De eerste paar x ging dit niet goed, `GAS_PRICE` was te laag, te hoog of gewoon niet goed en hetzelfde voor `GAS_LIMIT` maar ik wist gewoon echt niet wat dit moest zijn. Na wat spelen met nummertjes vond ik dat 10.000 werkte als price en 100.000 als limit. Nou! Het contract is gedeployd!
+De eerste paar x ging dit niet goed, `GAS_PRICE` was te laag, te hoog of gewoon niet goed en hetzelfde voor `GAS_LIMIT` maar ik wist gewoon echt niet wat dit moest zijn. Na wat spelen met nummertjes vond ik dat 10.000 werkte als price en 100.000 als limit. Nou! Het contract is gedeployed!
 
 Kan ik dit ergens zien? Ik ben erg visueel ingesteld en een hash dat iets gelukt is zegt mij niet zoveel. Ik ben dus opzoek gegaan voor een `Blockchain explorer`, ik had het idee dat dit dus in zijn eigen block leefde en ik daar publiekelijk in kon kijken wat het nou deed etc. Na wat Google werk kwam ik al snel uit op [Ganache](https://www.truffleframework.com/ganache).
 
@@ -437,7 +435,7 @@ Ik ben begonnen waar ik achter ben gebleven de vorige keer. Ik ben verder gegaan
 \+(?<points>\d+)(?<mentions>(?:\s(?:<@(?:[WU].+?))>)+)\s(?<comment>.*)
 ```
 
-Hier zie je capture groups met namen, de syntax hoe het commando wordt aangeroepen is `/give +100 @user @user2 text text #hashtag` and dit wordt er nu uitgehaald. Voor de repeating group van user haal ik alle mentions eruit; de regex implementatie is zo dat die de laatste value pakt van de groep dus dit doe ik nogmaals apart.
+Hier zie je capture groups met namen, de syntax hoe het commando wordt aangeroepen is `/give +100 @user @user2 text text #hashtag` and dit wordt er nu uitgehaald. Voor de repeating group van user haal ik alle mentions eruit; de RegEx implementatie is zo dat die de laatste value pakt van de groep dus dit doe ik nogmaals apart.
 
 ```RegEx
 <@(?<id>[^|]+)(?:\|(?<displayname>.+?))>
@@ -478,7 +476,7 @@ if(bonusReceivers[to] > highestReceived) {
 }
 ```
 
-Nu ik dit heb aangepast moest het contract opnieuw gecompiled worden met `solc` en een nieuwe wrapper met de `web3j` console library. Omdat ik deze stap vaker op een dag heb gedaan heb ik een klein shell scriptje (voor de [Fish Shell](https://fishshell.com)) geschreven. Dit gaat door alle `*.sol` bestanden en compiled die met de `solc` compiler en daarna nog eens met de `web3j`.
+Nu ik dit heb aangepast moest het contract opnieuw gecompileerd worden met `solc` en een nieuwe wrapper met de `web3j` console library. Omdat ik deze stap vaker op een dag heb gedaan heb ik een klein shell scriptje (voor de [Fish Shell](https://fishshell.com)) geschreven. Dit gaat door alle `*.sol` bestanden en compileert die met de `solc` compiler en daarna nog eens met de `web3j`.
 
 ```bash
 #!/usr/bin/env fish
@@ -494,7 +492,7 @@ end
 
 ### Events in web3j
 
-In web3j is er een api om events aan te spreken. Deze heeft een filter nodig.. Een filter heeft een contract address nodig (**zonder** 0x, vandaar de `substring(2)`) en een instantie van het contract. Zoals bij de vorige functies zal de instantie ingeladen worden met de `PRIVATE_KEY` en het `CONTRACT_ADDRESS`. Eenmaal ingeladen kan je subscriben op het event dat gecreerd is in het contract. Hier krijg je dan de value's binnen.
+In web3j is er een api om events aan te spreken. Deze heeft een filter nodig.. Een filter heeft een contract address nodig (**zonder** 0x, vandaar de `substring(2)`) en een instantie van het contract. Zoals bij de vorige functies zal de instantie ingeladen worden met de `PRIVATE_KEY` en het `CONTRACT_ADDRESS`. Eenmaal ingeladen kan je subscriben op het event dat gecreëerd is in het contract. Hier krijg je dan de value's binnen.
 
 ```kotlin
 val web3 = Web3j.build(HttpService())  // defaults to http://localhost:8545/
@@ -537,9 +535,9 @@ Eenmaal geworsteld over hoe dit in zijn werk zou gaan heb ik een overzichtje gem
 
 Alles wat ik tot nu toe heb gemaakt was een Proof of Concept, een manier voor mezelf om de stof beter te begrijpen. Nu ik een beter inzicht heb wat de opdracht precies in gaat houden ben ik een nieuw project begonnen. Dit project leeft nu ook op [Azure DevOps](https://is-belgie.visualstudio.com/BBB). Dit is de manier van werken binnen Info Support. Ook hebben we het beestje een naam gegeven!
 
-> **BBB** (Benny's Blockchain Bonuses)
+> **BBB** (Benny's Blockchain Bonusses)
 
-Het nieuwe project is beter gestructuereerd en maakt gebruikt van best-practices betreft programmeren. Ook is het contract opnieuw geschreven, deze x ook iets overzichtelijker en nettere variable namen.
+Het nieuwe project is beter gestructureerd en maakt gebruikt van best-practices betreft programmeren. Ook is het contract opnieuw geschreven, deze x ook iets overzichtelijker en nettere variable namen.
 
 ## Dag 8, 12-9-2018
 
@@ -547,7 +545,7 @@ Het nieuwe project is beter gestructuereerd en maakt gebruikt van best-practices
 
 Vandaag ben ik bezig geweest met het formateren van commando reacties en het asynchroon reageren. Omdat operaties op de blockchain niet instant zijn maar juist langer duren is dit heel belangrijk. Een functie aanroepen op een smart contract moet gevalideerd worden door meerdere nodes, communicatie tussen deze nodes heeft een latency en zal daardoor dus langer duren.
 
-De implementatie van Slack is als volgt; als je een commando binnen krijgt moet je binnen 3 seconde een reactie terug sturen anders krijg je een `Time out exception`. In het commando zit een `response_url`, hier kan je na ontvangst 5x een bericht naar sturen binnen 30 minuten. Met dit in het achterhoofd heb ik een `SlackCommandContext` gemaakt. Een `CommandContext` heeft de context van een commando, deze bevat op zijn minst de sender, het bericht en een respond functie. Voor slack zit hier dus ook een `response_url` parameter in.
+De implementatie van Slack is als volgt; als je een commando binnen krijgt moet je binnen 3 seconde een reactie terug sturen anders krijg je een `Time out exception`. In het commando zit een `response_url`, hier kan je na ontvangst 5x een bericht naar sturen binnen 30 minuten. Met dit in het achterhoofd heb ik een `SlackCommandContext` gemaakt. Een `CommandContext` heeft de context van een commando, deze bevat op zijn minst de sender, het bericht en een respond functie. Voor Slack zit hier dus ook een `response_url` parameter in.
 
 ```kotlin
 abstract class CommandContext {
@@ -602,7 +600,7 @@ class ListBonusesCommand : Command("list") {
 }
 ```
 
-Hierboven zie je dus hoe er wordt gereageerd en hoe het asynchrone gedeelte werkt. De invoke functie geeft een String terug, dit is de reatie die binnen 3 seconde binnen zal komen. Hij zegt dus tegen de gebruiker `Loading bonuses..`. Dan gaat het smart contract zijn ding doen, die haalt op hoe veel bonuses er zijn (dit is een value in het contract). Dan maakt die een range aan en voor elk cijfertje in de range haalt die de value op (dit is een nieuwe observable). Om een array van observable te mappen naar een array van value's wordt `flatMap` gebruikt. Om te zorgen dat het niet blocking is wordt er gespecificeerd dat de subscribe methode op een nieuwe thread is waardoor het non-blocking is.
+Hierboven zie je dus hoe er wordt gereageerd en hoe het asynchrone gedeelte werkt. De invoke functie geeft een String terug, dit is de reactie die binnen 3 seconde binnen zal komen. Hij zegt dus tegen de gebruiker `Loading bonuses..`. Dan gaat het smart contract zijn ding doen, die haalt op hoe veel bonuses er zijn (dit is een value in het contract). Dan maakt die een range aan en voor elk cijfertje in de range haalt die de value op (dit is een nieuwe observable). Om een array van observable te mappen naar een array van value's wordt `flatMap` gebruikt. Om te zorgen dat het niet blocking is wordt er gespecificeerd dat de subscribe methode op een nieuwe thread is waardoor het non-blocking is.
 
 Dan heb je de service specifieke formatters nog. Het resultaat wat uit het commando hierboven komt is een `List<Bonus>` maar hoe moet ik die formateren? Voor Slack is de volgende implementatie.
 
@@ -675,7 +673,7 @@ Ik ben in de avond nog naar Universiteit van Nederland gegaan. Deze hadden een l
 
 ![Universiteit van Nederland](https://raw.githubusercontent.com/zwolsman/g-log/master/img/universiteit_nederland.jpeg "Universiteit van Nederland")
 
-Er waren een 5-tal sprekers aanwezig. De sprekers waren eigenlijk allemaal niet technisch dieppaand, dit was ook wel te verwachten met zo'n breed publiek.
+Er waren een 5-tal sprekers aanwezig. De sprekers waren eigenlijk allemaal niet technisch diepgaand, dit was ook wel te verwachten met zo'n breed publiek.
 
 1. Wat is Big Data
 
@@ -687,15 +685,15 @@ Er waren een 5-tal sprekers aanwezig. De sprekers waren eigenlijk allemaal niet 
 
 3. Psychiatrische hulp met big data
 
-   Dit was een zeer interesasnte talk. Dit ging over als je alle data hebt over elke patient ooit kan je de nieuwe patient zijn intake, brief, symptonen hierin matchen en een soort voorspelling maken. Dit zal niet de gehele dokter vervangen maar een hulpmiddel zijn. Dit was een duidelijke vrouw die wist waar ze over sprak. Als dit zou lukken zou dit ook de meeste maatschappelijke impact hebben.
+   Dit was een zeer interessante talk. Dit ging over als je alle data hebt over elke patiënt ooit kan je de nieuwe patiënt zijn intake, brief, symptomen hierin matchen en een soort voorspelling maken. Dit zal niet de gehele dokter vervangen maar een hulpmiddel zijn. Dit was een duidelijke vrouw die wist waar ze over sprak. Als dit zou lukken zou dit ook de meeste maatschappelijke impact hebben.
 
 4. Flow.ai chat bots/genereren van tekst
 
-   Hoe algorithmes eigenlijk nieuwsartikelen schrijven (robotjournalistiek) en hoe dit meer menselijk kon lijken. Zijn idee van woorden omzetten naar vectors was wel super interesant, zelf nooit zo over nagedacht. Verder had die een demo met Alexa.
+   Hoe algoritmes eigenlijk nieuwsartikelen schrijven (robotjournalistiek) en hoe dit meer menselijk kon lijken. Zijn idee van woorden omzetten naar vectoren was wel super interessant, zelf nooit zo over nagedacht. Verder had die een demo met Alexa.
 
 5. Weersvoorspelingen met big data
 
-   Metreologen hebben heel veel data nodig, om een gepersonaliseerd weerbericht te maken (met een radios van 100m) is er eigenlijk meer data nodig (huidige ia 12.5km). Deze data hebben ze getest van mobieltjes af te halen (luchtvochtigheid, temperatuur etc.) en daarop gebaseerd een voorspelling; dit werkte! Ze hebben ook de data van taxi chaffeurs zijn ruitenwissers gebruikt voor meer lokale informatie. Eigenlijk kan je veel meer data gebruiken dan die nu gebruikt wordt en daardoor het weerbericht lokaler maken.
+   Metrologen hebben heel veel data nodig, om een gepersonaliseerd weerbericht te maken (met een radii van 100m) is er eigenlijk meer data nodig (huidige ia 12.5km). Deze data hebben ze getest van mobieltjes af te halen (luchtvochtigheid, temperatuur etc.) en daarop gebaseerd een voorspelling; dit werkte! Ze hebben ook de data van taxi chauffeurs zijn ruitenwissers gebruikt voor meer lokale informatie. Eigenlijk kan je veel meer data gebruiken dan die nu gebruikt wordt en daardoor het weerbericht meer lokaal maken.
 
 Toen het afgelopen was hebben we de trein terug gepakt en was ik om 0:10u thuis (in Eindhoven).
 
@@ -711,7 +709,7 @@ Eenmaal aangekomen op kantoor wou ik aan de integratie met CosmosDB beginnen. Co
 
 ![CosmosDB Config](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_cosmosdb_values.png "CosmosDB Config")
 
-Hier zie je dus ook dat het een MongoDB API gebruikt, dat kwam goed van pas! Ervaring met MongoDB had ik wel al (bijvoorbeeld: kwetter, proftaak). Nu moest ik dus ook de web-api aanpassen om dus CosmosDB te ondersteunen. Microsoft heeft [Microsoft/spring-data-cosmosdb](https://github.com/Microsoft/spring-data-cosmosdb) package die je kan gebruiken. Deze heb ik geimporteerd en de regel van MySQL connector weggegooid. De volgende aanpassingen waren ook relatief klein.
+Hier zie je dus ook dat het een MongoDB API gebruikt, dat kwam goed van pas! Ervaring met MongoDB had ik wel al (bijvoorbeeld: kwetter, proftaak). Nu moest ik dus ook de web-api aanpassen om dus CosmosDB te ondersteunen. Microsoft heeft [Microsoft/spring-data-cosmosdb](https://github.com/Microsoft/spring-data-cosmosdb) package die je kan gebruiken. Deze heb ik geïmporteerd en de regel van MySQL connector weggegooid. De volgende aanpassingen waren ook relatief klein.
 
 #### Account model
 
@@ -741,7 +739,7 @@ interface AccountRepository : DocumentDbRepository<Account, String> {
 }
 ```
 
-Zoals je ziet is het grootste verschil van `Entity` naar `Document` en dan de klenigheidjes in het checken of een document al bestaat. Echter, is er een probleem. De code werkt nu.. write/read operaties lukken maar ik kan de database niet inzien. Het lijkt alsof de [Microsoft/spring-data-cosmosdb](https://github.com/Microso ft/spring-data-cosmosdb) library foutieve data erin stopt waardoor de mongo shell een error krijgt. Ik weet nog niet hoe ik dit moet oplossen maar daar ga ik morgen naar kijken. De foutmelding is de volgende
+Zoals je ziet is het grootste verschil van `Entity` naar `Document` en dan de kleinigheidjes in het checken of een document al bestaat. Echter, is er een probleem. De code werkt nu.. write/read operaties lukken maar ik kan de database niet inzien. Het lijkt alsof de [Microsoft/spring-data-cosmosdb](https://github.com/Microso ft/spring-data-cosmosdb) library foutieve data erin stopt waardoor de Mongo shell een error krijgt. Ik weet nog niet hoe ik dit moet oplossen maar daar ga ik morgen naar kijken. De foutmelding is de volgende
 
 ```shell
 globaldb:PRIMARY> show dbs;
@@ -774,11 +772,11 @@ Error: error: {
 
 ### CosmosDB probleem
 
-Na enige tijd te zoeken heb ik het vandaag gewoon opgegeven. Zolang de applicatie werkt vind ik het _voor nu_ wel prima. Ik heb mezelf gefocust op funcitonaliteit.
+Na enige tijd te zoeken heb ik het vandaag gewoon opgegeven. Zolang de applicatie werkt vind ik het _voor nu_ wel prima. Ik heb mezelf gefocust op functionaliteit.
 
 ### Uitgaves inzien
 
-Ik heb het commando `/give spending (@user)` gecreeerd. Dit is zodat je als gebruiker kan opvragen hoeveel je zelf of iemand anders hebt uitgegeven deze periode. Ik heb hier het smart contract weer voor moeten aanpassen.
+Ik heb het commando `/give spending (@user)` gecreëerd. Dit is zodat je als gebruiker kan opvragen hoeveel je zelf of iemand anders hebt uitgegeven deze periode. Ik heb hier het smart contract weer voor moeten aanpassen.
 
 #### Aanpassingen smart contract
 
@@ -799,7 +797,7 @@ Hoe los je dit op? Je eigen `getter` schrijven en je mapping **private** maken.
     }
 ```
 
-Ook heb ik de logica dat je niet meer dan een x-aantal punten mag uitgeven geimplementeerd. Dit is doormiddel van een `require`. Als die conditie niet voldaan is wordt de `gas` terug uitbetaald en kostte de interactie niets. Dus als iemand te veel punten wil geven zal dit niet doorgaan.
+Ook heb ik de logica dat je niet meer dan een x-aantal punten mag uitgeven geïmplementeerd. Dit is doormiddel van een `require`. Als die conditie niet voldaan is wordt de `gas` terug uitbetaald en kostte de interactie niets. Dus als iemand te veel punten wil geven zal dit niet doorgaan.
 
 ### Service identity provider extract mentions
 
@@ -827,17 +825,17 @@ Ook heb ik nog verder een kijkje genomen in de Azure omgeving. Hier vind ik een 
 
 ### Orienteren op een andere team chat applicatie
 
-Ik ben nu aan het kijken welke team applicaties er nog meer zijn om hier ook een PoC plugin voor te schrijven. HipChat was een van de grote competitors met Slack en dit is [overgenomen](https://www.atlassian.com/blog/announcements/new-atlassian-slack-partnership) sinds kort. Uit de lijst [27 Top Slack Alternatives in 2018](https://www.workzone.com/blog/slack-alternatives/) heb ik gekeken welke een plugin systeem hebben.
+Ik ben nu aan het kijken welke team applicaties er nog meer zijn om hier ook een PoC plug-in voor te schrijven. HipChat was een van de grote competitors met Slack en dit is [overgenomen](https://www.atlassian.com/blog/announcements/new-atlassian-slack-partnership) sinds kort. Uit de lijst [27 Top Slack Alternatives in 2018](https://www.workzone.com/blog/slack-alternatives/) heb ik gekeken welke een plugin systeem hebben.
 
 ### Facbook integratie
 
-Ik ben aan de slag gegaan met Facebook integratie. Er is een package available genaamd [messenger4j/messenger4j](https://github.com/messenger4j/messenger4j). Deze library ziet er goed uit en kan ik berichten mee ontvangen en versturen. Toen ik het ben gaan implementeren ben ik erachter gekomen dat mijn structuur niet Generic genoeg was. Dit zal moeten veranderen; meer hier over in het kopje _Opnieuw designen_. De implementatie is straight forward, je maakt een app aan bij facebook, kopieert de `app secret`, `page access token` en je bedenkt een `validation token`. Hiermee maak je een instantie van een `Messenger` object en kan je mee interacten.
+Ik ben aan de slag gegaan met Facebook integratie. Er is een package available genaamd [messenger4j/messenger4j](https://github.com/messenger4j/messenger4j). Deze library ziet er goed uit en kan ik berichten mee ontvangen en versturen. Toen ik het ben gaan implementeren ben ik erachter gekomen dat mijn structuur niet Generic genoeg was. Dit zal moeten veranderen; meer hier over in het kopje _Opnieuw designen_. De implementatie is straight forward, je maakt een app aan bij facebook, kopieert de `app secret`, `page access token` en je bedenkt een `validation token`. Hiermee maak je een instantie van een `Messenger` object en kan je mee interacteren.
 
 Er is ook een [voorbeeld](https://github.com/messenger4j/messenger4j-spring-boot-quickstart-template) beschikbaar met Spring. Hier heb ik ook naar gekeken voor een head-start.
 
 ### Opnieuw desginen
 
-Wat ik merkte met de facebook integratie is dat het niet abstract genoeg was. Ik had met de implementatie van Slack wel rekening gehouden met het generiek opzetten maar dit kon beter, beter gezegd: **dit moest beter**. Ik ben gaan na denken en heb gediscussieerd met Tom Vervoort, dit is een collega die bij mij op de kamer zat. Ik heb uitgeschetst wat ik in gedachte had en Tom vond dit goed. We hebben wel zitten stoeien over de benamingen. Als een bericht binnen komt van een 3rd-party service hebben we dit een `RemoteMessage` genoemd en als de lokale id's van die service omgezet zijn naar publieke id's (emails) is het een `GlobalMessage`.
+Wat ik merkte met de facebook integratie is dat het niet abstract genoeg was. Ik had met de implementatie van Slack wel rekening gehouden met het generiek opzetten maar dit kon beter, beter gezegd: **dit moest beter**. Ik ben gaan na denken en heb gediscussieerd met Tom Vervoort, dit is een collega die bij mij op de kamer zat. Ik heb uitgeschetst wat ik in gedachte had en Tom vond dit goed. We hebben wel zitten stoeien over de benamingen. Als een bericht binnen komt van een 3rd-party service hebben we dit een `RemoteMessage` genoemd en als de lokale id's van die service omgezet zijn naar publieke id's (e-mails) is het een `GlobalMessage`.
 
 De flow hoe het nu gaat is
 
@@ -851,7 +849,7 @@ De flow hoe het nu gaat is
 
 - CommandProccessor
 
-  Deze kijkt naar alle gerigistreerde commando's en kijkt of er een matcht met het binnengekomen bericht. Zo ja, haal de context op van de `Service` en `invoke` de command.
+  Deze kijkt naar alle geregistreerde commando's en kijkt of er een matcht met het binnengekomen bericht. Zo ja, haal de context op van de `Service` en `invoke` de command.
 
 - Command
 
@@ -863,12 +861,12 @@ De flow hoe het nu gaat is
 
 ### Gesprek met Benny
 
-Nu we weer een week verder zijn is het weer onze wekelijkse meeting. Hierin hebben we besproken wat ik afgelopen week heb gedaan. Dit was hetvolgende:
+Nu we weer een week verder zijn is het weer onze wekelijkse meeting. Hierin hebben we besproken wat ik afgelopen week heb gedaan. Dit was het volgende:
 
 - Wat ik met Tom Vervoort heb besproken over het design van het systeem.
 - Configuratie beheer van de applicatie (`application.properties`)
 - API beveiligen
-- Nieuwe commando implimentaties
+- Nieuwe commando implementaties
   - List spendings
   - Echo
 - Implementeren van CosmosDB
@@ -895,7 +893,7 @@ Zoals je ziet heet de bot BBB**v3**, dit kwam omdat ik de instellingen niet goed
 
 > Ik begin ziek te worden.. Bijna niet geslapen vannacht en ibuprofen gehaald bij de aptoheek (hier hebben ze dat alleen in apotheken..)
 
-Ik ben aan de slag gegaan met het mention systeen. Hier is echter niet veel informatie over te vinden in de facebook developer docs. De enige informatie die ik heb gevonden is [hier](https://developers.facebook.com/docs/workplace/integrations/custom-integrations/bots/). Hier wordt heel kort het volgende gezegd.
+Ik ben aan de slag gegaan met het mention systeem. Hier is echter niet veel informatie over te vinden in de facebook developer docs. De enige informatie die ik heb gevonden is [hier](https://developers.facebook.com/docs/workplace/integrations/custom-integrations/bots/). Hier wordt heel kort het volgende gezegd.
 
 > `Bots can also @mention people to get their attention, and be @mentioned to kick off a specific workflow or ask a question.`
 
@@ -909,11 +907,11 @@ summary += `@[${recipient}] has received ${recipient_thanks_received} thanks in 
 
 Echter krijg ik dit niet werkend, ik heb het getest met de recipient id, user id, volledige gebruikersnaam, met `[]` en niks werkt.. Ik weet niet goed hoe ik dit op moet lossen.
 
-De slack formatter kan wel mentions goed formatten waardoor ze clickable zijn.
+De Slack formatter kan wel mentions goed formatten waardoor ze clickable zijn.
 
 ### Ziek naar huis gegaan
 
-Ik ben om rond 1u ziek naar huis gegaan, ik wou nog langer blijven omdat ik een gesprek had ingepland met Ilse (process begeleider). We hebben ze afspraak verzet naar morgen en dat was geen probleem verder.
+Ik ben om rond 1u ziek naar huis gegaan, ik wou nog langer blijven omdat ik een gesprek had ingepland met Ilse (procesbegeleider). We hebben ze afspraak verzet naar morgen en dat was geen probleem verder.
 
 ## Dag 14, 20-9-2018
 
@@ -921,9 +919,9 @@ Ik ben om rond 1u ziek naar huis gegaan, ik wou nog langer blijven omdat ik een 
 
 ### CI/CD
 
-IK ben bezig geweest met het builden en deploymen van mijn applicatie. Azure DevOps heeft hier ingebouwde ondersteuning voor. Ik had niet de juiste rechten dus had even contact op genomen met Benny, die had dit meteen gefixt!
+IK ben bezig geweest met het builden en deployen van mijn applicatie. Azure DevOps heeft hier ingebouwde ondersteuning voor. Ik had niet de juiste rechten dus had even contact op genomen met Benny, die had dit meteen gefixt!
 
-Nu heb ik een volledige build pipeline alleen de deployment lukt nog niet helemaal. Zoals jullie waarschijn kunnen zien aan de commit tijd is het al laat genoeg en moet ik het gewoon met rust laten en morgen verder, en dat is wat ik ga doen! Er volgt morgen een update over de deployment, als dit werkt dan is mijn volledige CI/CD klaar.
+Nu heb ik een volledige build pipeline alleen de deployment lukt nog niet helemaal. Zoals jullie waarschijnlijk kunnen zien aan de commit tijd is het al laat genoeg en moet ik het gewoon met rust laten en morgen verder, en dat is wat ik ga doen! Er volgt morgen een update over de deployment, als dit werkt dan is mijn volledige CI/CD klaar.
 
 ### Gesprek met Ilse
 
@@ -935,9 +933,9 @@ Het gesprek met Ilse was heel gezellig. We hebben het over de stage gehad, hoe h
 
 ### CI/CD, the next day
 
-Oke, CI/CD is niet helemaal mijn ding; daar ben ik gewoon eerlijk in. De build pipeline opzetten was echt ongelofelijk makkelijk. Maar het deployen.. Man man man, wat een drama! Of ik ben gewoon te stom om het te begrijpen of ze doen toch echt iets mis bij Microsoft op het kantoor.
+Oké, CI/CD is niet helemaal mijn ding; daar ben ik gewoon eerlijk in. De build pipeline opzetten was echt ongelofelijk makkelijk. Maar het deployen.. Man man man, wat een drama! Of ik ben gewoon te stom om het te begrijpen of ze doen toch echt iets mis bij Microsoft op het kantoor.
 
-Ik heb contact opgenomen met Benny en [verchillende](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-java) [tutorials](https://docs.microsoft.com/en-us/azure/app-service/web-sites-java-add-app) gelezen maar het werkte allemaal niet. Na de benny-hulplijn te activeren is het gelukt. Het deployen is gelukt maar het opvragen van dingen werkt nog niet. Ik ben dit nu nog verder aan het onderzoeken.
+Ik heb contact opgenomen met Benny en [verchillende](https://docs.microsoft.com/en-us/azure/app-service/app-service-web-get-started-java) [tutorials](https://docs.microsoft.com/en-us/azure/app-service/web-sites-java-add-app) gelezen maar het werkte allemaal niet. Na de Benny-hulplijn te activeren is het gelukt. Het deployen is gelukt maar het opvragen van dingen werkt nog niet. Ik ben dit nu nog verder aan het onderzoeken.
 
 ![Screenshot van de build agent](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_agent_log.png "Screenshot van de build agent")
 
@@ -957,7 +955,7 @@ Alright, het deployen ging maar er ging toch wat fout. Bij het deployen zou de `
 
 Na zoeken en proberen van de logs in te lezen kwam ik tot de conclusie de resource te verwijderen van de Azure cloud. Eenmaal verwijderd heb ik een nieuwe aangemaakt, een WebApp met runtime Tomcat 9.0.
 
-Toen de resource was gedeployed heb ik een nieuw leeg project gemaakt met alleen web en actuator. Dit project had ik de packaging ook op war gezet. Tot mijn verbasing had mijn nieuwe project een bestand wat ik nog nooit had gezien; ik had altijd jar packaging. De `ServletInitializer`! Is dit het missende stukje? Ik heb een aparte repo,build- en releasepipeline aangemaakt voor dit demo project. Eenmaal gedeployed en gereleased werkte het! Wel met de naam van de war file in de url. De url zag er als volgt uit: [https://bbb-api.azurewebsites.net/demo-0.0.1-SNAPSHOT/actuator/health](https://bbb-api.azurewebsites.net/demo-0.0.1-SNAPSHOT/actuator/health)
+Toen de resource was gedeployed heb ik een nieuw leeg project gemaakt met alleen web en actuator. Dit project had ik de packaging ook op war gezet. Tot mijn verbazing had mijn nieuwe project een bestand wat ik nog nooit had gezien; ik had altijd jar packaging. De `ServletInitializer`! Is dit het missende stukje? Ik heb een aparte repo, build- en releasepipeline aangemaakt voor dit demo project. Eenmaal gedeployed en gereleased werkte het! Wel met de naam van de war file in de url. De url zag er als volgt uit: [https://bbb-api.azurewebsites.net/demo-0.0.1-SNAPSHOT/actuator/health](https://bbb-api.azurewebsites.net/demo-0.0.1-SNAPSHOT/actuator/health)
 
 ```kotlin
 import org.springframework.boot.builder.SpringApplicationBuilder
@@ -972,7 +970,7 @@ class ServletInitializer : SpringBootServletInitializer() {
 }
 ```
 
-Toen dit werkte heb ik dit toegevoegd aan mijn hoofdproject en gedeployed. En het werkte niet! Elk pad wat ik porbeerde kreeg ik de text "Hello" terug. Toen bedacht ik mezelf dat komt door mijn demo project! Daar had ik een hello controller in die gewoon tekst terug stuurde. De map `demo-0.0.1-SNAPSHOT` verwijderd in de `wepapps` en nogmaals geprobeerd en het werkte.
+Toen dit werkte heb ik dit toegevoegd aan mijn hoofdproject en gedeployed. En het werkte niet! Elk pad wat ik probeerde kreeg ik de text "Hello" terug. Toen bedacht ik mezelf dat komt door mijn demo project! Daar had ik een hello controller in die gewoon tekst terug stuurde. De map `demo-0.0.1-SNAPSHOT` verwijderd in de `wepapps` en nogmaals geprobeerd en het werkte.
 
 Nu is de url [https://bbb-api.azurewebsites.net/bbb-api-1.0.0/actuator/health](https://bbb-api.azurewebsites.net/bbb-api-1.0.0/actuator/health) en geeft de status `UP`
 
@@ -1030,7 +1028,7 @@ Je hebt 2 verschillende stylen van PoS, `chain-based proof of stake` en `BFT-sty
 
 ##### Chain-based proof of stake
 
-Het algorithme selecteert pseudo-random een validator gedurende elk tijdslot (bijvoorbeeld 10 seconden), en wijst de validator naar het vorige block (meestal die de langste chain heeft), en zo wordt de chain steeds langer.
+Het algoritme selecteert pseudo-random een validator gedurende elk tijdslot (bijvoorbeeld 10 seconden), en wijst de validator naar het vorige block (meestal die de langste chain heeft), en zo wordt de chain steeds langer.
 
 ##### BFT-style proof of stake
 
@@ -1044,7 +1042,7 @@ Validators krijgen willekeurig het recht om blocks voor te stellen, maar overeen
 
 - Gebaseerd op Proof of Stake
 
-Dit systeem is een soort "verbeterde" versie van PoS. Inplaats van een stake van tokens is de stake de identiteit. De indentiteit wordt ingezet door een groep validators die vooraf goedgekeurd zijn. De groep validators is dan de enige groep die verantwoordelijk is voor het valideren van transacties en blocks binnen het netwerk.
+Dit systeem is een soort "verbeterde" versie van PoS. In plaats van een stake van tokens is de stake de identiteit. De indentiteit wordt ingezet door een groep validators die vooraf goedgekeurd zijn. De groep validators is dan de enige groep die verantwoordelijk is voor het valideren van transacties en blocks binnen het netwerk.
 
 ## Deployen van Ethereum Proof-of-Authority Consortium
 
@@ -1092,14 +1090,14 @@ Ik heb aan het systeem beheer gevraagd of ze poort `3001` & `8540` willen open z
 
 ### Thuiswerken
 
-Omdat het niet werkte op het werk en ik na enige tijd nog geen reactie had van systeem beheer ben ik na goedkeuring thuis gaan werken. Hier kon ik de blockchain testen. Het eerste waar ik tegenaanliep was dat het account wat ik probeerde te gebruiken geen ETH had, dit moet ik oplossen. Dit betekende wel dat mijn applicatie nu verbinding had met de gedeployde blockchain!
+Omdat het niet werkte op het werk en ik na enige tijd nog geen reactie had van systeem beheer ben ik na goedkeuring thuis gaan werken. Hier kon ik de blockchain testen. Het eerste waar ik tegen aanliep was dat het account wat ik probeerde te gebruiken geen ETH had, dit moet ik oplossen. Dit betekende wel dat mijn applicatie nu verbinding had met de gedeployde blockchain!
 
 ```log
 Formatted: {text=Whoops, couldn't deploy contract..
 `java.lang.RuntimeException: java.lang.RuntimeException: Error processing transaction request: Insufficient funds. The account you tried to send transaction from does not have enough funds. Required 13443950000000000 and got: 0.`}
 ```
 
-Ik kon zo 1 2 3 niet vinden hoe ik credits toe moest voegen, in [deze guide](https://www.c-sharpcorner.com/article/setting-up-ethereum-blockchain-on-azure/) wordt er verwezen naar de admin pagina maar die is upgedated. Dit moet ik nog verder gaan uitzoeken.
+Ik kon zo 1 2 3 niet vinden hoe ik credits toe moest voegen, in [deze guide](https://www.c-sharpcorner.com/article/setting-up-ethereum-blockchain-on-azure/) wordt er verwezen naar de admin pagina maar die is geüpdatet. Dit moet ik nog verder gaan uitzoeken.
 
 ### Feedback PvA Fontys
 
@@ -1115,13 +1113,13 @@ Ik heb een concept versie opgeleverd aan Bartosz en ben nu aan het wachten op fe
 
 ## Dag 19, 27-9-2018
 
-### Gesprek met Benny via slack
+### Gesprek met Benny via Slack
 
 We hadden de afspraak van dinsdag verzet naar donderdag op Benny's verzoek. We hebben dit via Slack call gedaan, dit was goed te doen. Ik heb mijn scherm gedeeld zodat ik dingen kon laten zien en hebben zo afgelopen anderhalve week besproken. We hebben de planning van aankomende week ook in Azure DevOps gezet. Ik had dit niet goed gedaan de vorige keer dus nu hebben we het samen gedaan.
 
 ![Screenshot sprint dashboard](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_dashboard_wk5.png "Screenshot sprint dashboard")
 
-Zoals je zit in het screenshot hierboven zie je dat de rest van deze week (4 dagen) vooral het documenteren van belong is. Zoals gelezen ben ik de vorige dag begonnen aan mijn PID, hier ben ik vandaag verder aan gegaan.
+Zoals je zit in het screenshot hierboven zie je dat de rest van deze week (4 dagen) vooral het documenteren van belang is. Zoals gelezen ben ik de vorige dag begonnen aan mijn PID, hier ben ik vandaag verder aan gegaan.
 
 Morgen heb ik om 12u een lunch met Benny en dan zie ik hem, hier heb ik wel zin in!
 
@@ -1129,15 +1127,15 @@ Morgen heb ik om 12u een lunch met Benny en dan zie ik hem, hier heb ik wel zin 
 
 ### Begin van de dag
 
-Ik ben nog vrder gegaan met mijn PID en heb deze ingeleverd op Canvas. Ik heb Bartosz een mailtje gestuurd met de vraag of die z.s.m. feedback kan geven zodat ik dit kan verwerken. Toen heb ik met Benny gesproken via Slack om te vragen of het Dashbaord goed ingericht was, dit kon beter.
+Ik ben nog verder gegaan met mijn PID en heb deze ingeleverd op Canvas. Ik heb Bartosz een mailtje gestuurd met de vraag of die z.s.m. feedback kan geven zodat ik dit kan verwerken. Toen heb ik met Benny gesproken via Slack om te vragen of het Dashboard goed ingericht was, dit kon beter.
 
 ![Screenshot algemeen dashboard](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_ingericht_dashboard.png "Screenshot algemeen dashboard")
 
-Vanuit Benny was de vraag naar een diagram, om de structuur te verduidelijke en linkjes zodat die alles terug kon vinden. Hier heb ik vandaag werk van gemaakt. Ook heb ik linkjes toegevoegd voor Swagger, deze moet ik echter nog wel implementeren.
+Vanuit Benny was de vraag naar een diagram, om de structuur te verduidelijken en linkjes zodat die alles terug kon vinden. Hier heb ik vandaag werk van gemaakt. Ook heb ik linkjes toegevoegd voor Swagger, deze moet ik echter nog wel implementeren.
 
 ### Lunch
 
-Vandaag had ik een lunch, met Tim Vermeulen (Manager), Tim Mahy (Manager), Benny (die kennen jullie ondertussen) en Mathias (Stagair). Dit was een interessante lunch, we hebben het gehad over de toekomst van ICT, welke technieken we aanraden als jonge ICTers en natuurlijk over onze stage opdrachten. We hebben ook gegeten natuurlijk! Ik heb een typisch vlaams gerecht op genaamd Vol-au-vent. Dit was zeer lekker. We hebben hier ruim een uur gekletst en dit was een leuke ervaring.
+Vandaag had ik een lunch, met Tim Vermeulen (Manager), Tim Mahy (Manager), Benny (die kennen jullie ondertussen) en Mathias (Stagiair). Dit was een interessante lunch, we hebben het gehad over de toekomst van ICT, welke technieken we aanraden als jonge ICTers en natuurlijk over onze stage opdrachten. We hebben ook gegeten natuurlijk! Ik heb een typisch Vlaams gerecht op genaamd Vol-au-vent. Dit was zeer lekker. We hebben hier ruim een uur gekletst en dit was een leuke ervaring.
 
 De managers zijn heel nuchter, dat had ik de weken ervoor al gemerkt. Hier is geen bureaucratie van toepassing. Ook zijn ze grappig, de ene heeft een kindje en klinkt als een grappige papa.
 
@@ -1171,7 +1169,7 @@ Eenmaal aangepast heb ik dit gepushed en gedeployed en ben ik in de logs gaan ki
 
 ### Problemen met de database
 
-Als je al langer en aandachtig deze blog leest kan je je misschien herrineren dat ik problemen had met het inzien van de data van CosmosDB. Vandaag kwam ik er achter dat het inladen van de data te lang duurde, 15 seconde voor 8 documenten! Dit is te gek voor woorden. Dit moet opgelost worden.
+Als je al langer en aandachtig deze blog leest kan je je misschien herinneren dat ik problemen had met het inzien van de data van CosmosDB. Vandaag kwam ik er achter dat het inladen van de data te lang duurde, 15 seconde voor 8 documenten! Dit is te gek voor woorden. Dit moet opgelost worden.
 
 Hoe los ik dit probleem op? SQL Server i.p.v. ComosDB. In het begin draaide ik een lokale MySQL server om op te testen en deze werkte na behoren, ik zag dat Azure een SQL Server deployment had en ik dacht, laat ik dat is proberen.
 
@@ -1209,17 +1207,17 @@ Al met al betekend dit eigenlijk een nieuwe structuur en manier van afhandelen v
 
 ### Talk in Amsterdam
 
-Ik ben 's middags vertrokken naar Amsterdam. Hier had ik een talk van NLHTML5. Dit waren een drietal sprekers. De meeting was volledig in het engels omdat er veel internationale mensen waren. Het publiek kwam uit Portugal, Spanje, Italie, Brazilie en nog een paar landen.
+Ik ben 's middags vertrokken naar Amsterdam. Hier had ik een talk van NLHTML5. Dit waren een drietal sprekers. De meeting was volledig in het Engels omdat er veel internationale mensen waren. Het publiek kwam uit Portugal, Spanje, Italië, Brazilië en nog een paar landen.
 
 - Go voor de frontend - United Kingdom
 
-  Hier was ik op papier het meest enthousiast over, ik dacht dit gaat over Go naar WASM te compilen. Echter bleek dit niet het onderwerp te zijn. Het onderwerp van Gopherjs, dit is een library die Javascript kan wrappen. Hoe het er uit ziet? Lelijk in my opinion. Het leek me op geen enkele manier een eenvoudige oplossing of bruikbaar voor productie.
+  Hier was ik op papier het meest enthousiast over, ik dacht dit gaat over Go naar WASM te compileren. Echter bleek dit niet het onderwerp te zijn. Het onderwerp van Gopherjs, dit is een library die Javascript kan wrappen. Hoe het er uit ziet? Lelijk in my opinion. Het leek me op geen enkele manier een eenvoudige oplossing of bruikbaar voor productie.
 
   De Go compiler heeft sinds augustus ondersteuning om direct naar WASM te compilen, dit is echter nog in een vroege stage. Omdat het zo nieuw is, is de grootte nog enorm in front-end termen.
 
 - Accessible animations - Australia
 
-  Dit was een spreker die bij ABC nieuws had gewerkt in Australie. Die kwam eigenlijk met een punt waar niemand over na denkt, tenminste ik niet. Gebruikers die gevoelig zijn voor epileptische aanvallen hadden problemen met het automatisch afspelen van GIFs. Hier heeft die informatie over gegeven en was wel een interessant onderwerp. Ook over wat Apple allemaal doet omtrent deze problemen.
+  Dit was een spreker die bij ABC nieuws had gewerkt in Australië. Die kwam eigenlijk met een punt waar niemand over na denkt, tenminste ik niet. Gebruikers die gevoelig zijn voor epileptische aanvallen hadden problemen met het automatisch afspelen van GIFs. Hier heeft die informatie over gegeven en was wel een interessant onderwerp. Ook over wat Apple allemaal doet omtrent deze problemen.
 
 - XR in de browser - Netherlands
 
@@ -1229,7 +1227,7 @@ Ik ben 's middags vertrokken naar Amsterdam. Hier had ik een talk van NLHTML5. D
 
 ### Token implementatie
 
-Ik ben vandaag begonnen met het implementeren van token-based systeem. In plaats van een thread/process/iets hebben wat wacht op een response van de blockchain ga ik dit nu anders aanpakken. Als je een functie aanroept op de blockchain krijg je een `txhash`, dit is eigenlijk het adres van de transactie. Deze kan je dus opvragen bij de blockchain en kijken of die bestaat. Als die bestaat is die gemined en gevalideerd en is die afgehandeld. Meer informatie is [hier](https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e) te vinden over de life cycle van een transactie.
+Ik ben vandaag begonnen met het implementeren van token-based systeem. In plaats van een thread/proces/iets hebben wat wacht op een response van de blockchain ga ik dit nu anders aanpakken. Als je een functie aanroept op de blockchain krijg je een `txhash`, dit is eigenlijk het adres van de transactie. Deze kan je dus opvragen bij de blockchain en kijken of die bestaat. Als die bestaat is die gemined en gevalideerd en is die afgehandeld. Meer informatie is [hier](https://medium.com/blockchannel/life-cycle-of-an-ethereum-transaction-e5c66bae0f6e) te vinden over de life cycle van een transactie.
 
 De default implementatie van web3j is dat web3j het voor je doet pollen en je dus laat wachten. Dit wil ik dus **niet**, ik wil dit zelf doen zodat ik er een database laag tussen kan bouwen. Dan met een zelf geschreven `QuartzJob` gaan pollen en verwerken.
 
@@ -1309,7 +1307,7 @@ Zoals je ziet zit hier dus de `BaseContext` in, runtime kan gecontroleerd worden
 
 ### ISKA
 
-Deze ISKA ging over AddIns, ik had hier nog nooit van gehoord. Dat is eigenlijk het systeem wat chrome gebruikt, elke tab is zijn eigen process in een host process. Als er 1 tab crasht, doet de rest het wel nog gewoon. Dit concept hebben ze dus toegevoegd aan een project van hun. Dit werkte met verschillende entiteiten die dingen konden doen. Om deze onafhankelijk van elkaar te kunnen ontwikkelen was dit een oplossing. Je had alleen een interface nodig waar een `GetUI()` functie in zat die dus de daadwerkelijk UI terug gaf. Dan deed het host process dat regelen dat het te zien was.
+Deze ISKA ging over AddIns, ik had hier nog nooit van gehoord. Dat is eigenlijk het systeem wat Chrome gebruikt, elke tab is zijn eigen proces in een host proces. Als er 1 tab crasht, doet de rest het wel nog gewoon. Dit concept hebben ze dus toegevoegd aan een project van hun. Dit werkte met verschillende entiteiten die dingen konden doen. Om deze onafhankelijk van elkaar te kunnen ontwikkelen was dit een oplossing. Je had alleen een interface nodig waar een `GetUI()` functie in zat die dus de daadwerkelijk UI terug gaf. Dan deed het host process dat regelen dat het te zien was.
 
 Het team wat hier op zat had dit nodig, i.p.v. allemaal aparte backends zal er nu 1 overkoepelende backend zijn. Dit was een requirement die gesteld werd waardoor ze dus de fundamenten van de applicatie moesten veranderen. Het was een leerzame talk omdat ik hier dus niks vanaf wist. Ik denk alleen dat ik het niet zelf zou gebruiken, het is echt een oplossing voor een probleem waar ik zelf niet snel tegenaan zal lopen. Toch is dit ook een mooie manier om een plugin systeem te maken, Windows Media Player gebruikt deze manier ook.
 
@@ -1344,7 +1342,7 @@ for(bonusGivenEvent in bonuses) {
 
 Normaliter zou ik vandaag weer een gesprek hebben met Benny, hij vroeg echter of dit donderdag kon zodat die met zijn project door kon werken. Dit was geen probleem van mij. De sprint verliep wel en heb een nieuwe planning gemaakt voor aankomende week.
 
-Ik ben weer bezig geweest met de architectuur, het voelde nog niet helemaal goed. Ik heb hier zelf naar zitten staren en dingen nog hernoemd, voor duidelijkheid. Het bedenken van namen was echter best lastig. Ik heb met een mede stagiair Mathias door mijn code heen gelopen. Omdat het zo complex was raakte hij mij vaak kwijt en voelde het nog niet helemaal goed. 'S avonds na het eten heb ik met een vriend ([@Joelluijmes](https://github.com/joelluijmes)) nog eens door de code heen gekeken. We hebeen een basic idee gemaakt in C#, zie [architectuur.playground.cs](https://github.com/zwolsman/g-log/blob/master/architectuur.playground.cs). Dit principe had ik ook al in Kotlin, we zijn het er alleen overeens dat de benamingen die ik gebruikte heel verwarrend waren. Ik heb dus nieuwe benamingen gekozen. Ook heb ik het versturen van een response veranderd.
+Ik ben weer bezig geweest met de architectuur, het voelde nog niet helemaal goed. Ik heb hier zelf naar zitten staren en dingen nog hernoemd, voor duidelijkheid. Het bedenken van namen was echter best lastig. Ik heb met een mede stagiair Mathias door mijn code heen gelopen. Omdat het zo complex was raakte hij mij vaak kwijt en voelde het nog niet helemaal goed. 's avonds na het eten heb ik met een vriend ([@Joelluijmes](https://github.com/joelluijmes)) nog eens door de code heen gekeken. We hebeen een basic idee gemaakt in C#, zie [architectuur.playground.cs](https://github.com/zwolsman/g-log/blob/master/architectuur.playground.cs). Dit principe had ik ook al in Kotlin, we zijn het er alleen over eens dat de benamingen die ik gebruikte heel verwarrend waren. Ik heb dus nieuwe benamingen gekozen. Ook heb ik het versturen van een response veranderd.
 
 Voor het versturen van een response is er nu een apart type, een `ServiceResponder<T : ServiceProperties>`. Er zal een per type chat service een implementatie voor zijn. Voor Slack ziet die er als volgt uit.
 
@@ -1361,7 +1359,7 @@ class SlackServiceResponder(private val formatter: SlackFormatter) : ServiceResp
 }
 ```
 
-Hier zie je dat de SlackFormatter gebruikt wordt en deze de response format. Eenmaal geformateerd wordt de Slack Property `responseUrl` gebruikt voor het versturen van het berichtje. Dit is een strongly typed implementatie die gebruikt kan worden voor dependency injection.
+Hier zie je dat de SlackFormatter gebruikt wordt en deze de response format. Eenmaal geformatteerd wordt de Slack Property `responseUrl` gebruikt voor het versturen van het berichtje. Dit is een strongly typed implementatie die gebruikt kan worden voor dependency injection.
 
 ![Architectuur v2](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_architectuur_v2.png "Architectuur v2")
 
@@ -1389,7 +1387,7 @@ Na het _opnieuw_ herschrijven van mijn architectuur ben ik naar Tim gegaan. De v
 
 - Open/closed principle
 
-  Zoals je ziet zijn er 3 `Command` subclasses, deze zijn specifieke implemenrtaties van een commando.
+  Zoals je ziet zijn er 3 `Command` subclasses, deze zijn specifieke implementaties van een commando.
 
 - Liskov substitution principle
 
@@ -1397,35 +1395,35 @@ Na het _opnieuw_ herschrijven van mijn architectuur ben ik naar Tim gegaan. De v
 
 - Interface segregation principle
 
-  Je ziet dat er gebruik gemaakt wordt van 3 interfaces, deze zijn allemaal voor 1 functionaliteit ipv 1 grote. De `ServiceProperties` kon ook de `ServiceResponder` zijn maar hier is expres niet voor gekozen.
+  Je ziet dat er gebruik gemaakt wordt van 3 interfaces, deze zijn allemaal voor 1 functionaliteit i.p.v. 1 grote. De `ServiceProperties` kon ook de `ServiceResponder` zijn maar hier is expres niet voor gekozen.
 
 - Dependency inversion principle
 
-  De `Command` wordt geinvoked met een `CommandContext` in deze context zit een `ServiceResponder` en `IdService`. Dit zijn geen speicifkee implementaties maar worden wel gevuld met de specifieke implementatie door de `CommandHandler`.
+  De `Command` wordt geïnvoked met een `CommandContext` in deze context zit een `ServiceResponder` en `IdService`. Dit zijn geen speicifkee implementaties maar worden wel gevuld met de specifieke implementatie door de `CommandHandler`.
 
 ![Architectuur v3 implementatie](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_architectuur_v3_impl.jpeg "Architectuur v3 implementatie")
 
 ### Feedback Tim Mahy
 
-Nou, spannend! Ik ga feedback krijgen van een van de managers die al vele jaren ervaring heeft. Na het gesprek tijdens de lunch vrijdag was ik heel benieuwd wat hij er van zou vinden. Voor mijn gevoel heb ik het beste ontwerp tot nu toe en is het nogal geevalueerd na deze iteraties. Door mijn eigen kritische blik was ik wel zelfverzekerd dat het niet fout kon gaan.
+Nou, spannend! Ik ga feedback krijgen van een van de managers die al vele jaren ervaring heeft. Na het gesprek tijdens de lunch vrijdag was ik heel benieuwd wat hij er van zou vinden. Voor mijn gevoel heb ik het beste ontwerp tot nu toe en is het nogal geëvalueerd na deze iteraties. Door mijn eigen kritische blik was ik wel zelfverzekerd dat het niet fout kon gaan.
 
-Na hem mijn code base te hebben laten zien en het te hebben besproken was die zeer positief. Hij vond dat ik het netjes had geimplementeerd en het enige wat die gek vond was hoe ik de REST implementatie aan het doen was, daar was ik het mee eens. Mijn architectuur is alsnog zo ontworpen om op een asynchrone manier te reageren op berichten (met de `ServiceReponder`) en met REST kon dit niet. Hoe ik dit oploste? Bij de aanvrag van een REST request geneerde ik een uniek ID. Deze sloeg ik dan op in de `RestEntity` en kwam zo in de database. Dan in de `RestResponder` had ik contact met de database ipv met een service. Dan kon daarna iemand de verwerkte bonus ophalen door het id van de request te gebruiken. Dit voelde inderdaad een beetje gek.
+Na hem mijn code base te hebben laten zien en het te hebben besproken was die zeer positief. Hij vond dat ik het netjes had geïmplementeerd en het enige wat die gek vond was hoe ik de REST implementatie aan het doen was, daar was ik het mee eens. Mijn architectuur is alsnog zo ontworpen om op een asynchrone manier te reageren op berichten (met de `ServiceReponder`) en met REST kon dit niet. Hoe ik dit oploste? Bij de aanvraag van een REST request geneerde ik een uniek ID. Deze sloeg ik dan op in de `RestEntity` en kwam zo in de database. Dan in de `RestResponder` had ik contact met de database i.p.v. met een service. Dan kon daarna iemand de verwerkte bonus ophalen door het id van de request te gebruiken. Dit voelde inderdaad een beetje gek.
 
-Ik was benieuwd, wat heeft Tim dan voor suggesties. Hieronder zie je onze tekeningen op het whiteboard. Rechts onder was mijn huidige situaties, alles in laagjes en de afspraken vast in interfaces. Elke service moest zich aan die afspraken houden. Links daarvan die je het geheel. Hier heb je 1 groot blokje, dat is de applicatie en daarin zie je verschillende blokjes; die staan voor Rest, Slack, Facebook etc. Ik behandel Rest als een vorm van communicatie netzo als dat ik Slack en Facebook behandelde. Dit is niet verkeerd maar dus ook niet ideaal.
+Ik was benieuwd, wat heeft Tim dan voor suggesties. Hieronder zie je onze tekeningen op het whiteboard. Rechts onder was mijn huidige situaties, alles in laagjes en de afspraken vast in interfaces. Elke service moest zich aan die afspraken houden. Links daarvan die je het geheel. Hier heb je 1 groot blokje, dat is de applicatie en daarin zie je verschillende blokjes; die staan voor Rest, Slack, Facebook etc. Ik behandel Rest als een vorm van communicatie net zo als dat ik Slack en Facebook behandelde. Dit is niet verkeerd maar dus ook niet ideaal.
 
 Als je daar boven kijkt zie je veel gekrabbel, als je goed kijkt zie je een vierkantje met REST staan. Dit is het core project, hier zitten geen blokjes in maar op. Elk blokje is een service. Die service is helemaal verantwoordelijk voor het omvormen van id's, het handelen van dingen opslaan (als dat nodig is) etc. etc. Door deze manier is rest eigenlijk een projectje WEB, en is elke andere implementatie zijn eigen projectje. Helemaal onafhankelijk van elkaar. Dit had voordelen, waarom? Je hoeft niet alle interfaces te implementeren, je hebt je afspraken in REST vorm i.p.v. interface vorm. Dit betekend dat je elke programmeertaal kan gebruiken voor elke implementatie die je wil. Ook heb je hierdoor een core project die verantwoordelijk is voor de interactie met blockchain. Niet meer en niet minder. Ook heeft dit het voordeel in het idee van webhooks.
 
-Als je een bonus aanvraagt duurt dit even. Hoe handel je dit af? Je vraagt een bonus aan en je geeft een `responseUrl`. Deze refereerd naar je eigen projectje zodat het core project daar een `POST` naar kan doen met de bonus zodra die gecreerd is. In deze response url kan je dus ook nog extra query parameters mee geven. Zo kan de implementatie van Facebook een `threadId=xxx` mee geven en Slack een `shi=xxx/xxx`. De core slaat de hash van een transactie samen met de response url op, zo heeft de database geen `NULL` values en is dit ook helemaal netjes. Als een transactie gelukt is en geverifieerd door het core project wordt er dus een `POST` gedaan naar de opgegeven url en krijg bijvoorbeeld de Slack implementatie die binnen, deze implementatie is dan verantwoordelijk wat die er mee doet. In dit geval dus, formateren en door sturen naar Slack! Ik vond dit een heel mooi concept en ben hier over na gaan denken. Dit moest ik natuurlijk wel bespreken met Benny want dit veranderd de applicatie weer fundamenteel. Ik spreek Benny morgen dus dan ga ik dit is voorstellen.
+Als je een bonus aanvraagt duurt dit even. Hoe handel je dit af? Je vraagt een bonus aan en je geeft een `responseUrl`. Deze refereert naar je eigen projectje zodat het core project daar een `POST` naar kan doen met de bonus zodra die gecreëerd is. In deze response url kan je dus ook nog extra query parameters mee geven. Zo kan de implementatie van Facebook een `threadId=xxx` mee geven en Slack een `shi=xxx/xxx`. De core slaat de hash van een transactie samen met de response url op, zo heeft de database geen `NULL` values en is dit ook helemaal netjes. Als een transactie gelukt is en geverifieerd door het core project wordt er dus een `POST` gedaan naar de opgegeven url en krijg bijvoorbeeld de Slack implementatie die binnen, deze implementatie is dan verantwoordelijk wat die er mee doet. In dit geval dus, formateren en door sturen naar Slack! Ik vond dit een heel mooi concept en ben hier over na gaan denken. Dit moest ik natuurlijk wel bespreken met Benny want dit veranderd de applicatie weer fundamenteel. Ik spreek Benny morgen dus dan ga ik dit is voorstellen.
 
 ![Whiteboard met Tim](https://raw.githubusercontent.com/zwolsman/g-log/master/img/IMG_5516.jpg "Whiteboard met Tim")
 
 ## Dag 28, 11-10-2018
 
-Het gesprek met Benny is vandaag. Dit was verzet van dinsdag naar donderdag omdat dat beter uitkwam. Ik was dinsdag wel al begonnen met de nieuwe sprint. Na de feedback van Tim Mahy gister heb ik een paar agenda punte voorbereid en wil ik het voorstel doen om een microservice architectuur te gaan gebruiken.
+Het gesprek met Benny is vandaag. Dit was verzet van dinsdag naar donderdag omdat dat beter uitkwam. Ik was dinsdag wel al begonnen met de nieuwe sprint. Na de feedback van Tim Mahy gister heb ik een paar agenda punten voorbereid en wil ik het voorstel doen om een microservice architectuur te gaan gebruiken.
 
 Eenmaal in de Slack call met Benny hebben we het doorgesproken. Ik ben door de huidige architectuur heen gelopen en heb uitgelegd wat er een beetje gek aanvoelde en waarom. Dit heb ik hierboven ook beschreven. Toen heb ik het voorstel gedaan van een microservice architectuur en de voordelen besproken. Hier was Benny wel voor in op de voorwaarde dat ik het lean opzette.
 
-Het is een beetje onzin om elk project in zijn eigen repository, build- en deploypipeline + project te doen als er maar 1 ontwikkelaar (ik) aan zit. Ik heb nu het project opgedeeld in verschillende packages: core, slack, web. De namen spreken voor zich. Voor nu heb ik ook in de root package een paar helper functies zitten in web & slack gebruiken. Dit hou ik wel minimaal zodat als het een apart project gaat worden er niet veel herschreven moet worden. Hieronder vind je een diagram met hoe de flow nu gaat.
+Het is een beetje onzin om elk project in zijn eigen repository, build- en deploypipeline + project te doen als er maar 1 ontwikkelaar (ik) aan zit. Ik heb nu het project opgedeeld in verschillende packages: core, Slack, web. De namen spreken voor zich. Voor nu heb ik ook in de root package een paar helper functies zitten in web & Slack gebruiken. Dit hou ik wel minimaal zodat als het een apart project gaat worden er niet veel herschreven moet worden. Hieronder vind je een diagram met hoe de flow nu gaat.
 
 ![Architectuur diagram v4](https://raw.githubusercontent.com/zwolsman/g-log/master/img/architectuur_v4_schets.png "Architectuur diagram v4")
 
@@ -1440,7 +1438,7 @@ data class TransactionEntry(val txHash: String, val responseUrl: String, @Enumer
 
 Er is nu dus 1 `CommandController`, een Rest Controller. Deze zit in het core project en heeft alle logica van een commando. De `GetMapping`s en `PostMapping`s komen hier in voor de commando's.
 
-De Slack implementatie is nu ook een stuk simpeler. Bij Slack is het belangrijk het omzetten van id's naar emails, hier wordt dan ook rekening mee gehouden. In de hoofdfunctie komt de slach command aan. Hier wordt die verwerkt en dan wordt er een daadwerkelijke functie aangeroepen. In de functie wordt er een URL opgebouwd waar de core op moet reageren. Deze url ziet er uit als volgt "TODO: Link slack url"
+De Slack implementatie is nu ook een stuk simpeler. Bij Slack is het belangrijk het omzetten van id's naar emails, hier wordt dan ook rekening mee gehouden. In de hoofdfunctie komt de slash command aan. Hier wordt die verwerkt en dan wordt er een daadwerkelijke functie aangeroepen. In de functie wordt er een URL opgebouwd waar de core op moet reageren. Deze url ziet er uit als volgt "TODO: Link slack url"
 
 ```kotlin
 val url = this.url(::bonusWebhook, params = mapOf("shi" to responseUrl.substringAfter(HOOKS_URL)))
@@ -1459,7 +1457,7 @@ GlobalScope.launch {
         }
 ```
 
-Dit is dus Slack specifiek. De `PostMapping` voor de bonus is waar de daadwerkeleijke bonus asynchroon binnen komt. Ook komt hier de query parameter binnen die mee gegeven wordt bij het creeren van de response url (de `shi`).
+Dit is dus Slack specifiek. De `PostMapping` voor de bonus is waar de daadwerkelijke bonus asynchroon binnen komt. Ook komt hier de query parameter binnen die mee gegeven wordt bij het creëren van de response url (de `shi`).
 
 ```kotlin
 @PostMapping("/bonus")
@@ -1480,7 +1478,7 @@ Als de bonus binnen komt post deze hem naar Slack en komt het berichtje binnen!
 
 Gister heb ik de proof of concept opgezet van hoe het gaat werken. Vandaag gaat de echte implementatie van Slack beginnen. De commando's bonus, spendings en lijst van bonussen moet nu werken.
 
-Voor de communicatie tussen de core en de applicaties gebruik ik Feign, dit is een Declarative REST Client. Door de functie namen en mappings te kopieren van de core en in een interface te zetten kan ik die gebruiken bij andere controllers. Hier kan je mee geven wat de request params zijn en wat er terug gegeven wordt. Door Spring wordt er dan een instantie gemaakt en die kan je gebruiken.
+Voor de communicatie tussen de core en de applicaties gebruik ik Feign, dit is een Declarative REST Client. Door de functie namen en mappings te kopiëren van de core en in een interface te zetten kan ik die gebruiken bij andere controllers. Hier kan je mee geven wat de request params zijn en wat er terug gegeven wordt. Door Spring wordt er dan een instantie gemaakt en die kan je gebruiken.
 
 ```kotlin
 @FeignClient(name = "coreClient", url = "localhost:8080/core")
@@ -1503,7 +1501,7 @@ interface CoreClient {
 
 De web controller is eigenlijk een soort mapping van buitenaf. Het enige wat die wel moet doen is het bijhouden van het aanmaken van een bonus. Omdat dit dus langer kan duren krijgt de client een `200 - Accepted` binnen als de aanvraag binnen is gekomen en krijgt die een header met de locatie van de bonus. De bonus zal in het begin een 404 terug geven, pas als die verwerkt is komt er een 200.
 
-In de database moet dus wel bijgehouden worden welk request id hoort bij welke bonus transactie. Dit wordt ook in de database opgeslagen. Reminder: dit kan in een aparte database zijn, op een aparte server, w/e. Dit is helemaal onafhankelijk van de core database. Voor gemak sla ik het nu op in dezelfde database zodat ik snel aan de slag kan. Dit is dus ook echt een pair van request id & transaction hash. De rest is eigenlijk gewoon doorpasen naar de core.
+In de database moet dus wel bijgehouden worden welk request id hoort bij welke bonus transactie. Dit wordt ook in de database opgeslagen. Reminder: dit kan in een aparte database zijn, op een aparte server, w/e. Dit is helemaal onafhankelijk van de core database. Voor gemak sla ik het nu op in dezelfde database zodat ik snel aan de slag kan. Dit is dus ook echt een pair van request id & transaction hash. De rest is eigenlijk gewoon doorgeven naar de core.
 
 ```kotlin
 @GetMapping("spending")
@@ -1513,7 +1511,7 @@ fun getSpending(@RequestParam users: List<String>) = core.getSpending(users)
 fun getBonuses() : List<Bonus> = core.getBonuses()
 ```
 
-De Slack controller is echter de implementatie van het omzetten van id's naar emails. Ook is deze verantwordelijk voor het parsen van een bericht om het aantal punten, de comment, en de ontvanger(s) eruit te halen. Als het commando niet in de goede manier binnen komt zal er ook een foutmelding gegeven worden. Ook is deze verantwoordelijk voor het formateren van een bonus, hiervoor heb ik Wrappers gemaakt. Deze wrappers komen overeen met de JSON die verstuurd moet worden naar Slack toe.
+De Slack controller is echter de implementatie van het omzetten van id's naar emails. Ook is deze verantwoordelijk voor het parsen van een bericht om het aantal punten, de comment, en de ontvanger(s) eruit te halen. Als het commando niet in de goede manier binnen komt zal er ook een foutmelding gegeven worden. Ook is deze verantwoordelijk voor het formateren van een bonus, hiervoor heb ik Wrappers gemaakt. Deze wrappers komen overeen met de JSON die verstuurd moet worden naar Slack toe.
 
 ![Bonus received](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_bonus_processed.png "Bonus Received")
 
@@ -1525,7 +1523,7 @@ De totale project structuur ziet er nu als volgt uit.
 
 ![Project structuur](https://raw.githubusercontent.com/zwolsman/g-log/master/img/ss_project_structuur.png "Project structuur")
 
-Je moet je dus inbeelden de slack, core en web aparte projecten zijn. Deze projecten zijn dus de specifieke implementaties. Zoals je ziet bij web is er vrij wienig nodig. Alleen een Repository om de koppeling tussen request id & transaction hash op te slaan. Dit is bij Slack dus helemaal niet nodig. Deze heeft juist weer een Email Resolver en het idee van een Message.
+Je moet je dus inbeelden de Slack, core en web aparte projecten zijn. Deze projecten zijn dus de specifieke implementaties. Zoals je ziet bij web is er vrij weinig nodig. Alleen een Repository om de koppeling tussen request id & transaction hash op te slaan. Dit is bij Slack dus helemaal niet nodig. Deze heeft juist weer een Email Resolver en het idee van een Message.
 
 ## Dag 30, 15-10-2018
 
@@ -1535,7 +1533,7 @@ Vandaag ben ik begonnen met het formateren van mentions voor Slack. Dit was een 
 
 ### Facebook
 
-Nou, op naar de volgende. Facebook! Weer even de [docs](https://developers.facebook.com/docs/messenger-platform/webhook/#response) in gedoken hoe het ookalweer allemaal zat. Terwijl ik de documentatie aan het lezen was kwam ik nog meer non-functional requirements tegen.
+Nou, op naar de volgende. Facebook! Weer even de [docs](https://developers.facebook.com/docs/messenger-platform/webhook/#response) in gedoken hoe het ook alweer allemaal zat. Terwijl ik de documentatie aan het lezen was kwam ik nog meer non-functional requirements tegen.
 
 > Your webhook should meet the following minimum performance standards:
 >
@@ -1564,9 +1562,9 @@ fun isSignatureValid(payload: String, signature: String, appSecret: String): Boo
 }
 ```
 
-Na het valideren van de signature wordt de message geprocessed. Op het moment worden er alleen de mentions uitgehaald en daar een bonus naar gestuurd met statische tekst. Echter is er bij messenger verschil tussen groeps chats en prive chats.
+Na het valideren van de signature wordt de message geprocessed. Op het moment worden er alleen de mentions uitgehaald en daar een bonus naar gestuurd met statische tekst. Echter is er bij messenger verschil tussen groep chats en privé chats.
 
-Om onderscheid te maken tussen wat voor type bericht het is wordt er gekeken of er een `threadId` berschikbaar is, als dat zo is, is het een groepschat! Met deze informatie wordt er een url opgebouwd voor de response url voor het core project. Hierin wordt de `tid` meegenomen, indien deze niet aanwezig is wordt er een `rid` mee gegeven. De webhook die de bonus afhandelt maakt hier dan weer gebruik van voor het type bericht te onderscheiden.
+Om onderscheid te maken tussen wat voor type bericht het is wordt er gekeken of er een `threadId` beschikbaar is, als dat zo is, is het een groep chat! Met deze informatie wordt er een url opgebouwd voor de response url voor het core project. Hierin wordt de `tid` meegenomen, indien deze niet aanwezig is wordt er een `rid` mee gegeven. De webhook die de bonus afhandelt maakt hier dan weer gebruik van voor het type bericht te onderscheiden.
 
 ```kotlin
  @PostMapping("bonus")
@@ -1595,17 +1593,17 @@ Hier zie je ook weer dat de mentions niet werken. Het omzetten van facbeook id's
 
 ### Service koppeling
 
-Ik wil mezelf vandaag bezig houden met het koppelen van verschillende services. Op het moment worden lokale id's (Slack + Facebook) omgezet naar emails volgens de API's van de services. Dit werkt allemaal prima totdat ik mijn prive facebook account wil gebruiken en die email dus anders is dan mijn Slack account zijn email. Ik wil mijn prive email account kunnen koppelen aan mijn werk Slack zijn email.
+Ik wil mezelf vandaag bezig houden met het koppelen van verschillende services. Op het moment worden lokale id's (Slack + Facebook) omgezet naar e-mails volgens de API's van de services. Dit werkt allemaal prima totdat ik mijn privé facebook account wil gebruiken en die email dus anders is dan mijn Slack account zijn email. Ik wil mijn privé email account kunnen koppelen aan mijn werk Slack zijn email.
 
-Ik ga er van uit dat Slack de primaire email bevat en dat andere services hier dus aan gelinkt gaan worden. Hoe ga ik er voor zorgen dat mijn Facebook service niet naar mijn prive email resolved maar naar de email van Slack..? Slack en Facebook weten niet van elkaar dat ze bestaan en het enige wat ze gemeen hebben met elkaar is het gebruik van de Core.
+Ik ga er van uit dat Slack de primaire email bevat en dat andere services hier dus aan gelinkt gaan worden. Hoe ga ik er voor zorgen dat mijn Facebook service niet naar mijn privé email resolved maar naar de email van Slack..? Slack en Facebook weten niet van elkaar dat ze bestaan en het enige wat ze gemeen hebben met elkaar is het gebruik van de Core.
 
-Het is dus logisch om de Core verantwoordelijk te maken om een mapping bij te houden van emails en de lokale ids, echter wil je niet dat de core verantwoordelijk is voor het omzetten van id's als deze **NIET** in de database staan.. Dat is weer de verantwoordelijkheid van de service.
+Het is dus logisch om de Core verantwoordelijk te maken om een mapping bij te houden van e-mails en de lokale ids, echter wil je niet dat de core verantwoordelijk is voor het omzetten van id's als deze **NIET** in de database staan.. Dat is weer de verantwoordelijkheid van de service.
 
 ### Service koppeling oplossing
 
 Ik zat te denken, misschien is er zoiets nodig als service discovery en dat het core project op die manier een id kan resolven (indien nodig) en dat brengt eigenlijk wel veel complexiteit met zich mee voor wat het opbrengt. Het idee is natuurlijk dat het nog steeds een LEAN project blijft.
 
-Als ik service discovery zou toepassen moet het project ook echt opgedeeld worden in verschillende projecte, alsnog een overeenkomst maken voor het resolven van id's yada yada. Precies vanalles wat ik NIET wil. Ik wil dat mijn CORE project dom blijft en dat de rest eigenlijk gewoon bij de service zelf gebeurt.
+Als ik service discovery zou toepassen moet het project ook echt opgedeeld worden in verschillende projecten, alsnog een overeenkomst maken voor het resolven van id's yada yada. Precies van alles wat ik NIET wil. Ik wil dat mijn CORE project dom blijft en dat de rest eigenlijk gewoon bij de service zelf gebeurt.
 
 **Oplossing:** een database die het core project kan benaderen. Deze slaat puur email-adressen op. Een email adres kan 0..\* andere email-adressen hebben die een alias zijn. Door dit toe te passen hoeft de core project nooit extra implementatie te hebben, de services leveren alleen email-adressen aan en veranderd er dus vrij weinig. Wel moet het core project ondersteuning hebben om dus een email-adres toe te voegen, dit wordt gedaan door een `PUT /core/accounts/{email}`.
 
@@ -1636,11 +1634,11 @@ Bij het ontvangen van een email adres in de core wordt deze gemapt naar de prima
 
 ### Processbegeleiding
 
-Vandaag was ook de dag voor processbegeleiding. Dit is een gesprek met Ilse om 3u. We hebben het gehad over de afspraken met school, mijn terugkomdag (1 nov), mijn documenten en over mijn schrijfstijl. Mijn terugkomdag is op een officiele vrije dag van Belgie, dat is wel weer jammer! 1 november is het hier _[Allerheiligen](https://nl.wikipedia.org/wiki/Allerheiligen)_. Verder ging het over hoe het ging met mijn opdracht etc, dit gaat allemaal goed en was een fijn gesprek. We hebben het ook over Antwerpen gehad en nog wat dingetjes die niet werk gerelateerd waren. Al met al hebben we een goed, fijn en gezellig gesprek gehad. Blijkbaar leest ze ook soms mijn blog dus als ze dit leest, hey Ilse!
+Vandaag was ook de dag voor proces begeleiding. Dit is een gesprek met Ilse om 3u. We hebben het gehad over de afspraken met school, mijn terugkomdag (1 nov), mijn documenten en over mijn schrijfstijl. Mijn terugkomdag is op een officiële vrije dag van België, dat is wel weer jammer! 1 november is het hier _[Allerheiligen](https://nl.wikipedia.org/wiki/Allerheiligen)_. Verder ging het over hoe het ging met mijn opdracht etc., dit gaat allemaal goed en was een fijn gesprek. We hebben het ook over Antwerpen gehad en nog wat dingetjes die niet werk gerelateerd waren. Al met al hebben we een goed, fijn en gezellig gesprek gehad. Blijkbaar leest ze ook soms mijn blog dus als ze dit leest, hey Ilse!
 
 ### ISKA
 
-'s Avonds na het eten (wat erg lekker was; stoofvlees, aardappel puree en visje) was er een ISKA van Benny. Ja, Benny de begeleider. Die ging vertrellen over ProLeague. Ik had hier nog nooit van gehoord en dat is niet zo gek, dat is de voetbal bond van de 1e en 2e klasse van professioneel voetbal in Belgie (als ik het goed heb onthouden, ik heb 0 verstand van voetbal..). Hier hadden ze een applicatie voor moeten maken. Het speciale aan deze applicatie was dat het voor aanvragen was van licenties, deze aanvragen verschillen per jaar en ze wouden niet elk jaar voor een "update" vragen omdat er een nieuw veldje bij was gekomen of juist weggehaald. Om dit op te lossen hebben ze een heel meta model gemaakt die totaal aanpasbaar was met relaties etc. Die objecten kon je dan weer gebruiken om wizzards te maken en dan te versturen naar clubs. De clubs lopen door de wizard heen en vullen alles in.
+'s Avonds na het eten (wat erg lekker was; stoofvlees, aardappel puree en visje) was er een ISKA van Benny. Ja, Benny de begeleider. Die ging vertellen over ProLeague. Ik had hier nog nooit van gehoord en dat is niet zo gek, dat is de voetbal bond van de 1e en 2e klasse van professioneel voetbal in België (als ik het goed heb onthouden, ik heb 0 verstand van voetbal..). Hier hadden ze een applicatie voor moeten maken. Het speciale aan deze applicatie was dat het voor aanvragen was van licenties, deze aanvragen verschillen per jaar en ze wouden niet elk jaar voor een "update" vragen omdat er een nieuw veldje bij was gekomen of juist weggehaald. Om dit op te lossen hebben ze een heel meta model gemaakt die totaal aanpasbaar was met relaties etc. Die objecten kon je dan weer gebruiken om wizards te maken en dan te versturen naar clubs. De clubs lopen door de wizard heen en vullen alles in.
 
 De demonstratie van de applicatie was wel interessant en de terugblikken en inzichten die verteld waren was ook leuk. Je ziet dan eigenlijk hoeveel een opdracht kan afwijken van waar ze initieel mee begonnen zijn en hoe het helemaal groeit.
 
@@ -1648,7 +1646,7 @@ De demonstratie van de applicatie was wel interessant en de terugblikken en inzi
 
 ### Gesprek Benny
 
-Het geplande gesprek van dinsdag ging niet door omdat Benny het te druk had op het moment. Ik stelde voor om het dan te verplaatsen naar donderdag (netzo als de vorige keren) en dat hebben we gedaan. We hebben het gehad over de architectuur hoe ik het nu heb neergezet en wat ik nu aan het implemeteren was (gister, het email systeem). Ook heb ik een code review aangevraagd, ik ben benieuwd wat hij nu daadwerkelijk van de code vind. Verder hebben we afgesproken dat ik me bezig ga houden met het testen van mijn smart contract.
+Het geplande gesprek van dinsdag ging niet door omdat Benny het te druk had op het moment. Ik stelde voor om het dan te verplaatsen naar donderdag (net zo als de vorige keren) en dat hebben we gedaan. We hebben het gehad over de architectuur hoe ik het nu heb neergezet en wat ik nu aan het implementeren was (gister, het email systeem). Ook heb ik een code review aangevraagd, ik ben benieuwd wat hij nu daadwerkelijk van de code vind. Verder hebben we afgesproken dat ik me bezig ga houden met het testen van mijn smart contract.
 
 ### Review
 
@@ -1664,7 +1662,7 @@ Ik ben bezig geweest met tests. Ik heb gekeken hoe ik mijn smart contract moest 
 murf@Marvins-MacBook-Pro: [~] $ yarn global add truffle
 ```
 
-Toen dit toegevoegd was als package kon ik er gebruik van maken. Met [de docs]() er bij ben ik begonnen aan een leeg project. De eerste stap is `truffle init` intypen in een lege directory. Dit maakt dan een structuur aan waarin je je smart contract kan ontwikkelen en testen. Ik ben natuurlijk het meest geinterreseerd in het testen. Ik heb mijn smart-contract over gekopieerd van mijn bbb-api project en ben begonnen met tests te schrijven. Dit ging super makkelijk. Ik had al ervaring met JavaScript en met Mocha (het test framework). Hierdoor was het super simpel om gewoon te beginnen. Hieronder staat een test die geschreven is. Hier wordt het contract (de .sol) als een artifact gezien. Die kan je dan opvragen, een instantie van maken en dan met JavaScript functies op aanroepen.
+Toen dit toegevoegd was als package kon ik er gebruik van maken. Met [de docs]() er bij ben ik begonnen aan een leeg project. De eerste stap is `truffle init` intypen in een lege directory. Dit maakt dan een structuur aan waarin je je smart contract kan ontwikkelen en testen. Ik ben natuurlijk het meest geïnteresseerd in het testen. Ik heb mijn smart-contract over gekopieerd van mijn bbb-api project en ben begonnen met tests te schrijven. Dit ging super makkelijk. Ik had al ervaring met JavaScript en met Mocha (het test framework). Hierdoor was het super simpel om gewoon te beginnen. Hieronder staat een test die geschreven is. Hier wordt het contract (de .sol) als een artifact gezien. Die kan je dan opvragen, een instantie van maken en dan met JavaScript functies op aanroepen.
 
 ```javascript
 const BBBContract = artifacts.require("BBBContract");
@@ -1691,11 +1689,11 @@ De enige test die ik tot nu toe had was een integratie test, die keek gewoon of 
 
   Het moet niet zo zijn dat hetzelfde email adres toegestaan is om in de database te komen. De combinatie van service & email moet uniek zijn.
 
-- Het omzetten van facebook/slack ID's naar email adressen
+- Het omzetten van facebook/Slack id's naar email adressen
 
   Dit is mooie herbruikbare en goed te testen code. Dit is ook belangrijk en wou ik ook getest hebben.
 
-Hier ben ik als eerste mee bezig geweest. De unique constraint bleek toch niet zo goed te werken als ik dacht. Door de test besefte ik pas dat het niet goed werkte, hier ben ik toen ook mee bezig geweest zodat de test slagen. Hieronder zie je een test van het vertalen van Slack id's naar emails.
+Hier ben ik als eerste mee bezig geweest. De unique constraint bleek toch niet zo goed te werken als ik dacht. Door de test besefte ik pas dat het niet goed werkte, hier ben ik toen ook mee bezig geweest zodat de test slagen. Hieronder zie je een test van het vertalen van Slack id's naar e-mails.
 
 ```kotlin
     @Test
@@ -1715,7 +1713,7 @@ zoals je ziet is het zeer eenvoudig te begrijpen en is het duidelijk wat er gete
 
 ### Pageable
 
-Alright, ik begin veel bonusen te hebben (veel testen natuurlijk). Dit begint een probleem te worden met weergeven. In Slack mag je uberhaupt maar 100 attachments hebben; bij mij is elke bonus een attachment. Nou, hoe ga ik dit oplossen? Pageable!
+Alright, ik begin veel bonussen te hebben (veel testen natuurlijk). Dit begint een probleem te worden met weergeven. In Slack mag je überhaupt maar 100 attachments hebben; bij mij is elke bonus een attachment. Nou, hoe ga ik dit oplossen? Pageable!
 
 De core api moet pagination gaan ondersteunen. In Spring heb je `Pageable` en dan kan je een `PageImpl` maken met de `Pageable` en de content. Dit klinkt natuurlijk zeer eenvoudig en dit is ook wel "oke" om op te zetten. Echter, het de-serializen wordt een probleem. `PageImpl` heeft geen default constructors, die wordt altijd met een static methode aangemaakt, dit snapt de serializer niet.
 
@@ -1723,7 +1721,7 @@ Tussen de `CORE` en de `SLACK` zit http communicatie, het (de)serializen van dat
 
 ### Slack button integratie (next/prev)
 
-Nu de data pageable is zullen er _next_ en _previous_ knoppen moeten komen om er door heen te browsen. Deze knoppen kan je ook als attachment toevoegen. Om interactieve knoppen werekd te krijgen moet je _"Interactivity"_ aanzetten. Hierbij moet je een URL invullen waar Slack data naartoe kan posten.
+Nu de data pageable is zullen er _next_ en _previous_ knoppen moeten komen om er door heen te browsen. Deze knoppen kan je ook als attachment toevoegen. Om interactieve knoppen werkend te krijgen moet je _"Interactivity"_ aanzetten. Hierbij moet je een URL invullen waar Slack data naartoe kan posten.
 
 ![Foto van Slack Interactivity](https://github.com/zwolsman/g-log/raw/master/img/ss_slack_interactivity.png)
 
@@ -1731,7 +1729,7 @@ Eenmaal dit aangezet heb ik een endpoint gemaakt in mijn Spring project. Ik heb 
 
 Gebaseerd op de knop neem ik actie, volgende of vorige. Ik stuur dan de gehele nieuwe lijst (met knoppen) naar de response url, deze update dan het huidige bericht met de nieuwe data.
 
-Nu de knoppen het doen besefte ik mezelf, de oudste bonussen staan op de eerste pagina, logisch. Hoe ga ik dit reversen? Heel simpel. Met een simpele formule loop je achterstevoren door de bonusen heen.
+Nu de knoppen het doen besefte ik mezelf, de oudste bonussen staan op de eerste pagina, logisch. Hoe ga ik dit reversen? Heel simpel. Met een simpele formule loop je achterstevoren door de bonussen heen.
 
 ```kotlin
     val total = BBBCore.contract.bonusCount().send().toInt()
@@ -1751,13 +1749,13 @@ Dit levert het volgende resultaat op
 
 Nu ben ik begonnen met het reposten van een bonus. Het idee is dat er iemand een bonus geeft en dat een gebruiker op "repost bonus" kan klikken. Deze stuurt dezelfde bonus, met hetzelfde aantal punten nog een keer naar de gebruiker. Hierdoor krijgt de gebruiker dus nog eens de punten. Om dit te implementeren moet je dus wel weten op welke bonus er geklikt wordt en door wie.
 
-Ik heb het begin gemaakt, ik kan onderscheid maken tussen next/prev knop en de repost bonus knop. In deze repost bonus functie krijg ik binnen wat de `response_url` is, de gebruiker en de index van de bonus (van de lijst op de blockchain). Morgen ga ik verder implementeren, de bonus ophalen etc. en het daadwerkelijk opniew posten.
+Ik heb het begin gemaakt, ik kan onderscheid maken tussen next/prev knop en de repost bonus knop. In deze repost bonus functie krijg ik binnen wat de `response_url` is, de gebruiker en de index van de bonus (van de lijst op de blockchain). Morgen ga ik verder implementeren, de bonus ophalen etc. en het daadwerkelijk opnieuw posten.
 
 ## Dag 36, 23-10-2018
 
 ### Repost button afmaken
 
-Gister had ik de basis gelegd voor het reposten. Ik kon binnen krijgen als er op een knop werd geklikt en dan op welke bonus. Die informatie heb ik nu gebruikt om de bonus op te halen en daarna dezelfde functie aan te roepen als het origineel creeren van een bonus.
+Gister had ik de basis gelegd voor het reposten. Ik kon binnen krijgen als er op een knop werd geklikt en dan op welke bonus. Die informatie heb ik nu gebruikt om de bonus op te halen en daarna dezelfde functie aan te roepen als het origineel creëren van een bonus.
 
 ```kotlin
     @PostMapping("bonus/{bonusIndex}/repost")
@@ -1776,7 +1774,7 @@ Echter als ik iemand een bonus gaf kwam hier ook met de response de _repost butt
 
 ### Rest van de dag
 
-Rest van de dag was een beetje shitty, ik liep weer tegen problemen aan met Azure. Ik heb mijn helper functies gerefactored zodat ze wel in de spring context komen en dan met dependency injection inlaad. Hierdoor zijn ze wel instelbaar. Dit was een eis van Benny. Toen ik dit had gemaakt wou ik het proberen in te stellen via Azure, dit lukte echter al niet. Toen begonnen de echte vraagstukken.. Waar is mijn logging? (Geen idee! Zelfs nu niet..), waar kan ik mijn applicatie uberhaupt zien staan? Waarom werkt het niet?! Welke waardes worden er doorgegeven? Ik kon niks zien.. Ik heb dit bij Benny gemeld en gevraagd om hulp. Ik hoop dat ik snel een reactie krijg en dat ik verder kan gaan met het configureren van de applicatie in de cloud.
+Rest van de dag was een beetje shitty, ik liep weer tegen problemen aan met Azure. Ik heb mijn helper functies gerefactored zodat ze wel in de spring context komen en dan met dependency injection inlaad. Hierdoor zijn ze wel instelbaar. Dit was een eis van Benny. Toen ik dit had gemaakt wou ik het proberen in te stellen via Azure, dit lukte echter al niet. Toen begonnen de echte vraagstukken.. Waar is mijn logging? (Geen idee! Zelfs nu niet..), waar kan ik mijn applicatie überhaupt zien staan? Waarom werkt het niet?! Welke waardes worden er doorgegeven? Ik kon niks zien.. Ik heb dit bij Benny gemeld en gevraagd om hulp. Ik hoop dat ik snel een reactie krijg en dat ik verder kan gaan met het configureren van de applicatie in de cloud.
 
 Ook had ik nog steeds het probleem dat als ik hem deploy dat het enige tijd duurt (voor mijn gevoel een eeuwigheid) voordat hij "live" was. De Azure DevOps zei dat de deployment succesvol was maar vaak laadde de website niet. Ik heb aan Tom gevraagd hoe dit zou kunnen; zijn oplossing: stop & start de service voor en na het daadwerkelijk deployen.
 
@@ -1786,15 +1784,15 @@ Ik dit geregeld in mijn release pipeline, veranderde echter niks. Toen heb ik aa
 
 ### React leren
 
-Door de "problemen" van gister kon ik niet echt concrete stappen zetten. Ik heb er voor gekozen om een React course te gaan doen. Ik zou die technologie graag willen gebruiken in mijn front-end voor deze opdracht en heb hier nog 0 kennis van. Misschien herriner je het je nog maar ik had tests gemaakt op Pluralsight (SkillIQ) en die had ik ook van React gemaakt. Door gewoon de basis ooit eens gelezen te hebben werd mij aangeraden om de "beginner" over te slaan, die kennis had ik al.
+Door de "problemen" van gister kon ik niet echt concrete stappen zetten. Ik heb er voor gekozen om een React course te gaan doen. Ik zou die technologie graag willen gebruiken in mijn front-end voor deze opdracht en heb hier nog 0 kennis van. Misschien herinner je het je nog maar ik had tests gemaakt op Pluralsight (SkillIQ) en die had ik ook van React gemaakt. Door gewoon de basis ooit eens gelezen te hebben werd mij aangeraden om de "beginner" over te slaan, die kennis had ik al.
 
 Ik ben toen begonnen aan de course _Building Applications with React and Redux in ES6_ van Cory House. Deze course duurt in zijn totaal 6 uur en 13 minuten. Ik wist wat Redux was/deed door mijn ervaring met Angular en NgStore. Vandaar dat ik de urgentie er van in zie om dit te gebruiken in de React wereld.
 
-Ik heb nu de eerste 9 hoofdstukken af. De code is [hier](https://github.com/zwolsman/pluralsight-redux) te vinden in een Github repo. Een paar dingen waren wel al veranderd. De `redux-router` heeft een update gehad naar 4.0. Door even te Googelen kwam ik op een blog uit. Deze blog heet [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf), door deze blog door te lezen kon ik de verouderde, niet werkende dingen vervangen met de nieuwe versie. Bijvoorbeeld de `Link` component bestaat niet meer, dat moet een `BrowserLink` zijn. Zo waren er nog een paar dingetjes.
+Ik heb nu de eerste 9 hoofdstukken af. De code is [hier](https://github.com/zwolsman/pluralsight-redux) te vinden in een GitHub repo. Een paar dingen waren wel al veranderd. De `redux-router` heeft een update gehad naar 4.0. Door even te Googelen kwam ik op een blog uit. Deze blog heet [A Simple React Router v4 Tutorial](https://medium.com/@pshrmn/a-simple-react-router-v4-tutorial-7f23ff27adf), door deze blog door te lezen kon ik de verouderde, niet werkende dingen vervangen met de nieuwe versie. Bijvoorbeeld de `Link` component bestaat niet meer, dat moet een `BrowserLink` zijn. Zo waren er nog een paar dingetjes.
 
 ### Gaston helpen
 
-Terwijl ik bezig was met mijn react course hoorde ik Gaston wat zuchten. Dus ik vroeg van hey Gaston, wat is het probleem. Hij riep "**TYPESCRIPT**!" Ik zo ah joh, zo erg kan het niet zijn. Ik vind het een super leuke taal. Dus ik ging is even mee kijken wat die aan het doen was. Aan de programmeerstyle kon je zien dat die niet veel ervaring had met typescript. Bijvoorbeeld een constructor met properties gebruikte die niet, hij deed alles met getters en setters en dan private backing fields. Ik heb is even met Gaston gepraat en het project doorgesproken.
+Terwijl ik bezig was met mijn React course hoorde ik Gaston wat zuchten. Dus ik vroeg van hey Gaston, wat is het probleem. Hij riep "**TYPESCRIPT**!" Ik zo ah joh, zo erg kan het niet zijn. Ik vind het een super leuke taal. Dus ik ging is even mee kijken wat die aan het doen was. Aan de programmeerstyle kon je zien dat die niet veel ervaring had met typescript. Bijvoorbeeld een constructor met properties gebruikte die niet, hij deed alles met getters en setters en dan private backing fields. Ik heb is even met Gaston gepraat en het project doorgesproken.
 
 Ik heb toen meteen gevraagd of op [de repo](https://gitlab.com/Gaston_KDG/js-presentation-server) erbij mocht en dat mocht. IK ben toen begonnen op een nieuwe branch en ben gestart met het herschrijven. Veel code die er staat was niet optimaal, zoals die zelf ook al zei het is een PoC.
 
@@ -1804,7 +1802,7 @@ Hij vond het heel fijn dat ik hem hielp en keek de hele tijd mee. Terwijl ik aan
 
 Vandaag heb ik weer met Benny afgesproken. Ik had de problemen al eerder doorgemaild. Het gesprek vind plaats om 10u, tot dan kan ik nog verder aan Gaston zijn project.
 
-Tijdens het gesprek heb ik uitgelegd dat Azure nog niet helemaal goed gaat en graag meer uitleg wou. We hebben zitten kijken waarom het deployen niet goed gaat en dat komt door de cpu usage! Als ik mijn applicatie deploy/laat starten gebruikt die 100% cpu. Blijkbaar was ik gewoon te ongeduldig en moet ik gewoon wat langer wachten (5-10 mins). Dat is weer een probleem minder. Het volgende was de environment variables, die werden niet goed ingelagden. Als je de AppSettings aanpast van Azurre zet die ze ook in je Bash. Die namen mogen geen `.` bevatten en dat deden ze wel bij mij. Het ging om de variables `url.host`, `url.port` en `url.scheme`. Deze heb ik gerenamed naar de upper-case variant en de `.` met een `_` vervangen. Dus nu zijn het `URL_HOST`, `URL_SCHEME` en `URL_PORT`, deze werken nu wel.
+Tijdens het gesprek heb ik uitgelegd dat Azure nog niet helemaal goed gaat en graag meer uitleg wou. We hebben zitten kijken waarom het deployen niet goed gaat en dat komt door de cpu usage! Als ik mijn applicatie deploy/laat starten gebruikt die 100% cpu. Blijkbaar was ik gewoon te ongeduldig en moet ik gewoon wat langer wachten (5-10 min). Dat is weer een probleem minder. Het volgende was de environment variables, die werden niet goed ingelagden. Als je de AppSettings aanpast van Azurre zet die ze ook in je Bash. Die namen mogen geen `.` bevatten en dat deden ze wel bij mij. Het ging om de variables `url.host`, `url.port` en `url.scheme`. Deze heb ik gerenamed naar de upper-case variant en de `.` met een `_` vervangen. Dus nu zijn het `URL_HOST`, `URL_SCHEME` en `URL_PORT`, deze werken nu wel.
 
 Ook de logging hebben we uitgezocht. Nu kan ik de foutmelding zien waardoor de gedeployde endpoints niet werken. Die was een `FeignException`. Hier ga ik na het gesprek verder naar kijken.
 
@@ -1812,7 +1810,7 @@ Ook de logging hebben we uitgezocht. Nu kan ik de foutmelding zien waardoor de g
 
 Omdat het deployen zo lang duurt is het handig om te weten welke versie er nu draait. Ik maak al gebruik van `actuator`, deze heeft echter alleen een `health` endpoint en een `info` endpoint zonder enige data. Tijd om dit te veranderen!
 
-Als eerste heb ik de health check geupdate, hier kijk ik nu ook of de `WebBonusRepository` een `count()` kan uitvoeren, zo nee? Service down!
+Als eerste heb ik de health check geüpdatet, hier kijk ik nu ook of de `WebBonusRepository` een `count()` kan uitvoeren, zo nee? Service down!
 
 Toen de stap om informatie over de applicatie beschikbaar te maken. Ik heb gekeken hoe de actuator endpoint werkt, deze leest gegevens uit van je applicatie. Meer informatie over de actuator endpoint is [hier](https://docs.spring.io/spring-boot/docs/current/reference/html/production-ready-endpoints.html) te vinden. Het belangrijkste was is dat ik niet steeds de versie handmatig zou moeten updaten. Ik wil dat Gradle dit doet.
 
@@ -1824,7 +1822,7 @@ springBoot {
 }
 ```
 
-Ik wou dat mijn versie ook de git commit in de versie heeft zodat het makkelijk terug te koppelen aan de release. Een release in azure devops heeft altijd het commit id erbij van de laatste commit. Dit heb ik gedaan door een git plugin te gebruiken in gradle. Door die toe te voegen kon ik de versie updaten door `version = "1.0.0.${git.head().abbreviatedId}"` neer te zetten.
+Ik wou dat mijn versie ook de git commit in de versie heeft zodat het makkelijk terug te koppelen aan de release. Een release in Azure DevOps heeft altijd het commit id erbij van de laatste commit. Dit heb ik gedaan door een git plug-in te gebruiken in Gradle. Door die toe te voegen kon ik de versie updaten door `version = "1.0.0.${git.head().abbreviatedId}"` neer te zetten.
 
 ```json
 {
@@ -1838,7 +1836,7 @@ Ik wou dat mijn versie ook de git commit in de versie heeft zodat het makkelijk 
 }
 ```
 
-De volgende endpoint was de `/env`. Hier staan alle environment variables, dus ook de app settings van azure! Deze hoefde ik alleen te activeren in de `application.properties` en was daarn al inzichtelijk. Het bestand is te groot om hier te laten zien maar je kan hem [hier](https://bbb-api.azurewebsites.net/actuator/env) zelf bekijken. Door deze variables te bekijken weet ik zeker dat de app settings ingeladen zijn en gebruikt worden!
+De volgende endpoint was de `/env`. Hier staan alle environment variables, dus ook de app settings van Azure! Deze hoefde ik alleen te activeren in de `application.properties` en was daarn al inzichtelijk. Het bestand is te groot om hier te laten zien maar je kan hem [hier](https://bbb-api.azurewebsites.net/actuator/env) zelf bekijken. Door deze variables te bekijken weet ik zeker dat de app settings ingeladen zijn en gebruikt worden!
 
 ### FeignException
 
@@ -1864,7 +1862,7 @@ public interface FileUploadServiceClient extends IFileUploadServiceClient {
 }
 ```
 
-Met deze informatie ben ik dit gsaan implementeren in mijn Feign client maar geen success! Het zijn nog steeds query parameters.. Dit moet ik morgen verder gaan uitzoeken.
+Met deze informatie ben ik dit gaan implementeren in mijn Feign client maar geen succes! Het zijn nog steeds query parameters.. Dit moet ik morgen verder gaan uitzoeken.
 
 ## Dag 39, 26-10-2018
 
@@ -1872,9 +1870,9 @@ Met deze informatie ben ik dit gsaan implementeren in mijn Feign client maar gee
 
 Alright, ik ben bezig geweest met het oplossen van de Feign Client. Ik kreeg het niet voor elkaar om de `FormEncoder` aan de praat te krijgen dus heb ik een andere manier bedacht. Ik maak een model aan, `BonusRequestParameters`, en stop daar alle waardes in. Dit object wordt dan gewoon naar `json` geconverteerd en verstuurd. Dit zou moeten werken!
 
-Ik moet wel de ontvangende kant aanpassen, ipv `@RequestParam from, @RequestParam to, ..` wordt dat nu dus `@RequestBody params` waar de params de `BonusRequestParams` zijn. Dit is een makkelijke aanpassing en eigelijk maakt het de code ook nog een deel leesbaarder.
+Ik moet wel de ontvangende kant aanpassen, i.p.v. `@RequestParam from, @RequestParam to, ..` wordt dat nu dus `@RequestBody params` waar de params de `BonusRequestParams` zijn. Dit is een makkelijke aanpassing en eigenlijk maakt het de code ook nog een deel leesbaarder.
 
-Eenmaal geupdate en getest bleek het te werken! Ik heb het met de master gemerged, gebuild & gereleased. Even wachten en hij staat online! Toen heb ik de Slack API aangepast naar het publieke endpoint op de server en testen maar. Alles werkte! Het probleem is verholpen.
+Eenmaal geüpdatet en getest bleek het te werken! Ik heb het met de master gemerged, gebuild & gereleased. Even wachten en hij staat online! Toen heb ik de Slack API aangepast naar het publieke endpoint op de server en testen maar. Alles werkte! Het probleem is verholpen.
 
 Op naar het volgende.
 
@@ -1884,7 +1882,7 @@ De API zoals die nu is, is die beschikbaar voor iedereen. Dat is natuurlijk niet
 
 Ik ga mezelf eerst is inlezen hoe het nou echt werkt, ik heb een blog gevonden genaamd [Wat is OAuth en hoe werkt het precies?](https://computerworld.nl/security/100443-wat-is-oauth-en-hoe-werkt-het-precies) in het Nederlands. Ben benieuwd!
 
-Het artikel is een beetje nikszeggend. Het vertelt de stappen in een versimpelde versie en verder is het een beetje kale informatie. Dit is duidelijk niet wat ik zoek.
+Het artikel is een beetje nietszeggend. Het vertelt de stappen in een versimpelde versie en verder is het een beetje kale informatie. Dit is duidelijk niet wat ik zoek.
 
 Ik ben Spring specifiek gaan zoeken en vond meer waardevolle dingen.
 
@@ -1895,13 +1893,13 @@ Na dit gezien & gelezen te hebben besef ik mezelf 2 dingen.
 
 Je hebt het verschil tussen een `Provider` `Resource Server`. Een provider provide endpoints om je op aan te melden, deze authenticeert je. Deze geeft uiteindelijk dus een token die je kan gebruiken bij de `resource server`. De `resource server` gaat de API zijn, hier moet je de token gebruiken voor het mogen ophalen/versturen van data.
 
-Ook gaat de API een `Provider` zijn, hier zal een configuratie bestandje of database of iets dergelijks moeten zijn met de client ids, client secrets, scopes.
+Ook gaat de API een `Provider` zijn, hier zal een configuratie bestandje of database of iets dergelijks moeten zijn met de client id’s, client secrets, scopes.
 
 Scopes is wat de client allemaal mag doen. Als je deze leeg laat zal die alles mogen (dat is mijn geval de gewenste situatie). Ik zal hier maandag verder mee aan de slag gaan en kijken of het lukt.
 
 ## Dag 40, 29-10-2018
 
-Alright, vandaag gaat de dag worden voor de implementatie. Ik wil dat dit vandaag gaat lukken! Na een weekend hackthon te houden voor mijn eigen project met een vriend van mij ([@joelluijmes](github.com/joelluijmes)). We hebben aan ons product "Facto" gewerkt, in 36u tijd samen zijn 22u geprogrammeerd. Je kan dit wel een succesvol weekend noemen! Nu weer terug aan stage.
+Alright, vandaag gaat de dag worden voor de implementatie. Ik wil dat dit vandaag gaat lukken! Na een weekend hackathon te houden voor mijn eigen project met een vriend van mij ([@joelluijmes](github.com/joelluijmes)). We hebben aan ons product "Facto" gewerkt, in 36u tijd samen zijn 22u geprogrammeerd. Je kan dit wel een succesvol weekend noemen! Nu weer terug aan stage.
 
 ### OAuth in Spring
 
@@ -1937,7 +1935,7 @@ Dit heb ik getest met postman, die heeft een interface voor het ophalen van een 
 
 ### Uitwerking JDBC
 
-Nu de In Memory werkte wou ik het uitbreiden. Zodat er dynamisch clients toegevoegd kunnen worden. Er is een schema beschikbaar wat gebruikt wordt voor de tests. Deze is gelinkt door de docs en verwijst naasr een [sql script](https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/test/resources/schema.sql). Dit is alleen een `HSQL` syntax en ik gebruik `MS SQL`. Het probleem is dat `LONGVARBINARY` niet ondersteund wordt, dit is een `VARBINARY(max)`. Eenmaal die aanpassing door te voeren had een lege tabellen in mijn database. Dan moest ik nu de token store aanpassen en de clientDetails.
+Nu de In Memory werkte wou ik het uitbreiden. Zodat er dynamisch clients toegevoegd kunnen worden. Er is een schema beschikbaar wat gebruikt wordt voor de tests. Deze is gelinkt door de docs en verwijst naar een [sql script](https://github.com/spring-projects/spring-security-oauth/blob/master/spring-security-oauth2/src/test/resources/schema.sql). Dit is alleen een `HSQL` syntax en ik gebruik `MS SQL`. Het probleem is dat `LONGVARBINARY` niet ondersteund wordt, dit is een `VARBINARY(max)`. Eenmaal die aanpassing door te voeren had een lege tabellen in mijn database. Dan moest ik nu de token store aanpassen en de clientDetails.
 
 ```kotlin
     // In configure
@@ -1965,7 +1963,7 @@ Nu nog het aanmaken van de client.. Hoe doe je dat.. Ik heb het eerst handmatig 
                        .and().build()
 ```
 
-De `and().build()` is wat het daadwerkelijk invult in de database. Eenmaal ingevuld kan er op dezelfde manier een token worden opgehaald. Ik besprak dit met een collegas (Tom Vervoort & Mathias Spanhove) en gaf een demo. Hun zeiden, het is nu wel zo dat de "secret" in de database staat, plaintext. Dit is natuurlijk niet veilig, als de db gehackt wordt gaat die dit kunnen uitlezen.
+De `and().build()` is wat het daadwerkelijk invult in de database. Eenmaal ingevuld kan er op dezelfde manier een token worden opgehaald. Ik besprak dit met een collega’s (Tom Vervoort & Mathias Spanhove) en gaf een demo. Hun zeiden, het is nu wel zo dat de "secret" in de database staat, plaintext. Dit is natuurlijk niet veilig, als de db gehackt wordt gaat die dit kunnen uitlezen.
 
 #### Secrets encrypted opslaan
 
@@ -1977,9 +1975,9 @@ Vandaag heb ik gesprek gehad met Benny. Hij was om 10u nog druk bezig dus moest 
 
 Hoe ik dit ga oplossen is een oauth layer op de web api brengen die dan weer beveiligd met de core communiceert. Dit is iets wat voor de toekomst ligt.
 
-Omdat hier in belgie aller heiligen en aller zieligen gevierd wordt (officiele feestdagen) is deze sprint relatief kort. Daardoor hebben we gekozen om de beveiliging van de web api uit te stellen. Om dit werkend te krijgen moet het project sowieso een apart project worden en zal alles dus opgebroken moeten worden. Dit is nu zoveel overhead en voegt te weinigt om dat te verantwoorden om het nu te doen.
+Omdat hier in België aller heiligen en aller zielen gevierd wordt (officiële feestdagen) is deze sprint relatief kort. Daardoor hebben we gekozen om de beveiliging van de web api uit te stellen. Om dit werkend te krijgen moet het project sowieso een apart project worden en zal alles dus opgebroken moeten worden. Dit is nu zoveel overhead en voegt te weinig toe om dat te verantwoorden om het nu te doen.
 
-Waar we wel voor hebben gekozen is de deployment op orde te krijgen. Ik heb de feedback gekregen om de database te configureren als deploy stap. Dit is natuurlijk logisch, nu deed mijn applicatie dat door een DDL script te generen. Dit mag dus niet meer van Benny, ik moet handmatig de database en de tabellen maken, hierdoor kan ik wel de constraint toeveogen dat een account 1 primary email mag hebben, dit was mij niet gelukt met JPA annotaties.
+Waar we wel voor hebben gekozen is de deployment op orde te krijgen. Ik heb de feedback gekregen om de database te configureren als deploy stap. Dit is natuurlijk logisch, nu deed mijn applicatie dat door een DDL script te generen. Dit mag dus niet meer van Benny, ik moet handmatig de database en de tabellen maken, hierdoor kan ik wel de constraint toevoegen dat een account 1 primary email mag hebben, dit was mij niet gelukt met JPA annotaties.
 
 Door een SQL script te maken, deze in de resources toe te voegen kan ik deze ook onderhouden in het versie beheer van de applicatie. Bij het builden van de applicatie wordt er naar een `*.war` gezocht, hier heb ik nu ook een `*.sql` aan toegevoegd. Door dit te doen heb je nu 2 artifacts, `ROOT.war` en `schema.sql`. Deze `schema.sql` kan ik gebruiken in een deployment step.
 
@@ -1991,19 +1989,19 @@ Vandaag ben ik nog verder gegaan aan mijn SQL script gegaan. Ik ben er achter ge
 
 ### Gesprek met Ilse
 
-Ik had om 3u gesprek met Ilse, we hebben het gehad over de voortgang van het project en over nog een aantal zaken. Het was een fijn & goed gesprek. We hebben anderhalf uur gepraat over vanalles en nog wat. We hebben ook de afspraak gemaakt dat ik morgen zal gaan navragen wat er verwacht wordt van mij op school betreffend mijn Portfolio. Ik heb hier eigenlijk weinig informatie over en vind het zelf ook belangrijk hier veruidelijking in te hebben.
+Ik had om 3u gesprek met Ilse, we hebben het gehad over de voortgang van het project en over nog een aantal zaken. Het was een fijn & goed gesprek. We hebben anderhalf uur gepraat over van alles en nog wat. We hebben ook de afspraak gemaakt dat ik morgen zal gaan navragen wat er verwacht wordt van mij op school betreffend mijn Portfolio. Ik heb hier eigenlijk weinig informatie over en vind het zelf ook belangrijk hier verduidelijking in te hebben.
 
-Ilse leest ook echt mijn blogs, ze had het er zelfs over in de gesprekken. Dit is wel fijn, dan weet ze ook wat ik allemaal aan het doen ben tijdens mijn uren dat ik 10 meter verderop zit van haar. Het volgnede gesprek is weer over 2 weken.
+Ilse leest ook echt mijn blogs, ze had het er zelfs over in de gesprekken. Dit is wel fijn, dan weet ze ook wat ik allemaal aan het doen ben tijdens mijn uren dat ik 10 meter verderop zit van haar. Het volgende gesprek is weer over 2 weken.
 
 ## Dag 43, 1-11-2018
 
 ### Terugkomdag op school
 
-We hebben vandaag officiele terugkomdag op school, we gaan hier les hebben over schrijven (workshop) en een intervisie met mede staigiares. De workshop hadden we al eens gehad heb ik het idee. Het ging hier vooral over Nederlands en hoe je het moet schrijven wat je niet/wel moet doen. Ik heb het idee dat als je de slides leest je dan ook al een heel eind komt. Echter is dit wel goed om nog eens aan herrinerd te worden voor websites zoals [woordenleest.org](http://woordenlijst.org) en de tooling om je nederlands te controleren bij de KU Leuven.
+We hebben vandaag officiële terugkomdag op school, we gaan hier les hebben over schrijven (workshop) en een intervisie met mede stagiaires. De workshop hadden we al eens gehad heb ik het idee. Het ging hier vooral over Nederlands en hoe je het moet schrijven wat je niet/wel moet doen. Ik heb het idee dat als je de slides leest je dan ook al een heel eind komt. Echter is dit wel goed om nog eens aan herinnerd te worden voor websites zoals [woordenleest.org](http://woordenlijst.org) en de tooling om je Nederlands te controleren bij de KU Leuven.
 
 #### Intervisie
 
-Na de workshop hebben we een intervisie bij de stagebegeleider. Hier zaten nog een vijftal andere staigiares, hier hebben we het over de -/+ punten gehad over de stage en dit was wel interessant. Veel mensen hadden een stage met machine learning kwam ik achter, ik was de enige eigenlijk met blockchain. Er werden wel een paar vragen gesteld over wat ik van blockchain techonologie vond en of ik er de toekomst in zie. Ook heb ik vragen gesteld, ik heb gevraagd wat er nu echt verwacht wordt van je portfolio en hoe het in zijn werk gaat.
+Na de workshop hebben we een intervisie bij de stagebegeleider. Hier zaten nog een vijftal andere stagiaires, hier hebben we het over de -/+ punten gehad over de stage en dit was wel interessant. Veel mensen hadden een stage met machine learning kwam ik achter, ik was de enige eigenlijk met blockchain. Er werden wel een paar vragen gesteld over wat ik van blockchain technologie vond en of ik er de toekomst in zie. Ook heb ik vragen gesteld, ik heb gevraagd wat er nu echt verwacht wordt van je portfolio en hoe het in zijn werk gaat.
 
 #### Portfolio
 
@@ -2012,14 +2010,14 @@ Na de workshop hebben we een intervisie bij de stagebegeleider. Hier zaten nog e
   - Screenshots van de sprints
   - Code
   - Blog (ja deze!)
-  - Emails
+  - E-mails
 - Inlever datum 8 januari vóór 2 uur 's middags
 
--- Ik was op vrijdag 2-11-2018 vrij i.v.m. aller zielen, dit is een officiele feestdag in België --
+-- Ik was op vrijdag 2-11-2018 vrij i.v.m. aller zielen, dit is een officiële feestdag in België --
 
 ## Dag 44, 5-11-2018
 
-Na de intervisie van donderdag had ik wel inspiratie om te beginnen aan mijn leeswijzer! Ik heb [de voorbeelden](https://fhict.instructure.com/courses/6218/pages/examples-portfolios?module_item_id=266180) gedownload en bekeken en vond die van Ricardo wel heel mooi. Dit is wel een goed voorbeeld. Ik ben begonnen met het downloaden van de Info Support huisstijle, dit vind ik wel een mooie bonus als je hier gebruik van maakt.
+Na de intervisie van donderdag had ik wel inspiratie om te beginnen aan mijn leeswijzer! Ik heb [de voorbeelden](https://fhict.instructure.com/courses/6218/pages/examples-portfolios?module_item_id=266180) gedownload en bekeken en vond die van Ricardo wel heel mooi. Dit is wel een goed voorbeeld. Ik ben begonnen met het downloaden van de Info Support huisstijl, dit vind ik wel een mooie bonus als je hier gebruik van maakt.
 
 Ik heb vandaag een groffe opzet opgezet en ga hier morgen weer aan verder. Ik heb geen gesprek met Benny want die is weg (een talk geven in Moscow) en heb dus besloten mijzelf volledig te storten op mijn leeswijzer. Wish me luck!
 
@@ -2031,7 +2029,7 @@ Zoals ik gister zei ging ik vandaag verder met de leeswijzer. Dit heb ik ook ged
 
 ### Universiteit van Nederland, 6 nov 2018
 
-Het is weer zo ver! Er is weer een opname van de Universiteit van Nederland en ik ben er weer bij samen met [@joel](https://github.com/joelluijmes). We hebben samen bij de griek gegeten, Joel een pita gyros (het was zijn eerste keer!) en ik een gyros schotel. Het smaakte goed en zijn daarna naar Amsterdam gereden.
+Het is weer zo ver! Er is weer een opname van de Universiteit van Nederland en ik ben er weer bij samen met [@joel](https://github.com/joelluijmes). We hebben samen bij de Griek gegeten, Joel een pita gyros (het was zijn eerste keer!) en ik een gyros schotel. Het smaakte goed en zijn daarna naar Amsterdam gereden.
 
 Eenmaal aangekomen in Amsterdam hebben we de P+R faciliteit gebruikt van de Amsterdam ArenA. Daar staat de auto droog, veilig & goedkoop (aanrader). Je kan vanuit daar de metro pakken naar het centraal station echter moesten we daar niet zijn. We hoefde maar 4 haltes met de metro en toen waren we al bij Amsterdam AIR, waar de lezing plaatst vind!
 
@@ -2043,41 +2041,41 @@ Het thema van de avond is _het einde der tijden_. Er zijn een 5-tal professor me
 
 Dit was een leuke talk! Er was zelfs een live experiment, dat maakt het altijd duidelijker, interessanter en mooier! Ze had een bak water bij en ze deed er ijs in met blauw kleurstof. Ze was aan het vertellen over de golfstroom dat die heet water mee neemt, af laat koelen, naar de bodem zakt (omdat het kouder is, dus zwaarder), en dan weer teruggevoerd wordt naar richting de evenaar om weer opgewarmd te worden. Dit zag je perfect in haar experiment, het blauwe water zag je naar beneden gaan en dan deed ze rood kleurstof bovenop en dat zag je naar het ijs toegetrokken worden.
 
-Met dit principe wordt het klimaat dus ook beinvloed, ze had een film als voorbeeld: the day after tomorrow. Dit is een sciencefiction/thriller en gebruikt dit principe, de stroom wordt omgedraaid waardoor het klimaat totaal veranderd. Ze zei dat dit wel mogelijk was, de kern van de film. In de film gebeurt dit in een week maar in het echt zou dit 50-100 jaar duren.
+Met dit principe wordt het klimaat dus ook beïnvloed, ze had een film als voorbeeld: the day after tomorrow. Dit is een sciencefiction/thriller en gebruikt dit principe, de stroom wordt omgedraaid waardoor het klimaat totaal veranderd. Ze zei dat dit wel mogelijk was, de kern van de film. In de film gebeurt dit in een week maar in het echt zou dit 50-100 jaar duren.
 
 #### Waarom gaan we uiteindelijk ten onder aan plastic soep?
 
-Deze was wel een eye opener, hoeveel plastic wij gebruiken als mensheid is echt niet normaal. Ze noemde plastic een design fout, het is helemaal uit de hand gelopen en er zijn voorspellingen dat ze in het jaar 3.000 nog steeds plastics vinden van _nu_. Dat is echt ongelofelijk! Het is ook werkelijk overal, ze heeft op verschillende punten metingen gedaan naar micro-plastics. Dit zijn de kleinste deeltjes van plastic die er bestaan. Omdat we plastic overal gebruiken komt het dus ook echt overal, het zit in onze kleren (polyester), ons eten is er in verpakt, onze telefoons zijn er van gemaakt etc. etc. Ze had een meeting gedaan naar microplastics in het afvalwater uit huis en daar kwam ze plastic tegen, uit het polyester van je kleren die je in de wasmachine stopt. Deze microdeeltjes komen in het riool terecht, gaan naar het zuiverings station en worden daar grote deels eruit gefilterd, maar niet alles! Wat er doorheen glipt komt in de natuur terecht of in ons drinkwater. Met die ontdekking was ze gaan onderzoeken of wij het ook in ons hebben. Dit is nog niet vastgesteld, wel de addatieven (zoals brandvertragers, pimgnet, anti-statisch etc.) zijn wel al terug gevonden in ons lichaam!
+Deze was wel een eye opener, hoeveel plastic wij gebruiken als mensheid is echt niet normaal. Ze noemde plastic een design fout, het is helemaal uit de hand gelopen en er zijn voorspellingen dat ze in het jaar 3.000 nog steeds plastics vinden van _nu_. Dat is echt ongelofelijk! Het is ook werkelijk overal, ze heeft op verschillende punten metingen gedaan naar micro-plastics. Dit zijn de kleinste deeltjes van plastic die er bestaan. Omdat we plastic overal gebruiken komt het dus ook echt overal, het zit in onze kleren (polyester), ons eten is er in verpakt, onze telefoons zijn er van gemaakt etc. etc. Ze had een meeting gedaan naar microplastics in het afvalwater uit huis en daar kwam ze plastic tegen, uit het polyester van je kleren die je in de wasmachine stopt. Deze microdeeltjes komen in het riool terecht, gaan naar het zuiveringsstation en worden daar grote deels eruit gefilterd, maar niet alles! Wat er doorheen glipt komt in de natuur terecht of in ons drinkwater. Met die ontdekking was ze gaan onderzoeken of wij het ook in ons hebben. Dit is nog niet vastgesteld, wel de additieven (zoals brandvertragers, pigment, antistatisch etc.) zijn wel al terug gevonden in ons lichaam!
 
-Sinds dat onderzoek zijn er ook een x aantal additieven verboden omdat ze toxisch zijn voor ons lichaam. Eenmaal in je lichaam kom je er niet van af en kunnen er chronische ontstekingen onstaan. Dit wil je natuurlijk niet..
+Sinds dat onderzoek zijn er ook een x aantal additieven verboden omdat ze toxisch zijn voor ons lichaam. Eenmaal in je lichaam kom je er niet van af en kunnen er chronische ontstekingen ontstaan. Dit wil je natuurlijk niet..
 
 #### Zijn wij wel goed voorbereid op de volgende pandemie?
 
-Dit was een vrouw die gespecialiseerd was in virussen. We hebben een basis les gekregen over hoe een virus werkt en wat de elmenten zijn waar ze uit bestaan (de basis). Ook over de 5 verspeidings methodes: door de lucht, aanraking, bloed, sex en mond naar kont. Die laatste is bijvoorbeeld de buikgriep, dit gaat door de darmen er weer uit.
+Dit was een vrouw die gespecialiseerd was in virussen. We hebben een basis les gekregen over hoe een virus werkt en wat de elementen zijn waar ze uit bestaan (de basis). Ook over de 5 verspieding methodes: door de lucht, aanraking, bloed, seks en mond naar kont. Die laatste is bijvoorbeeld de buikgriep, dit gaat door de darmen er weer uit.
 
-Na deze informatie hebben we bekeken wat voor uitbraken er zijn geweest en hoe we er op hebben gereageerd. Als voorbeeld hebben we naar de spaanse griep, ebola en de gewone griep gekeken. Griep kennen we allemaal en heeft iedereen wel eens gehad. De laatste griep pandamie was in 2012 (mexicaanse griep) en was zo gemuteerd dat ons imuunsysteem het niet herkende/mee om kon gaan. Wat had dit als gevolg? Overvollen ziekenhuizen, scholen die moesten sluiten. Meer dan 250.000 mensen waren geinfecteerd en er waren 13.000+ doden gevallen. Dit is ongelofelijk voor een griep.
+Na deze informatie hebben we bekeken wat voor uitbraken er zijn geweest en hoe we er op hebben gereageerd. Als voorbeeld hebben we naar de Spaanse griep, ebola en de gewone griep gekeken. Griep kennen we allemaal en heeft iedereen wel eens gehad. De laatste griep pandemie was in 2012 (Mexicaanse griep) en was zo gemuteerd dat ons immuunsysteem het niet herkende/mee om kon gaan. Wat had dit als gevolg? Overvolle ziekenhuizen, scholen die moesten sluiten. Meer dan 250.000 mensen waren geïnfecteerd en er waren 13.000+ doden gevallen. Dit is ongelofelijk voor een griep.
 
-Natuurlijk hebben we het nieuws over ebola ook gehoord, dit was eerst alleen in een dorp ergens in kongo en hield telkens op omdat het dorp zo afgelegen was. De mensen waren op; ze waren dood of imuun waardoor het virus zich niet verder kon verspreiden. Er is ergens iets gebeurd waardoor het mee kwam naar het westen (een mega stad) waarna het zich als een gek heeft verspreid. Dit had dodelijke gevolgen, gelukkig is het nu onder controle.
+Natuurlijk hebben we het nieuws over ebola ook gehoord, dit was eerst alleen in een dorp ergens in Kongo en hield telkens op omdat het dorp zo afgelegen was. De mensen waren op; ze waren dood of immuun waardoor het virus zich niet verder kon verspreiden. Er is ergens iets gebeurd waardoor het mee kwam naar het westen (een mega stad) waarna het zich als een gek heeft verspreid. Dit had dodelijke gevolgen, gelukkig is het nu onder controle.
 
-Ook als voorbeeld is er het Zika virus, de virussen die behandeld worden uberhaupt komen eigenlijk uit de dieren wereld. Het virus is dan zo gemuteerd dat het vatbaar was voor de mens; Zika is er hier ook een van. Eerst was het een mug-aap-mug cyclus, op een begeven moment is de aap vervangen door de mens en zij wij de dragers geworden. Dit heeft heel veel gevolgen in de samenleving.
+Ook als voorbeeld is er het Zika virus, de virussen die behandeld worden überhaupt komen eigenlijk uit de dieren wereld. Het virus is dan zo gemuteerd dat het vatbaar was voor de mens; Zika is er hier ook een van. Eerst was het een mug-aap-mug cyclus, op een begeven moment is de aap vervangen door de mens en zij wij de dragers geworden. Dit heeft heel veel gevolgen in de samenleving.
 
 Al met al was dit ook een interessante talk, veel geleerd over virussen en wat ze eigenlijk doen; ik wist niet eens dat ze vanuit de dieren wereld kwamen.
 
 #### Hoe ziet een wereld zonder insecten eruit?
 
-Een wereld zonder insecten, geweldig toch? Geen muggen, geen spinnen (handig he Ilse 😛), eigenlijk gewoon geen vieze beestjes meer. Maar deze zijn wel degelijk nodig. In de afgelope 30 jaar zijn de insecten met 76% afgenomen! Ongelofelijk, meer dan 3/4e. Dit heeft impact op heel veel dingen. Insecten zijn een belangrijk iets in de voedsel keten en in de bestuivingen van bloemen. In China zijn de wilde bijen al uitgestorven en moet de hand alle bloemen bestuifd worden; dit is toch te gek voor worden! Als dit zo door gaat wordt fruit een luxe wat alleen de super rijke zich kunnen veroorloven. Als het voedselweb ook verstoord wordt vallen er een heleboel beesten ook af omdat er gewoonweg geen eten meer is voor ze.
+Een wereld zonder insecten, geweldig toch? Geen muggen, geen spinnen (handig he Ilse 😛), eigenlijk gewoon geen vieze beestjes meer. Maar deze zijn wel degelijk nodig. In de afgelopen 30 jaar zijn de insecten met 76% afgenomen! Ongelofelijk, meer dan 3/4e. Dit heeft impact op heel veel dingen. Insecten zijn een belangrijk iets in de voedsel keten en in de bestuivingen van bloemen. In China zijn de wilde bijen al uitgestorven en moet de hand alle bloemen bestuifd worden; dit is toch te gek voor worden! Als dit zo door gaat wordt fruit een luxe wat alleen de super rijke zich kunnen veroorloven. Als het voedsel web ook verstoord wordt vallen er een heleboel beesten ook af omdat er gewoonweg geen eten meer is voor ze.
 
-Ook hebben de insecten een lang leven onder de grond, als voorbeeld de langpootmug. Deze mug is 7 jaar lang een larf onder de grond.. hier heeft het een functie om samen met de bacteriën alles te verwerken wat op de grond valt. Hierdoor blijft de grond mooi zwart en vruchtbaar. Als deze ook allemaal weg zijn hebben we een klei-achtige wit/gele grond zonder enige voedingsstoffen. Dit is nadeling voor de landbouw en zal ook meer met de hand moeten gebeuren. Ook zullen bijvoorbeeld de bladeren niet meer opgenomen worden in de grond maar gaan ze rotten boven op de grond.. Dit is ook niet ideaal.
+Ook hebben de insecten een lang leven onder de grond, als voorbeeld de langpootmug. Deze mug is 7 jaar lang een larf onder de grond.. hier heeft het een functie om samen met de bacteriën alles te verwerken wat op de grond valt. Hierdoor blijft de grond mooi zwart en vruchtbaar. Als deze ook allemaal weg zijn hebben we een kleiachtige wit/gele grond zonder enige voedingsstoffen. Dit is nadelig voor de landbouw en zal ook meer met de hand moeten gebeuren. Ook zullen bijvoorbeeld de bladeren niet meer opgenomen worden in de grond maar gaan ze rotten boven op de grond.. Dit is ook niet ideaal.
 
 Al met al, we moeten ze niet allemaal dood willen hebben. Het voordeel is is dat insecten zich goed kunnen voortplanten, meerdere generaties per jaar en veel offspring. Ze moeten hier wel de ruimte voor hebben, dus als tip kregen we mee. Plant bloemen buiten voor de bijen en denk 2x na voordat je er eentje vermoord.
 
 #### Hoe kan een cyberaanval het internet platleggen?
 
-Dit was de laatste van de avond en natuurlijk de meest interessante voor ons (allebei ICTers). Kan dit echt? Ik was er sceptisch over. Internet is meer dan wat de consument denkt, wat wel kan is dat de services plat gaan die de consument gebruikt (en interpeteerd als internet). Hij had het over DDoS aanvallen die vroeger enkele GBits/s waren die nu al TBits/s kunnen zijn. Dit is een ongelofelijke hoeveelheid data. De vergeleiking had die met mensen die tegelijk HD Netflix kijken. De aanval met een paar GBits/s was evenveel als dat alle inwoners van Texel tegelijk Netflix zouden kijken. Dit is al aardig wat in mijn ogen. Die aanval met een paar TBit/s is alsof 300.000 mensen tegelijk Netflix HD gaan kijken. Dit is al ongelofelijk in mijn ogen.
+Dit was de laatste van de avond en natuurlijk de meest interessante voor ons (allebei ICTers). Kan dit echt? Ik was er sceptisch over. Internet is meer dan wat de consument denkt, wat wel kan is dat de services plat gaan die de consument gebruikt (en interpreteert als internet). Hij had het over DDoS aanvallen die vroeger enkele GBits/s waren die nu al TBits/s kunnen zijn. Dit is een ongelofelijke hoeveelheid data. De vergelijking had die met mensen die tegelijk HD Netflix kijken. De aanval met een paar GBits/s was evenveel als dat alle inwoners van Texel tegelijk Netflix zouden kijken. Dit is al aardig wat in mijn ogen. Die aanval met een paar TBit/s is alsof 300.000 mensen tegelijk Netflix HD gaan kijken. Dit is al ongelofelijk in mijn ogen.
 
 De nieuwe aanvallen die er aan zitten te komen worden alleen maar krachtiger en krachtiger. Hij had het over een aanval die overeen kwam met 30.000.000 mensen die Netflix HD kijken. De problemen die hierdoor kunnen opkomen gaan groots zijn, banken die het niet doen; vliegtuigen die niet kunnen vliegen.. en nog meer!
 
-Wat die voorstelde? Een noodplan. Een plan voor wat we doen als we aangevallen worden in een (toekomstige) cyberoorlog. We moeten onszelf kunnen disconnecten van het Internet en een infastructuur hebben die ook door kan zonder internet. Als bij ons de dijken doorbreken hebben we ook een duidelijk stappenplan wat we moeten doen. Dit zouden we ook moeten hebben voor de cyberoorlog!
+Wat die voorstelde? Een noodplan. Een plan voor wat we doen als we aangevallen worden in een (toekomstige) cyberoorlog. We moeten onszelf kunnen disconnecten van het Internet en een infrastructuur hebben die ook door kan zonder internet. Als bij ons de dijken doorbreken hebben we ook een duidelijk stappenplan wat we moeten doen. Dit zouden we ook moeten hebben voor de cyberoorlog!
 
 ### Conclusie
 
@@ -2095,15 +2093,15 @@ Na een dik uur hier mee bezig te zijn was het eten er! Pizza 🍕❤️!
 
 ### Iska GIF
 
-Na het eten begon de ISKA van Jasper, dit was zijn eerste ooit. Dit gaf hij van te voren aan en wou graag feedback achteraf voor mogelijk toekomstige ISKA's. Het ging over GIF en over het compressie algorithme. Ik vond dat zelf heel interessant, we hebben op school met `S-JCF41-S41` een huffman compressie moeten maken.
+Na het eten begon de ISKA van Jasper, dit was zijn eerste ooit. Dit gaf hij van te voren aan en wou graag feedback achteraf voor mogelijk toekomstige ISKA's. Het ging over GIF en over het compressie algoritme. Ik vond dat zelf heel interessant, we hebben op school met `S-JCF41-S41` een huffman compressie moeten maken.
 
-Het compressie algorirthme die gebruikt wordt bij GIF is een [Lemple-Ziv-Welch-algoritme](https://nl.wikipedia.org/wiki/Lempel_Ziv_Welch). Dit zelfde algorithme wordt ook gebruikt door de unix `compress` command. Hij had dit zelf geimplementeerd in Java, je had 3 verschillende varianten. Eentje met een 8-bit dictionary, 12-bit en een variable. Het algorithme maakt een dictionairy met herhaalbare tokens waardoor het dus een token van > 1 tekens op kan slaan als 1 byte.
+Het compressie algoritme die gebruikt wordt bij GIF is een [Lemple-Ziv-Welch-algoritme](https://nl.wikipedia.org/wiki/Lempel_Ziv_Welch). Dit zelfde algoritme wordt ook gebruikt door de unix `compress` command. Hij had dit zelf geïmplementeerd in Java, je had 3 verschillende varianten. Eentje met een 8-bit dictionary, 12-bit en een variable. Het algoritme maakt een dictionairy met herhaalbare tokens waardoor het dus een token van > 1 tekens op kan slaan als 1 byte.
 
 Dit algorithme was het grootste deel van de talk, het ging over bit shiften, bytes lezen en nog meer low level dingen (masks etc.). Dit was leuk want daar ben je normaal de dag niet meer mee bezig maar dit is wel hoe het allemaal under-the-hood werkt.
 
-Door veel gepraat over het algorithme was het al snel anderhalf uur later en zijn we snel overgestapt naar de daadwerkelijke gif implementatie. Hij had een GIF decoder geschreven die alle frames van een gif eruit haalde en weg schreef als los plaatje.
+Door veel gepraat over het algoritme was het al snel anderhalf uur later en zijn we snel overgestapt naar de daadwerkelijke gif implementatie. Hij had een GIF decoder geschreven die alle frames van een gif eruit haalde en weg schreef als los plaatje.
 
-Al met al was het een leuke leerzame ISKA ookal was het zijn eerste x. De volgende ISKA gaat over React Native maar die zal nog even duren.
+Al met al was het een leuke leerzame ISKA ook al was het zijn eerste x. De volgende ISKA gaat over React Native maar die zal nog even duren.
 
 ## Dag 47, 8-11-2018
 
@@ -2125,7 +2123,7 @@ Wessel heeft zelf geen programmeerachtergrond. De vragen die en antwoorden zoude
 
 Eenmaal het ruwe footage opgenomen te hebben ben ik het gaan verwerken. Ik had de vragen wel voorbereid maar de antwoorden niet. De antwoorden bevatte vaak een "uh" en die heb ik er allemaal uit geedit.
 
-Eenmaal klaar met het verwerken heb ik het geupload naar YouTube, die is [hier](https://www.youtube.com/watch?v=3A_tpx_T0N8) terug te vinden. Dit is een ruwe versie. Het streefdoel is zoiets als [dit](https://www.youtube.com/watch?v=lxYFOM3UJzo) neer te zetten.
+Eenmaal klaar met het verwerken heb ik het geüpload naar YouTube, die is [hier](https://www.youtube.com/watch?v=3A_tpx_T0N8) terug te vinden. Dit is een ruwe versie. Het streefdoel is zoiets als [dit](https://www.youtube.com/watch?v=lxYFOM3UJzo) neer te zetten.
 
 Ik heb een mail opgesteld en verstuurd naar Bartosz! Ik ben benieuwd.
 
@@ -2133,7 +2131,7 @@ Ik heb een mail opgesteld en verstuurd naar Bartosz! Ik ben benieuwd.
 
 ### Reactie van Bartosz
 
-Bartosz heeft gereageerd! Hij is er ethousiast over, wel moet ik toestemming vragen aan Marcel. Ik zal hier morgen een mail voor opstellen! Ik ben echt blij dat ik zo'n positieve reactie heb gekregen. Wel stelt hij voor om een transcriptie te maken van het interview om daar feedback op te krijgen en te verwerken. Hier zal ik morgen mee aan de slag gaan.
+Bartosz heeft gereageerd! Hij is er enthousiast over, wel moet ik toestemming vragen aan Marcel. Ik zal hier morgen een mail voor opstellen! Ik ben echt blij dat ik zo'n positieve reactie heb gekregen. Wel stelt hij voor om een transcriptie te maken van het interview om daar feedback op te krijgen en te verwerken. Hier zal ik morgen mee aan de slag gaan.
 
 ## Dag 49, 12-11-2018
 
@@ -2149,7 +2147,7 @@ Vandaag had ik om 10.00u een gesprek met Tim Mahy. Dit ging over een code-review
 
 Ik dacht oh shit, ik ben hier niet op voorbereid! Hij zei ook dat dit de bedoeling was. Ik ben begonnen met mijn opdracht uit te leggen en wat wel en niet binnen mijn opdracht valt. Toen heb ik de architectuur geschetst. Hij had er meteen vragen over waarom en wat de voordelen waren. Voor mijn gevoel kon ik het goed verdedigen en mijn keuzes onderbouwen. Toen zijn we ingegaan op de blockchain; wat het toevoegt, waarom, aanrader of niet. Ook hebben we het over documentatie gehad, ik heb toen mijn dashboard laten zien in Azure DevOps, de readme die ik had gemaakt en mijn PID. Ook hebben we gekeken naar de actuator endpoints en waarom ik die beschikbaar heb gesteld.
 
-Het onderwerp testen kwam ook in beeld, Tim had van te voren al in mijn repo gekeken maar kon de testen niet goed terug vinden. Dit kwam omdat er een mapje "tests" is onder src. Toen ik die liet zien en was dat nog niet alles. Dit waren de unit tests van de applicatie maar ik heb unit tests geschreven voor het smart contract. Deze waren terug te vinden in het mapje "truffle". Die had ide niet gezien! Hij vond het wel cool dat ik dit had gemaakt en heeft er ook van geleerd.
+Het onderwerp testen kwam ook in beeld, Tim had van te voren al in mijn repo gekeken maar kon de testen niet goed terug vinden. Dit kwam omdat er een mapje "tests" is onder src. Toen ik die liet zien en was dat nog niet alles. Dit waren de unit tests van de applicatie maar ik heb unit tests geschreven voor het smart contract. Deze waren terug te vinden in het mapje "truffle". Die had die niet gezien! Hij vond het wel cool dat ik dit had gemaakt en heeft er ook van geleerd.
 
 Ook hebben we het over toepassing van de blockchain gehad, wat ik er van vind. Ik heb hem [crypto kitties](http://cryptokitties.co) laten zien en uitgelegd waarom dit een echte blockchain applicatie is en waarom dit wat ik nu maak niet een echte blockchain applicatie is. Hij vond het goed dat ik ook de echte concepten snapte en daardoor ook kon concluderen dat ik dit geen gepaste applicatie vind.
 
