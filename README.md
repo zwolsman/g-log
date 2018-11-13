@@ -1667,21 +1667,21 @@ murf@Marvins-MacBook-Pro: [~] $ yarn global add truffle
 Toen dit toegevoegd was als package kon ik er gebruik van maken. Met [de docs]() er bij ben ik begonnen aan een leeg project. De eerste stap is `truffle init` intypen in een lege directory. Dit maakt dan een structuur aan waarin je je smart contract kan ontwikkelen en testen. Ik ben natuurlijk het meest geinterreseerd in het testen. Ik heb mijn smart-contract over gekopieerd van mijn bbb-api project en ben begonnen met tests te schrijven. Dit ging super makkelijk. Ik had al ervaring met JavaScript en met Mocha (het test framework). Hierdoor was het super simpel om gewoon te beginnen. Hieronder staat een test die geschreven is. Hier wordt het contract (de .sol) als een artifact gezien. Die kan je dan opvragen, een instantie van maken en dan met JavaScript functies op aanroepen.
 
 ```javascript
-  const BBBContract = artifacts.require("BBBContract");
-  const createInstance = async (amount = 150) => BBBContract.new(amount);
+const BBBContract = artifacts.require("BBBContract");
+const createInstance = async (amount = 150) => BBBContract.new(amount);
 
-  it("Should have a maximum of 100 points", async () => {
-    const MAX_SPENDINGS = 100;
-    const instance = await createInstance(MAX_SPENDINGS);
+it("Should have a maximum of 100 points", async () => {
+  const MAX_SPENDINGS = 100;
+  const instance = await createInstance(MAX_SPENDINGS);
 
-    const maxAllowed = (await instance.maxAllowed.call()).toNumber();
-    assert.equal(MAX_SPENDINGS, maxAllowed);
-  });
+  const maxAllowed = (await instance.maxAllowed.call()).toNumber();
+  assert.equal(MAX_SPENDINGS, maxAllowed);
+});
 ```
 
 Toen ik de tests had geschreven voor het smart-contract had ik ze aan Benny laten zien. De tests die ik had geschreven vond die voldoende, de use-cases waren erin getest en de edge cases ook. Toen ben ik mezelf gaan focussen op het testen van de Spring applicatie.
 
-De enige test die ik tot nu toe had was een integratie test, die keek gewoon of de applicatie volledig kon opstarten (en dus alle beans kon aanmaken). Hier moet wel wat meer getest worden! Ik ben gaan kijken, wat zijn de echte belangrijke interactie dingen die gedaan moeten worden, wat kan niet fout gaan. 
+De enige test die ik tot nu toe had was een integratie test, die keek gewoon of de applicatie volledig kon opstarten (en dus alle beans kon aanmaken). Hier moet wel wat meer getest worden! Ik ben gaan kijken, wat zijn de echte belangrijke interactie dingen die gedaan moeten worden, wat kan niet fout gaan.
 
 - Een account ophalen bij primary of alias email adres.
 
@@ -1749,7 +1749,7 @@ Dit levert het volgende resultaat op
 
 ### Slack button (repost bonus)
 
-Nu ben ik begonnen met het reposten van een bonus. Het idee is dat er iemand een bonus geeft en dat een gebruiker op "repost bonus" kan klikken. Deze stuurt dezelfde bonus, met hetzelfde aantal punten nog een keer naar de gebruiker. Hierdoor krijgt de gebruiker dus nog eens de punten. Om dit te implementeren moet je dus wel weten op welke bonus er geklikt wordt en door wie. 
+Nu ben ik begonnen met het reposten van een bonus. Het idee is dat er iemand een bonus geeft en dat een gebruiker op "repost bonus" kan klikken. Deze stuurt dezelfde bonus, met hetzelfde aantal punten nog een keer naar de gebruiker. Hierdoor krijgt de gebruiker dus nog eens de punten. Om dit te implementeren moet je dus wel weten op welke bonus er geklikt wordt en door wie.
 
 Ik heb het begin gemaakt, ik kan onderscheid maken tussen next/prev knop en de repost bonus knop. In deze repost bonus functie krijg ik binnen wat de `response_url` is, de gebruiker en de index van de bonus (van de lijst op de blockchain). Morgen ga ik verder implementeren, de bonus ophalen etc. en het daadwerkelijk opniew posten.
 
@@ -1794,7 +1794,7 @@ Ik heb nu de eerste 9 hoofdstukken af. De code is [hier](https://github.com/zwol
 
 ### Gaston helpen
 
-Terwijl ik bezig was met mijn react course hoorde ik Gaston wat zuchten. Dus ik vroeg van hey Gaston, wat is het probleem. Hij riep "__TYPESCRIPT__!" Ik zo ah joh, zo erg kan het niet zijn. Ik vind het een super leuke taal. Dus ik ging is even mee kijken wat die aan het doen was. Aan de programmeerstyle kon je zien dat die niet veel ervaring had met typescript. Bijvoorbeeld een constructor met properties gebruikte die niet, hij deed alles met getters en setters en dan private backing fields. Ik heb is even met Gaston gepraat en het project doorgesproken.
+Terwijl ik bezig was met mijn react course hoorde ik Gaston wat zuchten. Dus ik vroeg van hey Gaston, wat is het probleem. Hij riep "**TYPESCRIPT**!" Ik zo ah joh, zo erg kan het niet zijn. Ik vind het een super leuke taal. Dus ik ging is even mee kijken wat die aan het doen was. Aan de programmeerstyle kon je zien dat die niet veel ervaring had met typescript. Bijvoorbeeld een constructor met properties gebruikte die niet, hij deed alles met getters en setters en dan private backing fields. Ik heb is even met Gaston gepraat en het project doorgesproken.
 
 Ik heb toen meteen gevraagd of op [de repo](https://gitlab.com/Gaston_KDG/js-presentation-server) erbij mocht en dat mocht. IK ben toen begonnen op een nieuwe branch en ben gestart met het herschrijven. Veel code die er staat was niet optimaal, zoals die zelf ook al zei het is een PoC.
 
@@ -1828,13 +1828,13 @@ Ik wou dat mijn versie ook de git commit in de versie heeft zodat het makkelijk 
 
 ```json
 {
-    "build": {
-        "version": "1.0.0.156d142",
-        "artifact": "bbb-api",
-        "name": "bbb-api",
-        "group": "com.infosupport",
-        "time": "2018-10-25T12:37:47.211Z"
-    }
+  "build": {
+    "version": "1.0.0.156d142",
+    "artifact": "bbb-api",
+    "name": "bbb-api",
+    "group": "com.infosupport",
+    "time": "2018-10-25T12:37:47.211Z"
+  }
 }
 ```
 
@@ -1891,7 +1891,7 @@ Ik ben Spring specifiek gaan zoeken en vond meer waardevolle dingen.
 - [OAuth 2 Developers Guide](https://projects.spring.io/spring-security-oauth/docs/oauth2.html)
 - [Spring Boot 2 OAuth2 Authorization Server | JWT | MySQL](https://www.youtube.com/watch?v=wxebTn_a930)
 
-Na dit gezien & gelezen te hebben besef ik mezelf 2 dingen. 
+Na dit gezien & gelezen te hebben besef ik mezelf 2 dingen.
 
 Je hebt het verschil tussen een `Provider` `Resource Server`. Een provider provide endpoints om je op aan te melden, deze authenticeert je. Deze geeft uiteindelijk dus een token die je kan gebruiken bij de `resource server`. De `resource server` gaat de API zijn, hier moet je de token gebruiken voor het mogen ophalen/versturen van data.
 
@@ -1916,7 +1916,7 @@ De eerste stap was de juiste dependencies toevoegen, dit zijn `spring-security-o
 
 Als je deze 2 hebt toegevoegd is je applicatie op de "standaard" manier bevieligd. Er zijn alleen geen gebruikers en je hebt nergens meer rechten op (want je moet ingelogd zijn). Alle requests geven dus een `401` error.
 
-Van de sample projecten was [de configuratie](https://github.com/spring-projects/spring-security-oauth/blob/master/samples/oauth2/sparklr/src/main/java/org/springframework/security/oauth/examples/sparklr/config/OAuth2ServerConfig.java) het interessants. Hier zie je hoe de OAuth wordt opgezet, hoe de tokens worden opgeslagen en welke er uberhaupt zijn. 
+Van de sample projecten was [de configuratie](https://github.com/spring-projects/spring-security-oauth/blob/master/samples/oauth2/sparklr/src/main/java/org/springframework/security/oauth/examples/sparklr/config/OAuth2ServerConfig.java) het interessants. Hier zie je hoe de OAuth wordt opgezet, hoe de tokens worden opgeslagen en welke er uberhaupt zijn.
 
 ### PoC - In Memory
 
@@ -1969,7 +1969,7 @@ De `and().build()` is wat het daadwerkelijk invult in de database. Eenmaal ingev
 
 #### Secrets encrypted opslaan
 
-Hoe los je het vorige probleem op..? Met een password encoder! Die encoder maak je beschikbaar als een `bean` en wordt dan opgepakt door de `AuthenticationManager` en je moet hem handmatig zetten in de `ClientDetailsServiceConfigurer`. Dit is nu `clients.jdbc(dataSource).passwordEncoder(BCryptPasswordEncoder())`. Door dit te gebruiken worden de secrets opgeslagen als [BCRypt](https://en.wikipedia.org/wiki/Bcrypt) encrypted secrets. Deze password hashing functie is gebaseerd op [Blowfish](https://en.wikipedia.org/wiki/Blowfish_(cipher)). BCrypt maakt gebruik van salts voor tegen rainbow attacks en is een adoptieve funtie
+Hoe los je het vorige probleem op..? Met een password encoder! Die encoder maak je beschikbaar als een `bean` en wordt dan opgepakt door de `AuthenticationManager` en je moet hem handmatig zetten in de `ClientDetailsServiceConfigurer`. Dit is nu `clients.jdbc(dataSource).passwordEncoder(BCryptPasswordEncoder())`. Door dit te gebruiken worden de secrets opgeslagen als [BCRypt](https://en.wikipedia.org/wiki/Bcrypt) encrypted secrets. Deze password hashing functie is gebaseerd op [Blowfish](<https://en.wikipedia.org/wiki/Blowfish_(cipher)>). BCrypt maakt gebruik van salts voor tegen rainbow attacks en is een adoptieve funtie
 
 ## Dag 41, 30-10-2018
 
@@ -2033,7 +2033,6 @@ Zoals ik gister zei ging ik vandaag verder met de leeswijzer. Dit heb ik ook ged
 
 Het is weer zo ver! Er is weer een opname van de Universiteit van Nederland en ik ben er weer bij samen met [@joel](https://github.com/joelluijmes). We hebben samen bij de griek gegeten, Joel een pita gyros (het was zijn eerste keer!) en ik een gyros schotel. Het smaakte goed en zijn daarna naar Amsterdam gereden.
 
-
 Eenmaal aangekomen in Amsterdam hebben we de P+R faciliteit gebruikt van de Amsterdam ArenA. Daar staat de auto droog, veilig & goedkoop (aanrader). Je kan vanuit daar de metro pakken naar het centraal station echter moesten we daar niet zijn. We hoefde maar 4 haltes met de metro en toen waren we al bij Amsterdam AIR, waar de lezing plaatst vind!
 
 ![Universiteit van Nederland](https://github.com/zwolsman/g-log/raw/master/img/foto-uni-van-nederland.JPG)
@@ -2048,7 +2047,7 @@ Met dit principe wordt het klimaat dus ook beinvloed, ze had een film als voorbe
 
 #### Waarom gaan we uiteindelijk ten onder aan plastic soep?
 
-Deze was wel een eye opener, hoeveel plastic wij gebruiken als mensheid is echt niet normaal. Ze noemde plastic een design fout, het is helemaal uit de hand gelopen en er zijn voorspellingen dat ze in het jaar 3.000 nog steeds plastics vinden van *nu*. Dat is echt ongelofelijk! Het is ook werkelijk overal, ze heeft op verschillende punten metingen gedaan naar micro-plastics. Dit zijn de kleinste deeltjes van plastic die er bestaan. Omdat we plastic overal gebruiken komt het dus ook echt overal, het zit in onze kleren (polyester), ons eten is er in verpakt, onze telefoons zijn er van gemaakt etc. etc. Ze had een meeting gedaan naar microplastics in het afvalwater uit huis en daar kwam ze plastic tegen, uit het polyester van je kleren die je in de wasmachine stopt. Deze microdeeltjes komen in het riool terecht, gaan naar het zuiverings station en worden daar grote deels eruit gefilterd, maar niet alles! Wat er doorheen glipt komt in de natuur terecht of in ons drinkwater. Met die ontdekking was ze gaan onderzoeken of wij het ook in ons hebben. Dit is nog niet vastgesteld, wel de addatieven (zoals brandvertragers, pimgnet, anti-statisch etc.) zijn wel al terug gevonden in ons lichaam!
+Deze was wel een eye opener, hoeveel plastic wij gebruiken als mensheid is echt niet normaal. Ze noemde plastic een design fout, het is helemaal uit de hand gelopen en er zijn voorspellingen dat ze in het jaar 3.000 nog steeds plastics vinden van _nu_. Dat is echt ongelofelijk! Het is ook werkelijk overal, ze heeft op verschillende punten metingen gedaan naar micro-plastics. Dit zijn de kleinste deeltjes van plastic die er bestaan. Omdat we plastic overal gebruiken komt het dus ook echt overal, het zit in onze kleren (polyester), ons eten is er in verpakt, onze telefoons zijn er van gemaakt etc. etc. Ze had een meeting gedaan naar microplastics in het afvalwater uit huis en daar kwam ze plastic tegen, uit het polyester van je kleren die je in de wasmachine stopt. Deze microdeeltjes komen in het riool terecht, gaan naar het zuiverings station en worden daar grote deels eruit gefilterd, maar niet alles! Wat er doorheen glipt komt in de natuur terecht of in ons drinkwater. Met die ontdekking was ze gaan onderzoeken of wij het ook in ons hebben. Dit is nog niet vastgesteld, wel de addatieven (zoals brandvertragers, pimgnet, anti-statisch etc.) zijn wel al terug gevonden in ons lichaam!
 
 Sinds dat onderzoek zijn er ook een x aantal additieven verboden omdat ze toxisch zijn voor ons lichaam. Eenmaal in je lichaam kom je er niet van af en kunnen er chronische ontstekingen onstaan. Dit wil je natuurlijk niet..
 
@@ -2138,7 +2137,7 @@ Bartosz heeft gereageerd! Hij is er ethousiast over, wel moet ik toestemming vra
 
 ## Dag 49, 12-11-2018
 
-Terugkomend op de reactie van Bartosz ga ik vandaag een transcriptie maken van het *hele* interview, ook wat ik niet had bewerkt. Dit is zodat er feedback gegeven kan worden op het interview. Ik heb ook een mail opgesteld naar Marcel om het idee voor te leggen. Ik ben benieuwd wat die daar van vind.
+Terugkomend op de reactie van Bartosz ga ik vandaag een transcriptie maken van het _hele_ interview, ook wat ik niet had bewerkt. Dit is zodat er feedback gegeven kan worden op het interview. Ik heb ook een mail opgesteld naar Marcel om het idee voor te leggen. Ik ben benieuwd wat die daar van vind.
 
 Uiteindelijk heel de transcriptie geschreven (2000+ woorden) na talloos terugluisteren van het interview. Ik heb mezelf nu wel genoeg gehoord & gezien. Dit heb ik op de mail gezet naar Bartosz toe en ben benieuwd wat voor feedback ik ga krijgen.
 
