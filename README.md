@@ -181,6 +181,9 @@
     - [Dag 50, 13-11-2018](#dag-50-13-11-2018)
         - [Gesprek Tim Mahy](#gesprek-tim-mahy)
         - [De dag verder](#de-dag-verder)
+    - [Dag 51, 14-11-2018](#dag-51-14-11-2018)
+        - [CROQUE MIDDAG!](#croque-middag)
+        - [Gesprek met Ilse](#gesprek-met-ilse-2)
 
 <!-- /TOC -->
 
@@ -2364,3 +2367,21 @@ done
 ```
 
 Deze maakt een kopie aan van elk bestandje en gebruikt de `iconv` tool voor de nieuwe encoding. Op deze manier blijft je history hetzelfde en is de encoding wel aangepast. Je moet dit dan pushen met de `--force` flag.
+
+## Dag 51, 14-11-2018
+
+Vandaag ben ik verder gegaan met mijn React course op Pluralsight. De elementen die nu aangekomen zijn is het testen van applicaties. Dit is wel een interessant onderwerp. Het verschil tussen de frameworks (met code voorbeelden) en hoe je ook je recuders moet testen etc.
+
+Deze kennis ga ik gebruiken bij het bouwen van een web frontend voor mijn stage opdracht. Omdat ik geen contact heb met Benny op het moment (hij is in Rusland op een lezing) bereid ik mezelf alvast voor zodat ik dan stappen kan maken.
+
+### CROQUE MIDDAG!
+
+Stefanie had een croque (tosti) middag georganiseerd! Ik heb meegeholpen in de _assembly line_ en heb samen met 5 andere collega's alle tosti verzorgt. Hieronder zie je een foto van ons in actie. Ik heb in het totaal 3 tosti's op en ze waren heerlijk. Zeker voor herhaling vatbaar als je het aan mij vraagt!
+
+> Random fact: Ham heet hier _hesp_
+
+![Croque assembly line](https://github.com/zwolsman/g-log/raw/master/img/ss_croques.jpg)
+
+### Gesprek met Ilse
+
+Vandaag is ook weer het 2-wekelijkse gesprek met Ilse. We hebben het gehad over mijn portfolio; hoe ik dit ga aanpakken. Hier heb ik zelf nog wel enige vragen bij. Omdat ik met het idee van een interview kwam moet ik een beetje de weg vinden wat nu nog schriftelijk moet en wat niet. Dit heb ik ook samen met Ilse besproken. Ook hebben we het over het interview gehad en de feedback die ik had gekregen. Op het moment wacht ik nog op een reactie van Bartosz, als die het uitgewerkte interview voldoende vind  weet ik ook wat er nog in een eventueel `portfolio abstract` moet wat dus **niet** in het interview zit.
