@@ -180,6 +180,7 @@
     - [Dag 49, 12-11-2018](#dag-49-12-11-2018)
     - [Dag 50, 13-11-2018](#dag-50-13-11-2018)
         - [Gesprek Tim Mahy](#gesprek-tim-mahy)
+        - [De dag verder](#de-dag-verder)
 
 <!-- /TOC -->
 
@@ -2335,3 +2336,31 @@ Het onderwerp testen kwam ook in beeld, Tim had van te voren al in mijn repo gek
 Ook hebben we het over toepassing van de blockchain gehad, wat ik er van vind. Ik heb hem [crypto kitties](http://cryptokitties.co) laten zien en uitgelegd waarom dit een echte blockchain applicatie is en waarom dit wat ik nu maak niet een echte blockchain applicatie is. Hij vond het goed dat ik ook de echte concepten snapte en daardoor ook kon concluderen dat ik dit geen gepaste applicatie vind.
 
 Al met al was Tim zeer positief en heb ik ook een "meer dan positief" advies gekregen zei die. Dit is wel fijn om te horen en ben er ook trots op.
+
+### De dag verder
+
+Verder ben ik aan de slag gegaan met mijn documentatie. Ik heb met Marcel gemaild over wat er nu verwacht wordt en heb nu een beoordelingsformulier gekregen. Als ik mijn leeswijzer verfilm moet ik mijn _schrijftelijke verslaglegging_ op een andere manier aantonen. Dit zal mede doormiddel van deze blog zijn. Het probleem.. Deze blog is niet heel netjes geschreven, het waren mijn ruwe gedachtes. Ik ben begonnen met alle typ- en spellingsfouten eruit te halen. Dit waren er behoorlijk veel, __153__ om precies te zijn! Ook heb een ik een table of contents toegevoegd, deze zal ik eens in de week updaten zodat die overeen komt met het huidige document.
+
+![Spellingscontrole](https://github.com/zwolsman/g-log/raw/master/img/ss_spellingscontrole.png)
+
+Ook ben ik nog bezig geweest met Git/GitHub en mijn file encoding. Deze stond op `UTF-16LE` waardoor die gezien werd als `binary` file. Dit is niet fijn want dan kan ik mijn changes niet zien. Ik heb met een git commando mijn hele history opniew neergeschreven met `UTF-8` encoding en nu werkt wel alles. Als ik dit niet had gedaan kon ik bijvoorbeeld de changes van mijn spellingscontrole niet inzien, het enige wat er dan kwam te staan is `xxx bytes` toegevoegd.
+
+Het git commando wat ik heb gebruikt is het volgende
+
+```bash
+murf@Marvins-MacBook-Pro: [~] $ git filter-branch --tree-filter $pwd/tmp/recode-all-files HEAD
+```
+
+`$pwd` is de `pwd` functie in de fish shell, dit verwijst naar een scriptje met de volgende code.
+
+```bash
+#!/bin/sh
+
+find . -type f -print | while read f; do
+        mv -i "$f" "$f.recode.$$"
+        iconv -f utf-16-le -t utf-8 < "$f.recode.$$" > "$f"
+        rm -f "$f.recode.$$"
+done
+```
+
+Deze maakt een kopie aan van elk bestandje en gebruikt de `iconv` tool voor de nieuwe encoding. Op deze manier blijft je history hetzelfde en is de encoding wel aangepast. Je moet dit dan pushen met de `--force` flag.
