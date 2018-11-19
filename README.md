@@ -2226,3 +2226,21 @@ Van al die projecten leerde hij verschillende dingen die hij dus daadwerkelijk m
 De video is [hier](https://www.youtube.com/watch?v=KADksbmr8NY) te vinden, hij heet _Learning Through Tinkering: The Need for Pet Projects by Tom Cools_
 
 ![Tom talk](https://github.com/zwolsman/g-log/raw/master/img/ss_talk_tom.jpg)
+
+## Dag 53, 16-11-2018
+
+Vandaag wou ik typescript gebruiken in mijn React webapp. Dit is een superset op javascript, het voegt types toe. Door types toe te voegen werkt de intellisense vele malen beter in Visual Studio Code en vind ik het fijner werken.
+
+Ik ben naar blog's gegaan op medium om te kijken wat mensen al hadden ondervonden. Tot mijn verbazing vond ik een blogpost genaamt [Why I no longer use TypeScript with React and why you might want to switch too](https://hackernoon.com/why-i-no-longer-use-typescript-with-react-and-why-you-shouldnt-either-e744d27452b4). Dit zag ik niet aankomen, de javascript community is juist altijd super positief over typescript en hier vind ik iemand die zegt dat je het niet moet doen?! Wat zijn de minpunten. Eigenlijk is het grote minpunt waarom hij het afwijst de compile time. Als je een change maakt in typescript moet de hele file opniew gecompiled worden, dit duurt langer dan dat het.. niet hoeft? Dit was een minpunt waar ik wel mee kon leven, het was alsnog snel genoeg op mijn laptop.
+
+Ik vond ook een blog genaamt [React + TypeScript = ❤️](https://medium.com/@amcdnl/react-typescript-%EF%B8%8F-647aa7d054a9), kijk! Dat lijkt er meer op! Je ziet hier iemand eigenlijk heel typescript zelf instellen voor react, deze post komt ook uit augustus 2018. Dit is alweer 3 maanden geleden. Wat zou er allemaal al veranderd zijn? Ik ging kijken naar de `react-scripts-ts` die [hier](https://github.com/wmonk/create-react-app-typescript) te vinden is en heb het volgende commando uitgevoerd
+
+```bash
+murf@Marvins-MacBook-Pro: [~] $ create-react-app my-app --scripts-version=react-scripts-ts
+```
+
+Dit maakt een applicatie genaamt `my-app` aan met typescript! Alles is al geconfigureerd en werkt out-of-the-box. Dit is natuurlijk geweldig! Ik heb ook gekeken voor een andere UI library, kijken hoe dat werkt.
+
+Ik kwam uit op [ant.design](https://ant.design), de style trok mij heel erg. Ook vond ik het een pluspunt dat het **meer** is dan een component library, het is een design language. Wat betekend dit? Dat er guidelines zijn waar je een button neer zet en _waarom_. Ik vind dit wel waardevolle informatie waardoor je consistent blijft in je vormgeving. Dit is zeker een pluspunt. __PLUS__ het ondersteund typescript! Dit is gewoon mooi. Ik heb een proof-of-concept gemaakt in react, typescript en ant. Hieronder zie je een screenshot. Dit is nu nog statische dummy data, ik wil dit laten zien aan Benny aankomende dinsdag zodat we kunnen bespreken of ik dit mag gaan uitwerken.
+
+![Screenshot webapp proof of concept](https://github.com/zwolsman/g-log/raw/master/img/ss_webapp_poc.png)
