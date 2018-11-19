@@ -2207,4 +2207,4 @@ Vandaag ben ik begonnen aan een [course Bulma](https://app.pluralsight.com/libra
 
 Ik ben daarna gaan kijken of ik dit kon toepassen in React. De eerste blogpost die ik las was [Introduction to Bulma with React](https://alligator.io/react/intro-react-bulma-components/), deze maakte gebruik van de npm package `react-bulma-components`. Die documentatie was te vinden [in een storybook](https://couds.github.io/react-bulma-components/), dit is een playground waar je code ziet en het resultaat. Hier kan je ook live dingen aanpassen, deze manier is heel gebruikelijk binnen de React community.
 
-Met deze informatie heb ik een basis design gemaakt.
+Met deze informatie heb ik een basis design gemaakt met react components!
