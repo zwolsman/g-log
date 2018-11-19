@@ -2208,3 +2208,21 @@ Vandaag ben ik begonnen aan een [course Bulma](https://app.pluralsight.com/libra
 Ik ben daarna gaan kijken of ik dit kon toepassen in React. De eerste blogpost die ik las was [Introduction to Bulma with React](https://alligator.io/react/intro-react-bulma-components/), deze maakte gebruik van de npm package `react-bulma-components`. Die documentatie was te vinden [in een storybook](https://couds.github.io/react-bulma-components/), dit is een playground waar je code ziet en het resultaat. Hier kan je ook live dingen aanpassen, deze manier is heel gebruikelijk binnen de React community.
 
 Met deze informatie heb ik een basis design gemaakt met react components!
+
+### After lunch talk van collega
+
+Een van onze collega's (Tom Cools) gaf een talk bij Devox Belgium, het ging over side projects. Deze hebben we met zijn alle bekeken op een tv scherm (foto hieronder).
+
+De 3 punten die hij besprak waren *limit yourself*, *automate whatever* en *replicate*. Door die 3 principes te gebruiken bij je pet projects leer je nieuwe dingen die je daarna weer kan toepassen in je professionele leven.
+
+Limit yourself was een game die hij had gemaakt zonder enige libraries en zijn eigen basis physics engine te maken.
+
+Automate whatever was in zijn tijd als leraar de preventielijst automaten. Als er gezichten herkend werden stuurde hij ze naar de cloud en werden ze aan een naam gematcht. Op die manier hoefde hij de preventie lijst niet meer zelf bij te houden.
+
+Replicate was zijn pokemon go reverse engineering trip. Hij heeft een pokemon go server nagemaakt en is anders gaan denken. Hij nam als voorbeeld dat toen hij het eerst bedachte alles met JSON en HATEOS te doen maar uiteindelik bleek de implementatie super anders. 1 Endpoint (`/rpc`) met Google Protocol Buffers.
+
+Van al die projecten leerde hij verschillende dingen die hij dus daadwerkelijk meenam in zijn professionele leven. Ik vond het wel een leuke talk.
+
+De video is [hier](https://www.youtube.com/watch?v=KADksbmr8NY) te vinden, hij heet _Learning Through Tinkering: The Need for Pet Projects by Tom Cools_
+
+![Tom talk](https://github.com/zwolsman/g-log/raw/master/img/ss_talk_tom.jpg)
