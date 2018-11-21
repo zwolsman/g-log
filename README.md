@@ -2264,3 +2264,24 @@ Een dumb component, oftewel een presentation component heeft geen logica. Deze h
 Nu we dit weten kunnen we concluderen dat een page een dumb component is die container components heeft. Deze container components hebben dan weer dumb components om dingen weer te geven. Op deze manier kan je dus onderscheid maken tussen scenes en components. Ook is het mogelijk om op 1 component afhankelijk te zijn van andere components die nergens anders worden gebruikt, deze moeten dan genest worden in de map van het component.
 
 Op deze manier hou je orde en overzicht. Ik heb op github een rock paper scissors voorbeeld gevonden in deze opbouw; die is [hier](https://github.com/alexmngn/react-rock-paper-scissors) te vinden.
+
+## Dag 55, 20-11-2018
+
+> Het is mijn verjaardag! Ik heb taart gehaald voor mijn collega's. Er was krieken-, flannen- en rijstentaart.
+> ![Screenshot webapp proof of concept](https://github.com/zwolsman/g-log/raw/master/img/IMG_F20BFA16AFBB-1.jpg)
+
+Vandaag hebben Mathias en ik een afspraak 's middags met Mark Stap over de arbeidsvoorwaarde bij Info Support. Ik kijk daar wel naar uit.
+
+### Reacten
+
+Ik ben ook weer bezig geweest met reacten. Ik heb een "add bonus" knop gemaakt die een venster weergeeft waarop je data kan invoeren. De data die ingevoerd moet worden is natuurlijk naar wie, hoeveel punten en de tekst om er aan toe te voegen.
+
+### Arbeidsvoorwaarde presentatie
+
+Omdat het gesprek met Tim Mahy goed ging kwamen we in aanraking voor een contract. Deze presentatie werd gegeven door Mark Stap, een collega van HR. In de presentatie kwam heel veel aan bod, van aantal vrije dagen tot pensioen. De eerste presentatie ging over de voorwaarde in Belgie, deze zijn iets anders dan in Nederland. Na al deze informatie ben ik nog apart genomen en heb ik de presentatie van Nederland gekregen. Ik had aangegeven dat ik niet persee terug naar Nederland moet en er heel erg open-minded over ben vandaar de 2 presentaties.
+
+Onder de streep scheelt het bijna niks met elkaar, het is alleen iets anders opgebouwd. Een van de verschillen die er wel uitsprongen was het aantal vrije dagen. In Nederland is dit 5 weken, in Belgie 8! Dat is nogal een groot verschil vond ik zelf, dit is alleen wettelijk bepaalt dus vandaar.
+
+Ook viel het mij op dat je in Belgie netto maaltijdcheques krijgt, dat is blijkbaar iets typisch belgisch. Over 80% van de gewerkte dagen in de maand krijg je een x bedrag als maaltijdcheque.
+
+Ik ben ook een uur eerder gestopt vandaag ivm mijn verjaardag. Mijn familie komt mij opzoeken en Mechelen en gaan met zijn alle uiteten. Aangezien ik morgen naar de ISKA ga haal ik dat uur weer in en klopt alles gewoon.
