@@ -2285,3 +2285,49 @@ Onder de streep scheelt het bijna niks met elkaar, het is alleen iets anders opg
 Ook viel het mij op dat je in Belgie netto maaltijdcheques krijgt, dat is blijkbaar iets typisch belgisch. Over 80% van de gewerkte dagen in de maand krijg je een x bedrag als maaltijdcheque.
 
 Ik ben ook een uur eerder gestopt vandaag ivm mijn verjaardag. Mijn familie komt mij opzoeken en Mechelen en gaan met zijn alle uiteten. Aangezien ik morgen naar de ISKA ga haal ik dat uur weer in en klopt alles gewoon.
+
+## Dag 56, 21-11-2018
+
+### Aanpassingen core
+
+Aangezien ik in mijn OAuth implementatie alleen de Slack client heb geregistreert werkte de web api niet meer. Omdat ik zo verder aan het gaan ben met mijn front-end react app moest ik dit eens updaten. Wat komt er allemaal bij kijken?
+
+#### Schema.sql updaten
+
+`Schema.sql` is het script wat uitgevoerd wordt bij het deployen. Deze gooit de database weg en maakt een nieuwe aan. Hier heb ik ook insert statements in zitten voor het aanmaken van de clients. Hier moet nu dus een extra client bij.
+
+#### OAuth filter voor de Feign client van de web api
+
+Nu de API geregistreert is moet er in de `resources.properties` de `clientId` en `clientSecret` opgenomen worden zodat deze gebruikt kunnen worden voor de WebClient. De client krijgt een OAuth filter die hier gebruik van maakt voor het aanvragen van een token, deze implementatie is hetzelfde als die van Slack maar met een andere id/secret.
+
+Na deze aanpassingen kan de webclient weer gebruik maken van de core. Ik kan bonussen ophalen!
+
+### React bonuses laten laden
+
+Oke, de API is in orde. Nu het React gedeelte. Hoe gaan we dit aanpakken. De normale JavaScript fetch api is beschikbaar (want het is tenslotte een JavaScript omgeving). Deze ga ik gebruiken! Hoe ga ik er voor zorgen dat hier types worden gebruikt voor TypeScript? Hieronder zie je een snippet van de code. In de container class (BonusList) wordt er in de `componentDidLoad()` een call gemaakt naar `loadBonuses` die dan de state update van het desbetreffend component.
+
+```typescript
+interface IPage<T> {
+  content: T[];
+  last: boolean;
+  number: number;
+}
+
+export interface IBonus {
+  from: string;
+  to: string;
+  points: number;
+  comment: string;
+}
+
+async function loadBonuses(): Promise<IBonus[]> {
+  const response = await fetch(API_URL);
+  const page = (await response.json()) as IPage<IBonus>;
+
+  return page.content;
+}
+```
+
+Dit component laad dan alle bonussen zien die van de API komen. Ik heb er voor gekozen om de e-mailadressen te splitten op een `@` en alleen het eerste deel te laten zien. 
+
+Nu is het `18:15` en ga ik eten! Om `19:00` begint de ISKA over React Native! Ik ben benieuwd.
