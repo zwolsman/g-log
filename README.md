@@ -2328,6 +2328,18 @@ async function loadBonuses(): Promise<IBonus[]> {
 }
 ```
 
-Dit component laad dan alle bonussen zien die van de API komen. Ik heb er voor gekozen om de e-mailadressen te splitten op een `@` en alleen het eerste deel te laten zien. 
+Dit component laad dan alle bonussen zien die van de API komen. Ik heb er voor gekozen om de e-mailadressen te splitten op een `@` en alleen het eerste deel te laten zien.
 
 Nu is het `18:15` en ga ik eten! Om `19:00` begint de ISKA over React Native! Ik ben benieuwd.
+
+### De ISKA
+
+De Iska ging dus over React Native, een React port die i.p.v. html elementen renderd in je browser bouwt naar native componenten (TextLabel, TextInput etc.). Deze ISKA was gegeven door iemand die een app had gemaakt in deze omgeving.
+
+Tijdens de presentatie vertelde hij waarom die React Native fijn vond en dit waren allemaal argumenten waarom React fijn is, niet een specifieke voor React Native. Dit vond ik al een beetje gek. Hij had wel verteld dat die een Web achtergrond had en dat dat goed aansloot bij dit.
+
+Hij was ook een voorstander van TypeScript en veel van de voordelen die hij opnoemde voor React Native kwamen ook door TypeScript. Ik denk dat hij niet veel ervaring had met gewoon JavaScript en daardoor niet inzag wat TypeScript allemaal toevoegd.
+
+Tijdens het bouwen ging er veel mis, de bundler startte niet goed, tijdens het hercompileren ging er vanalles fout waardoor de app een rood scherm werd met foutmeldingen. Het voelde allemaal een beetje amateuristisch aan. Dit komt waarschijnlijk omdat die veel van branch switchtde en er dingen gecached werden waardoor er honderd-en-een dingen fout gingen.
+
+Vanuit mijn Smart Mobile achtergrond (2 jaar specialisatie & minor) vond ik het niet zo aantrekkelijk. Ik ben toch echt wel een voorstander voor Native. Dan kan je alles precies voor dat platform maken en het zal altijd sneller zijn omdat er geen vertaalslag of wat dan ook nodig zal zijn. Ook denk ik dat als je Native ontwikkeld je veel meer feel hebt voor het besturingssysteem dat je gebruikt.
