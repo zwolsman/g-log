@@ -2419,4 +2419,6 @@ Hier zie je dus de POST naar `common/oauth2/token` met variables. Deze variables
 
 Hier zie je eigenlijk 2x dezelfde post, zelfde endpoint. Ik heb geen idee waar het aan kan liggen..
 
-Aha! Ik heb iets gevonden (denk ik). De 2e versie doet de Basic Authentication token anders. Die doet de secret "url encoden" waardoor je dus een andere token krijgt. De eerste versie doet dit dus niet, die doet gewoon `$clientid:$clientsecret` i.p.v. `urlEncode($clientid):urlEncode($clientsecret)`. Eens kijken of ik dit ergens in kan stellen/op kan lossen.
+## Dag 59, 26-11-2018
+
+Verder gaande waar ik vrijdag achter ben gebleven is het nog meer debuggen..! Ik heb iets gevonden (denk ik). De 2e versie doet de Basic Authentication token anders. Die doet de secret "url encoden" waardoor je dus een andere token krijgt. De eerste versie doet dit dus niet, die doet gewoon `$clientid:$clientsecret` i.p.v. `urlEncode($clientid):urlEncode($clientsecret)`. Eens kijken of ik dit ergens in kan stellen/op kan lossen.
