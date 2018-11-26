@@ -2343,3 +2343,35 @@ Hij was ook een voorstander van TypeScript en veel van de voordelen die hij opno
 Tijdens het bouwen ging er veel mis, de bundler startte niet goed, tijdens het hercompileren ging er vanalles fout waardoor de app een rood scherm werd met foutmeldingen. Het voelde allemaal een beetje amateuristisch aan. Dit komt waarschijnlijk omdat die veel van branch switchtde en er dingen gecached werden waardoor er honderd-en-een dingen fout gingen.
 
 Vanuit mijn Smart Mobile achtergrond (2 jaar specialisatie & minor) vond ik het niet zo aantrekkelijk. Ik ben toch echt wel een voorstander voor Native. Dan kan je alles precies voor dat platform maken en het zal altijd sneller zijn omdat er geen vertaalslag of wat dan ook nodig zal zijn. Ook denk ik dat als je Native ontwikkeld je veel meer feel hebt voor het besturingssysteem dat je gebruikt.
+
+## Dag 57, 22-11-2018
+
+### Gesprek met Benny
+
+Vandaag heb ik weer eens een gesprek gehad met Benny. Hij is een week afwezig geweest omdat die een talk had in Moscow. Ik heb besproken wat ik afgelopen 2 sprints heb gedaan, dit was mijn interview opnemen & voorbereiden, React & Bulma courses en de Proof-of-Concept opzetten voor de web app.
+
+Benny kwam met de functionaliteit om Azure Active Directory te integreren. Dit is zodat mensen met hun Info Support account kunnen inloggen en er ook een auto-complete functionaliteit zal komen bij het geven van een bonus in de web app. Dit leek mij een mooie toevoeging en dit hebben we ingeplanned.
+
+### Wat is Azure Active Directory?
+
+[Azure Active Directory](https://azure.microsoft.com/nl-nl/services/active-directory/) is een identiteits- en toegangsbeheersysteem. Hier heeft Info Support al zijn gebruikers in staan. Deze kan via het OAuth 2 protocol aangesproken worden om toegang te geven.
+
+### Integratie met AAD
+
+Oke, nu ik een idee heb wat het is moet ik het werkend krijgen. Ik heb een demo project aangemaakt genaamd `aad-demo`. Spring ondersteund Azure Active Directory en heb dus de dependencies toegevoegd bij het maken van de applicatie met de [Spring Initialzr](https://start.spring.io).
+
+Dependencies:
+
+- Web (`spring-boot-starter-web`)
+- Security (`spring-boot-starter-security`, `spring-security-oauth2-client`, `spring-security-oauth2-jose`)
+- Azure Active Directory (`azure-active-directory-spring-boot-starter`)
+
+Ik heb het [tutorial](https://azure.microsoft.com/en-us/blog/spring-security-azure-ad/) van Microsoft gevolgd genaamd _"Spring Security Azure AD: Wire up enterprise grade authentication and authorization"_. Na dit tutorial te volgen werkte het nog steeds niet. Ik kan maar niet begrijpen waarom niet. Ik heb de stappen gevolgd en krijg een foutmelding.
+
+Na de comments te lezen op de Github van [Microsoft/azure-spring-boot](https://github.com/Microsoft/azure-spring-boot) kwam ik bij het kopje _"If registered application is not multi-tananted, how to run this sample?"_ op de pagina `azure-spring-boot/azure-spring-boot-samples/azure-active-directory-spring-boot-backend-sample/README.md`. Dit impliciteerd dus dat een applicatie `multi-tananted` kan zijn en dat ze hier dus vanuit gaan. Toen ben ik gaan kijken en zag ik dat dit niet zo was bij mij.
+
+Eenmaal de checkbox aangevinkt en nog eens geprobeerd werkte het nog steeds niet. Als ik met mijn `@infosupport.com` account inlog krijg ik een melding dat een admin toestemming moet geven voor deze applicatie.. Dit werkt dus niet. Toen heb ik een account aangemaakt in de Active Directory die ik had aangemaakt, deze heet bbbapi.
+
+Het account wat ik heb aangemaakt is `marvin@bbbapi.onmicrosoft.com`, dit is dus een lokale gebruiker in mijn AAD. Met deze zou ik in moeten kunnen loggen dan. Ik probeerde het en kreeg alsnog een foutmelding. 401 - Unautherized, hoe kan dit? Hier ga ik morgen verder naar kijken.
+
+![Screenshot webapp proof of concept](https://github.com/zwolsman/g-log/raw/master/img/ss_azure_error.png)
