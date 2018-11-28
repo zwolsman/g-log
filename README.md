@@ -2448,3 +2448,18 @@ Om 16:00 uur had ik nog een sollicitatie staan! Dit keer bij Jarpis. Dit is een 
 Ik had hier ook niet echt een idee wat ik kon verwachten alleen dat het een klein bedrijfje was. Dit is een bedrijf met 2 bazen (rond de 25-30 en 4 parttime medewerkers. De 2 bazen waren super toffe gozers en dit gebouw was echt super nieuw en mooi. Ze hadden het IOT toegepast om automatisch te tracken welke bureau's of kamers gebruikt werden en dit kon je inzien op een super groot scherm in de lunch ruimte. Het gesprek verliep super goed en de technieken die ze daar gebruikte waren ook echt wel in mijn straatje. Hier ben ik wel erg enthousiast over. Ik ben uitgenodigd voor een 2e gesprek en benieuwd hoe die gaat!
 
 Al met al was dit een hele drukke dag met veel indrukken. Ik solliciteer bij andere bedrijven omdat ik eens rond wil kijken hoe het er aan toe gaat binnen de ICT wereld en mezelf te orienteren.
+
+## 25-11-2018
+
+### Bol.com IT Young Professional day
+
+Om 13:00 uur begon de IT dag bij bol.com, wie kent de site niet. We kregen een introductie hoe het bij bol.com is. Het bedrijf bestaat uit 1500(!) medewerkers, dit is echt ongelofelijk groot. Ongeveer 400 hiervan zijn IT medewerkers, verdeeld in ~70 teams. Al deze teams werken helemaal autonoom, dit is wel echt cool. Er draaien +- 300 microservices waar teams dus ook zelf verantwoordelijk zijn (OpEx principe).
+
+Ook wordt er gebruik gemaakt van het YBI YRI YLI principe. Elk team is dus 100% verantwoordelijk voor de service die ze maken en onderhoud ervan. Omdat alles autonoom is, is elk team ook in staat om zelf te deployen naar de live productie. Dit gebeurt ook meerdere keren per dag!
+
+> YBI YRI YLI
+> You Build It, You Run It, You Love It
+
+Na de rondleiding hebben we een 1:2 gesprek gehad met mensen van daar en kregen we een inzicht of we uberhaupt wel bij bol.com passen. Ik heb er een goed gevoel bij en denk dat ik ook ga solliciteren. Dit is toch wel een heel ander iets dan Info Support of Jarpis. Ik ben benieuwd hoe dit zal verlopen!
+
+Ik ben net terug in Mechelen en ga zo lekker mijn bed in, het is weer een lange dag geweest.. veel gereden en ben toe aan slaap! Morgen weer verder met de Azure Active Directory en gesprek met Benny.
