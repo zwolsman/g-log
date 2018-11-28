@@ -2424,3 +2424,27 @@ Hier zie je eigenlijk 2x dezelfde post, zelfde endpoint. Ik heb geen idee waar h
 Verder gaande waar ik vrijdag achter ben gebleven is het nog meer debuggen..! Ik heb iets gevonden (denk ik). De 2e versie doet de Basic Authentication token anders. Die doet de secret "url encoden" waardoor je dus een andere token krijgt. De eerste versie doet dit dus niet, die doet gewoon `$clientid:$clientsecret` i.p.v. `urlEncode($clientid):urlEncode($clientsecret)`. Eens kijken of ik dit ergens in kan stellen/op kan lossen.
 
 Ik heb het probleem niet kunnen oplossen, ik heb een repo aangemaakt. Daar mijn code opgezet en hulp gevraagd aan een collega. Die zal er naar kijken, ik heb morgen alleen een andere dag voor de boeg. Ik ben dan niet op kantoor maar ga op klant bezoek!
+
+## Dag 60, 24-11-2018
+
+### VECOZO bedrijfs bezoek
+
+We hebben afgesproken bij Vecozo, dit is in Tilburg. Hier zit een groep van ~20 Info Supporters. We hebben afgesproken met een aantal stagiaires uit Nederland en dan Mathias + Ik. Toen we hier aankwamen werden we begroet door 2 Info Supporters, een uit NL en een uit BE. Dit waren hele aardige jongens die zelf er ongeveer 1 jaartje zaten.
+
+We hebben presentaties gehad over Vecozo, wat het doet. Het is een soort "broker" tussen een zorgverlener en de zorgverzekering. Alle facturen/declaraties gaan via dit systeem. Dit wordt ook door heel Nederland gebruikt, waarschijnlijk heb je er nog nooit van gehoord maar heb je er dus wel gebruik van gemaakt (zonder dat je het wist dus!). Het pand was super mooi en modern.
+
+We hebben ook een blik kunnen zien van een Info Supporter die er al langer werkte. Deze liet zien hoe het er aan toe ging een normale dag, welke tooling ze gebruikte etc. Dit was wel inzichtelijk en vond het wel cool. 
+
+Spijtig genoeg kon ik niet mee lunchen, ik had een afspraak staan waar ik naar toe moest.
+
+### System4 sollicitatie
+
+Om 14:00 uur had ik een sollicitatie bij System4 staan. Dit is een ICT detachering bedrijf in Veghel. Ik ben hier terecht gekomen via iemand van LinkedIn. Ik had zelf geen idee wat ik moest verwachten omdat dit de eerste *echte* sollicitatie was. Het gesprek verliep goed. Het enige minpunt was dat ik niet veel werk ervaring had maar ze zag toch potentie. Zelf was ik niet helemaal weg van het bedrijf.
+
+### Jarpis
+
+Om 16:00 uur had ik nog een sollicitatie staan! Dit keer bij Jarpis. Dit is een klein bedrijfje gevestigd in Oisterwijk, dit ligt tussen Tilburg en Eindhoven in.
+
+Ik had hier ook niet echt een idee wat ik kon verwachten alleen dat het een klein bedrijfje was. Dit is een bedrijf met 2 bazen (rond de 25-30 en 4 parttime medewerkers. De 2 bazen waren super toffe gozers en dit gebouw was echt super nieuw en mooi. Ze hadden het IOT toegepast om automatisch te tracken welke bureau's of kamers gebruikt werden en dit kon je inzien op een super groot scherm in de lunch ruimte. Het gesprek verliep super goed en de technieken die ze daar gebruikte waren ook echt wel in mijn straatje. Hier ben ik wel erg enthousiast over. Ik ben uitgenodigd voor een 2e gesprek en benieuwd hoe die gaat!
+
+Al met al was dit een hele drukke dag met veel indrukken. Ik solliciteer bij andere bedrijven omdat ik eens rond wil kijken hoe het er aan toe gaat binnen de ICT wereld en mezelf te orienteren.
