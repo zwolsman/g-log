@@ -2463,3 +2463,11 @@ Ook wordt er gebruik gemaakt van het YBI YRI YLI principe. Elk team is dus 100% 
 Na de rondleiding hebben we een 1:2 gesprek gehad met mensen van daar en kregen we een inzicht of we uberhaupt wel bij bol.com passen. Ik heb er een goed gevoel bij en denk dat ik ook ga solliciteren. Dit is toch wel een heel ander iets dan Info Support of Jarpis. Ik ben benieuwd hoe dit zal verlopen!
 
 Ik ben net terug in Mechelen en ga zo lekker mijn bed in, het is weer een lange dag geweest.. veel gereden en ben toe aan slaap! Morgen weer verder met de Azure Active Directory en gesprek met Benny.
+
+## 26-11-2018
+
+### Gesprek met Benny
+
+Ik zit nog steeds met het probleem van Azure Active Directory. Ik heb dit nu helemaal uitgelegd aan Benny en laten zien hoe het gaat. We hebben samen 30-45mins vanalles zitten proberen en kunnen nog niet vinden wat het is. Ik ga de vraag op Stackoverflow zetten en dan kijken we morgen naar of iemand er op heeft gereageert.
+
+Ik ga nu mijn portfolio producten bekijken en orderen zodat ik morgen feedback/tips kan krijgen.
