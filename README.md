@@ -2425,7 +2425,7 @@ Verder gaande waar ik vrijdag achter ben gebleven is het nog meer debuggen..! Ik
 
 Ik heb het probleem niet kunnen oplossen, ik heb een repo aangemaakt. Daar mijn code opgezet en hulp gevraagd aan een collega. Die zal er naar kijken, ik heb morgen alleen een andere dag voor de boeg. Ik ben dan niet op kantoor maar ga op klant bezoek!
 
-## Dag 60, 24-11-2018
+## Dag 60, 27-11-2018
 
 ### VECOZO bedrijfs bezoek
 
@@ -2449,7 +2449,7 @@ Ik had hier ook niet echt een idee wat ik kon verwachten alleen dat het een klei
 
 Al met al was dit een hele drukke dag met veel indrukken. Ik solliciteer bij andere bedrijven omdat ik eens rond wil kijken hoe het er aan toe gaat binnen de ICT wereld en mezelf te orienteren.
 
-## 25-11-2018
+## 28-11-2018
 
 ### Bol.com IT Young Professional day
 
@@ -2464,7 +2464,7 @@ Na de rondleiding hebben we een 1:2 gesprek gehad met mensen van daar en kregen 
 
 Ik ben net terug in Mechelen en ga zo lekker mijn bed in, het is weer een lange dag geweest.. veel gereden en ben toe aan slaap! Morgen weer verder met de Azure Active Directory en gesprek met Benny.
 
-## 26-11-2018
+## Dag 61, 29-11-2018
 
 ### Gesprek met Benny
 
