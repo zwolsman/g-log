@@ -2471,3 +2471,13 @@ Ik ben net terug in Mechelen en ga zo lekker mijn bed in, het is weer een lange 
 Ik zit nog steeds met het probleem van Azure Active Directory. Ik heb dit nu helemaal uitgelegd aan Benny en laten zien hoe het gaat. We hebben samen 30-45mins vanalles zitten proberen en kunnen nog niet vinden wat het is. Ik ga de vraag op Stackoverflow zetten en dan kijken we morgen naar of iemand er op heeft gereageert.
 
 Ik ga nu mijn portfolio producten bekijken en orderen zodat ik morgen feedback/tips kan krijgen.
+
+## Dag 62, 30-11-2018
+
+Het begin van de dag ben ik nog verder gegaan aan mijn portfolio. 's Middags komt mijn stage begeleider langs en wou mijn portfolio laten zien. Omdat ik niet helemaal zeker was wat er allemaal in moest en hoe ik het vorm moest geven. Ik heb nu een map structuur gemaakt met `README.md` er in per competentie. Deze leggen uit hoe ik dingen heb aangepakt en de bewijzen die ik heb.
+
+### Gesprek met Benny & Bartosz
+
+Bartosz kwam eigenlijk langs omdat die zich een beetje zorgen maakte. Door mijn interview idee en afwijking van de leeswijzer nam dat wat risicio's met zich mee. Deze wou die graag bespreken. Benny was er ook bij aanwezig. Een van de risico's was dat mijn schriftelijke verslaggeving competentie niet aangetoond wordt in een interview. Dit heb ik opgelost door verschillende README's te schrijven per competentie. Ook heb ik mijn portfolio in een Github repository gezet genaamd [g-portfolio](https://github.com/zwolsman/g-portfolio). Toen hem dit liet zien was die al een stuk meer gerust gesteld. Ik had ook de vraag hoe het zat met de feedback over mijn interview transcriptie. Hij had mij niks meer laten weten en wou dit graag weten zodat ik een groen licht heb en kan gaan plannen. Hier heb ik nu een GO voor gekregen! 🚦
+
+Ook hebben we besproken wat ik zou meoten doen voor een excellent beoordeling. Ik heb er voor gekozen om een ISKA te geven over mijn project. ISKA staat voor Info Support Kennis Avond, deze heb ik al een paar x mee gemaakt maar nog nooit zelf gegeven! Op deze manier kan ik mijn collega's inlichten over de blockchain. Deze zal ik maandag moeten inplannen met Ilse.
