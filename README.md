@@ -2493,3 +2493,29 @@ Vandaag heb ik mijn advies verder geschreven. Ook heb ik diagrammen gemaakt om m
 ## Dag 65, 5-12-2018
 
 De conclussie van het advies is van essentieel belang. Die heb ik vandaag toegevoegd! Ook heb ik een spellingscontrole gedaan over de tekst. Nu het advies klaar is heb ik het voor feedback opgestuurt naar Bartosz.
+
+## Dag 66, 6-12-2018
+
+Bartosz heeft al feedback gegeven! Ik ben met deze feedback aan de slag gegaan en mijn advies zinnen opnieuw geconstrueert. Dit was fijne feedback die duidelijk was. Nu ik zoveel heb veranderd qua grammatica aan mijn advies heb ik het naar Ilse toe gestuurd, die gaat het nu bekijken en dan gaan we aankomende maandag er even samen doorheen lopen. Dit wordt echt gewaardeerd omdat dit een van mijn zwakkere punten is. Ik ben wel trots met wat ik al heb gedaan.
+
+### 2e Gesprek Jarpis
+
+'s Middags ben ik langs gegaan bij Jarpis voor een tweede gesprek. Dit ging ook heel goed en heb een serieus aanbod gekregen. Ik moet binnenkort echt gaan kiezen wat ik wil gaan doen na school. Tot nu toe heb ik 2 concrete opties; Info Support & Jarpis.
+
+### Talk Malmberg
+
+'S avonds had ik een talk bij Malmberg, hier ben ik samen met [@joelluijmes](https://github.com/joelluijmes) naar toe gegaan. Het was deze keer in Den Bosch. Het was bij Malmberg, vlak bij het station.
+
+![Malmberg talk](./img/IMG_3731.png)
+
+De onderwerpen waren Serverless Architecture & How we got green fingers from software development. Het eerste onderwerp dacht ik wel te kennen, ik dacht meteen aan FaaS maar het is meer dan dat. Het is het hele idee van zelf geen servers hebben. Eigenlijk komt het neer op een "cloud oplossing". Dan heb je zelf geen hardware afschrijving meer en is het makkelijker te scalen.
+
+Hun maakte gebruik van Amazon web services (AWS), dit is een concurent van Microsoft Azure en Google Cloud. Hier hebben ze meerdere dingen draaien, een API gateway, Lambdas, Databases, etc. Door de migratie te doen naar de cloud betalen ze alleen van services als ze er gebruik van maken. Een lambda wordt alleen aangezet als het nodig is, hier konden ze dus veel kosten op besparen.
+
+De tweede talk ging dus over groene vingers als software ontwikkelaar. Ik dacht eerst, hoe dan? Wat blijkt, ze hebben een sensor die plant data kan uitlezen. Met deze [sensor](https://www.huahuacaocao.com/product) kunnen ze fertility, watering, temperature en light intensity meten. Dit project hebben ze super overengineered om nieuwe dingen te leren. Ze gebruiken Kubernetes in de Google Cloud, een raspberry om de data te versturen met een cron job die een nodejs script uitvoert om data uit te lezen van de sensor. Met deze informatie hebben ze een API beschikbaar gemaakt voor de Amazon Alexa, een voice assistent. Deze kon je nu dus vragen of je de plant water moest geven of niet. Dit was wel een leuk idee! Ik vond het zo'n leuk idee dat het mij inpsireerde om er een eigen versie van te maken; niet overengineerd!
+
+Ik ben begonnen met een simpel design te maken om de data in weer te geven. IK wil het zo maken dat ik automatisch een melding krijg als mijn plant water nodig heeft, niet dat ik er dus zelf om zou moeten vragen. Hieronder vind je een screenshot van wat ik nu heb gemaakt.
+
+![How is my plant?](./img/ss_how_is_my_plant.png)
+
+Ik moet wel een sensor gaan bestellen, misschien een leuk kerst idee!
