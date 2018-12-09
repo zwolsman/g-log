@@ -2519,3 +2519,7 @@ Ik ben begonnen met een simpel design te maken om de data in weer te geven. IK w
 ![How is my plant?](./img/ss_how_is_my_plant.png)
 
 Ik moet wel een sensor gaan bestellen, misschien een leuk kerst idee!
+
+## Dag 67, 7-12-2018
+
+Mijn [Stack Overflow](https://stackoverflow.com/questions/53539756/spring-security-aad-invalid-token-response) vraag is nog steeds niet beantwoord.. Ik heb zelf nog wat geprobeerd maar het werkt gewoon niet. Ik ben ook mijn interview nog een x gaan voorbereiden, deze wordt maandag opgenomen!s
