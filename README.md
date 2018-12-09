@@ -2489,3 +2489,7 @@ Vandaag heb ik een gesprek gehad met Ilse over afgelopen vrijdag, waar ik aan ga
 ## Dag 64, 4-12-2018
 
 Vandaag heb ik mijn advies verder geschreven. Ook heb ik diagrammen gemaakt om mijn advies te verduidelijken, deze kan je allemaal terug vinden [hier](https://github.com/zwolsman/g-portfolio/tree/master/advies).
+
+## Dag 65, 5-12-2018
+
+De conclussie van het advies is van essentieel belang. Die heb ik vandaag toegevoegd! Ook heb ik een spellingscontrole gedaan over de tekst. Nu het advies klaar is heb ik het voor feedback opgestuurt naar Bartosz.
