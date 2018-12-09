@@ -2485,3 +2485,7 @@ Ook hebben we besproken wat ik zou meoten doen voor een excellent beoordeling. I
 ## Dag 63, 3-12-2018
 
 Vandaag heb ik een gesprek gehad met Ilse over afgelopen vrijdag, waar ik aan ga beginnen: Het advies. Dit is een belangrijk onderdeel van mijn portfolio. Hier ga ik dus ook vandaag meteen aan beginnen. Ik heb ook even met Tim Mahy gesproken, die had ik eerder al het advies gegeven. Dit had ik echter niet vastgelegd en dacht misschien heeft die nog aantekingen gemaakt; dat bleek dus niet zo te zijn. Ik ben opnieuw begonnen en nog verder gewerkt aan mijn portfolio, het beheer stukje.
+
+## Dag 64, 4-12-2018
+
+Vandaag heb ik mijn advies verder geschreven. Ook heb ik diagrammen gemaakt om mijn advies te verduidelijken, deze kan je allemaal terug vinden [hier](https://github.com/zwolsman/g-portfolio/tree/master/advies).
