@@ -2699,3 +2699,9 @@ const fetchPage = (pageNumber: number = 0) =>
 Hierboven zie je dus een Epic, die filterd op de actie `FETCH_BONUS` en haalt dan pagina 0 op. Die functie is ook met rx geschreven. Er gebeurt een ajax request die gepiped wordt naar een `ftechBonusSuccess` of als er iets fout gaat (`catchError`) naar een observable met 1 element, een `fetchBonusError` waar de error in zit.
 
 Deze acties worden dan gedispatcht en op die manier wordt de reducer weer aangeroepen.
+
+## Dag 72, 14-12-2018
+
+Nu ik errors opvang met mijn epics moet ik ze ook afhandelen. Hier ben ik vandaag mee bezig geweest. Als iets niet lukt krijg je een error message te zien. Dit ging niet heel makkelijk. Ik had eerst een epic gemaakt die fout meldingen op ving en dan een `tap` deed om een message te zien. Wat je dan krijgt is een epic die dezelfde actie terug geeft als die binnen krijgt. Daardoor onstaat er een infinite loop en crasht de tab.
+
+Hoe heb ik dit heb opgelost is bij het aanroepen van de actie creator meteen een message te laten zien. Op deze manier krijgt de user feedback dat er wat fout is gegaan en wordt het asynchroon opgelost.
