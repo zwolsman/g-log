@@ -2610,3 +2610,92 @@ export function reducer(state = initialState, action: ProfileActionsUnion): IPro
 }
 
 ```
+
+## Dag 71, 13-12-2018
+
+Nu ik Redux als store gebruik heb ik een "probleem". Een actie is een synchrone pure functie, wat betekend dit? Geen API requests, die zijn async. Er is wel middleware voor, verschillende zelfs. Die lossen het async probleem op.
+
+## Redux Saga
+
+Redux Saga is [hier](https://redux-saga.js.org) te vinden. Dit is een manier van side effects in JS style. Je hebt generator functies die geinvoked worden. In deze functies kun je asynchrone code schrijven alsof het synchrone code is door het keyword `yield`. Deze moet je dan wel overal voorzetten en ben hier niet zo'n fan van. Voorbeeld code zie je hieronder.
+
+```js
+// worker Saga: will be fired on USER_FETCH_REQUESTED actions
+function* fetchUser(action) {
+   try {
+      const user = yield call(Api.fetchUser, action.payload.userId);
+      yield put({type: "USER_FETCH_SUCCEEDED", user: user});
+   } catch (e) {
+      yield put({type: "USER_FETCH_FAILED", message: e.message});
+   }
+}
+
+/*
+  Starts fetchUser on each dispatched `USER_FETCH_REQUESTED` action.
+  Allows concurrent fetches of user.
+*/
+function* mySaga() {
+  yield takeEvery("USER_FETCH_REQUESTED", fetchUser);
+}
+```
+
+## Redux Thunk
+
+[Redux Thunk](https://github.com/reduxjs/redux-thunk) is ook een middelware. Door het gebruik van deze lib kunnen je actie creators functies returnen i.p.v. objects. Je denkt, wat maakt dit nou uit? Nou, op deze manier kan je dus je API calls wrappen in een actie creator die op een later moment uitgevoerd wordt. Waarom het redux-*thunk* heet is de volgende reden.
+
+> A thunk is a function that wraps an expression to delay its evaluation.
+
+```js
+// calculation of 1 + 2 is immediate
+// x === 3
+let x = 1 + 2;
+
+// calculation of 1 + 2 is delayed
+// foo can be called later to perform the calculation
+// foo is a thunk!
+let foo = () => 1 + 2;
+```
+
+Hoe maak je hier dan gebruik van om API calls te maken? Het voorbeeld staat hieronder. Door gebruik te maken van promises krijg je een soort synchroon gevoel maar ook hier ben ik niet helemaal fan van.
+
+```js
+function loadUserProfile(userId) {
+  return dispatch => fetch(`http://data.com/${userId}`)
+    .then(res => res.json())
+    .then(
+      data => dispatch({ type: 'USER_PROFILE_LOADED', data }),
+      err => dispatch({ type: 'USER_PROFILE_LOAD_FAILED', err })
+    );
+}
+```
+
+## Redux Observable
+
+[Redux Observable](https://redux-observable.js.org) maakt gebruikt van [RxJs](https://rxjs-dev.firebaseapp.com). Dit is een _Reactive Extensions Library for JavaScript_. Door mijn ervaring met [ngrx](https://github.com/ngrx/platform) vond ik dit een goede optie. Waarom? Omdat het veel op elkaar lijkt.
+
+In ngrx heb je "effects", dit zijn side effects die geissoleerd worden en afgehandeld worden door een observer. In Redux Observable heb je epics, deze epics zijn hetzelfde als effects alleen een andere naam. Wat je dan dus krijgt is een `action$` observable en daar filter je een actie uit. Die actie gebruik je dan om te transformeren naar een andere actie. Deze wordt dan automastisch gedispatcht.
+
+Deze aanpak heb ik ook gekozen, dit vind ik zelf de mooiste en past ook meer bij Redux. Omdat de stream van observables immutable is, is dit dezelfde denkwijze als bij je reducers. Je krijgt iets binnen en transformeert dit om naar iets anders.
+
+```ts
+const fetchBonusesEpic = (action$: Observable<Action>) =>
+  action$.pipe(
+    ofType(BonusActionTypes.FETCH_BONUS),
+    switchMap(() => fetchPage())
+  );
+
+//Helper functie
+const fetchPage = (pageNumber: number = 0) =>
+  ajax
+    .getJSON<IPage<IBonus>>(
+      `https://bbb-api.azurewebsites.net/api/bonus?page=${pageNumber}`
+    )
+    .pipe(
+      map(page => fetchBonusSucces(page.content, page.number, page.last)),
+      catchError(error => of(fetchBonusError(error)))
+    );
+```
+
+Hierboven zie je dus een Epic, die filterd op de actie `FETCH_BONUS` en haalt dan pagina 0 op. Die functie is ook met rx geschreven. Er gebeurt een ajax request die gepiped wordt naar een `ftechBonusSuccess` of als er iets fout gaat (`catchError`) naar een observable met 1 element, een `fetchBonusError` waar de error in zit.
+
+Deze acties worden dan gedispatcht en op die manier wordt de reducer weer aangeroepen.
