@@ -2766,3 +2766,56 @@ export function BonusComment(props: IBonusCommentProps) {
 ```
 
 ![Emoji in bonus](./img/ss_emoji.png)
+
+## Dag 74, 18-12-2018
+
+### Gesprek met Benny
+
+Omdat mijn project zo aan het groeien was kreeg ik problemen met de configuratie. Omdat er nu 3 services zijn met OAuth en ik maar 1 configuratie heb begon het tegen elkaar in te werken.
+
+Oplossing? Projecten ook echt apart maken zodat ze hun eigen configuratie en verantwoordelijkheid hebben. Dit moest ik alleen wel aan Benny uitleggen. Hij kwam vandaag langs om 10:30 en had op het whiteboard even mijn idee uitgetekend. Elk rood blokje is een apart project. Zoals je ziet zijn het dus 4 projecten waarvan er 3 in Spring zijn. De UI is het react project.
+
+![Projecten](./img/IMG_5483.png)
+
+Nadat ik de uitleg heb gegeven van waarom en hoe ik het ga aanpakken heb ik groen licht gekregen. Het nadeel is dat er nu ook meerdere artifacts gaat krijgen. Het build process is voor deze 3 wel hetzelfde.
+
+Eerst alles even lostrekken. Aparte spring projecten maar wel 1 root `settings.gradle`. Deze bevat welke subprojecten er bestaan en gebruikt moeten worden.
+
+```groovy
+rootProject.name = 'bbb'
+include 'core'
+include 'web'
+include 'slack'
+include 'facebook'
+```
+
+### Loskoppelen en dupliceren
+
+Nu ik alle projecten los koppel heb ik wel dubbele code. Dit is niet een negatief ding, dit is hoe het gaat in de microservice architectuur. Je wil dat iedere service zijn eigen verantwoordelijkheid heeft waardoor er dus automatisch duplicatie van code komt.
+
+Wat elke service heeft is een `FeignClient` voor contact met de core ta maken, deze heeft een OAuth filter met `clientId` & `clientSecret`. Dit was veel kopieren en de `application.properties` goed zetten. 
+
+De JSON modellen zijn ook dubbel, dit is niet gek. De object die je terug krijgt van het `core` project is voor iedere service hetzelfde. Echter is het verschil wel dat bij slack en facebook geen database modellen aan te pas komen en bij het web project wel.
+
+Omdat alles nu uit 1 project is, is de `build.gradle` van dat project echt een stuk kleiner omdat de depencies naar de specifieke projecten zijn gegaan.
+
+Morgen ga ik verder met het deployen en configuren van de urls zodat alles weer werkt.
+
+### AAD in het web project
+
+Uiteindelijk heb ik alles losgekoppeld om AAD te integreren met het web project. Deze is de enige die iets met de AAD te maken heeft. In het begin had ik foutmeldingen die ik nooit heb op kunnen lossen en ook geen antwoord heb gekregen op StackOverflow. Ik heb alle stappen opnieuw doorgelopen, nieuwe applicatie en dit was een nieuw project. Ik wou alles gewoon resetten en opnieuw proberen. Nu kreeg ik echter een andere foutmelding.
+
+```bash
+java.lang.ClassCastException: java.lang.String cannot be cast to java.util.List
+```
+
+Hoe kan dit.. Ik heb gekeken waar de foutmelding vandaan kwam en dat was `om.microsoft.aad.adal4j.AdalTokenRequest.toOAuthRequest(AdalTokenRequest.java:151) ~[adal4j-1.3.0.jar:1.3.0]`. De library was dus geupdate en niet meer compitable met de versie van Microsoft.
+
+Aha!
+
+Na even te zoeken ben ik een issue tegen gekomen, meerdere eigenlijk. Ik was niet de enige die de foutmelding had. Ik heb op [1 issue](https://github.com/Microsoft/azure-spring-boot/issues/466) gereageerd met de vraag of het opgelost gaat worden. Hier heb ik snel antwoord op gekregen!
+
+> It is still under work, as some dependencies like cosmosdb and gremlin starters also need to upgrade to 2.1.x, hope everything about 2.1.x will be available before the end of this week.
+
+Dit betekend dus dat ik gewoon even moet wachten met het implementeren van de AAD. Dit is een goed vooruitzicht! Het verklaard nog steeds niet de 401's die ik kreeg maar dit is wel een stap in de goede richting.
+
