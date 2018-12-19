@@ -2732,3 +2732,37 @@ const fetchProfileEpic = (action$: Observable<Action>) =>
 Verder heb ik het laden van bonussen pageable gemaakt, als er meerdere pagina beschikbaar zijn wordt er een knop met "load more" weergegeven. Als deze wordt geklikt wordt de volgende pagina ingeladen.
 
 ![Load more button](./img/ss_load_more.png)
+
+### Emoji Support
+
+Aangezien de bonussen gegeven worden vanuit slack worden er soms emoji's aan mee gegeven. Slack encode deze naar `:emoji-name:` en ik vond dit een leuk iets om te ondersteunen. Ik vond een react library genaamd [Emoji Mart](https://github.com/missive/emoji-mart). Deze heeft ondersteuning voor het weergeven van Emoji's op verschillende manieren. Echter kreeg ik nu een string binnen in mijn component, hoe ga ik dit omzetten?
+
+Ik heb een regex geschreven die een string split op `:` en rekening houdt met `skintone-x`. Als ik de comment string heb gesplit haal ik de emoji's eruit en map ik die naar de `Emoji` component anders maak ik er een `span` van. De component kan je hieronder zien. Het uiteindelijke resultaat is dat er emoji's te zien zijn in de bonus lijst!
+
+```tsx
+const regex = new RegExp("(^|\\s)(:[a-zA-Z0-9-_+]+:(:skin-tone-[2-6]:)?)", "g");
+
+export interface IBonusCommentProps {
+  comment: string;
+}
+
+export function BonusComment(props: IBonusCommentProps) {
+  const parts = props.comment
+    .split(regex)
+    .filter(item => item !== undefined && item !== "");
+
+  return (
+    <span style={{ color: "#595959" }}>
+      {parts.map((item, index) => {
+        if (item.startsWith(":") && item.endsWith(":")) {
+          return <Emoji key={index} native={true} emoji={item} size={18} />;
+        } else {
+          return <span key={index}>{item}</span>;
+        }
+      })}
+    </span>
+  );
+}
+```
+
+![Emoji in bonus](./img/ss_emoji.png)
