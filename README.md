@@ -2819,3 +2819,100 @@ Na even te zoeken ben ik een issue tegen gekomen, meerdere eigenlijk. Ik was nie
 
 Dit betekend dus dat ik gewoon even moet wachten met het implementeren van de AAD. Dit is een goed vooruitzicht! Het verklaard nog steeds niet de 401's die ik kreeg maar dit is wel een stap in de goede richting.
 
+## Dag 75, 19-12-2018
+
+Aangezien ik gister het project helemaal los heb gekoppeld heb ik vandaag gefocust op het builden & deployen van de applicatie. Dit houd in de pipelines aanpassen en indien nodig code dingetjes nog aanpassen.
+
+### Build
+
+De build zelf was geen probleem alleen alle testen faalde. Dit kwam omdat ik deze niet mee had gerefactored. Deze zaten nog steeds allemaal onder het core project. Als de tests falen, faalt de build ook. Dit is dus het eerste wat ik heb opgelost.
+
+Nu de tests op de juist plek staan liep ik tegen een ander probleem. Ik heb een `schema.sql` in mijn resources in mijn _core_ project. Deze wordt automastisch uitgevoerd bij het runnen van de applicatie en dus ook bij de tests, dit is een probleem. De `schema.sql` is in MS SQL syntax geschreven en voor het testen wordt een embedded H2 DB gebruikt. Dit gaat dus niet fout waardoor de testen bleven falen. Dit heb ik uitgezet door een property aan te maken `spring.datasource.initialization-mode=never`. Nu wordt deze niet uitgevoerd en doen de tests het.
+
+Eenmaal de tests gerefactored, verplaatst naar de juist sub-projects en het fixen van kleine dingetjes was het builden geslaagd. Alleen in de pipeline stonden de artifacts nog niet goed. Hier stond een hardcoded path naar een `.war` bestand. Hier heb ik nu een wildcard voor gemaakt die alle wars pakt (`**/*.war`). De wars filenames stonden nog niet goed (bijv. _Facebook-0.0.1-SNAPSHOT.war_). Dit wou ik gewoon _facebook_ hebben aangezien de naam van de war de naam is van het url path.
+
+Ook kwam ik er achter dat de build informatie niet in actuator stond. Dit heb ik ook aangezet voor alle projecten.
+
+```groovy
+//build.gradle
+
+// Build information for actuator endpoint
+springBoot {
+    buildInfo()
+}
+
+// Archive name for the war so the subpath is nice
+bootWar {
+    archiveName = 'facebook.war'
+}
+```
+
+Nu dit allemaal werkt slagen de builds weer.
+
+![Builds slagen](./img/ss_builds.png)
+
+### Multiple war deployment
+
+![Artifacts nieuwe builds](./img/ss_artifacts.png)
+
+Oke, nu ik een artifact heb met alle wars er in moet ik deze zien te deployen. De release pipeline moest dus aangepast worden, specifiek de _Deploy War to Azure App Service_ taak. Deze had een specifiek path voor de war en deze had ik ook veranderd in een wildcard (netzo als bij de build). Deze is dus ook `**/*.war` en ik dacht, oh dat valt mee! Ik klik op release en het werkte niet.
+
+Ik kreeg een foutmelding.
+
+> 2018-12-19T13:44:46.7787296Z ##[error]Error: More than one package matched with specified pattern: D:\a\r1\a\\\_BBB-Gradle-CI\drop\\\*\*\build\libs\\\*\*.war. Please restrain the search pattern.
+
+Logisch dat die meerdere packages matchde want dat was ook de bedoeling! Alleen heeft de webdeploy methode hier geen ondersteuning voor. Na even te zoeken kwam ik op een stack overflow uit genaamd [How to upload multiple jar files into Azure through VSTS using Azure App service deploy task](https://stackoverflow.com/questions/47076867/how-to-upload-multiple-jar-files-into-azure-through-vsts-using-azure-app-service). Deze stappen heb ik dus doorlopen. Ik heb een nieuwe taak aangemaakt om de wars te kopieren en te flatten. Nu heb je dus een map _$(System.DefaultWorkingDirectory)/wars_ en daar staan ze in (flattened). Dan heb ik dat path ingegeven in de _Deploy_ taak. Omdat die ziet dat het een map is kan je nu ook een andere manier van deployment kiezen. In plaats van de optie `webdeploy` heb ik gekozen voor `zipdeploy`. Deze kopieert alle bestanden in een zip en stuurt het naar de app service.
+
+Toen ik dit had aangepast en een release uitrolde ging het fout. Hij stuurde de wars naar de `/home/site/wwwroot/`. Hier stonden gewoon alle wars. Dit hoort niet, hij hoort in `/home/site/wwwroot/webapps`. Wat ik heb gedaan is de webapps map toegevoegd in de kopieer stap en die zat dus ook in de zip. Nu deployt die wel naar de juiste map.
+
+Echter is de api nog steeds down. Alle paths (`/core`, `/slack`, `/facebook`, `/web`) doen het niet. De pagina blijft laden en na 3 minuten krijg je een foutmelding.
+
+![Application Error](./img/ss_app_error.png)
+
+Na de logs te lezen weet ik nog niet wat er fout gaat. Tomcat zou bij het opstarten wars moeten deployen die in de map `webapps` staan. Hier staan de wars en deze worden ook opgepikt door tomcat. Echter krijg ik de volgende log regel en daarna niks meer.
+
+>INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [/home/site/wwwroot/webapps/core.war]
+
+Ik dacht, misschien ligt het aan de `core.war` en heb ik deze handmatig verwijderd via SSH en de service herstart. Nu bleef die hangen op de `facebook.war`.
+
+Om uit te sluiten heb ik lokaal een docker container gemaakt van tomcat (dezelfde versie) en geprobeerd te runnen.
+
+#### Lokale tomcat
+
+Ik heb de artifact gedownload van de build zodat ik zeker weet dat het de zelfde wars zijn. Deze heb ik uitgepakt en een `Dockerfile` aangemaakt. Deze maakt een tomcat server.
+
+```Dockerfile
+FROM 'tomcat:9.0.14-jre8'
+COPY . /usr/local/tomcat/webapps/
+
+CMD ["catalina.sh", "run"]
+```
+
+```bash
+murf@Marvins-MacBook-Pro: [~/Desktop/tomcat-test] $ docker build -t tomcat-test .
+murf@Marvins-MacBook-Pro: [~/Desktop/tomcat-test] $ docker run -p 8080:8080 tomcat-test
+```
+
+Bij het opstarten deployt tomcat de wars en start ze op. Dit is al verder dan Azure is gekomen. Echter kreeg ik een foutmelding bij het aanmaken van de beans. Er was een probleem met de `environmentManager` bean. Deze [Github Issue](https://github.com/spring-cloud/spring-cloud-config/issues/118) gaf uitleg waarom en hoe je het moest oplossen. Het kwam omdat je een JMX server draait (actuator) in dezelfde JVM. Je moet dus onderscheid maken tussen de applicaties. Dit doe je door de `default domain` te zetten.
+
+##### Spring default domain
+
+Voor elke applicatie heb ik in de `application.properties` een default domain moeten declaren. Deze moeten uniek zijn binnen de JVM. Omdat de tomcat server meerdere applicaties laad is dit nodig.
+
+```properties
+#application.properties van het Web Project
+spring.jmx.default-domain=webApp
+```
+
+Na dit gedaan te hebben en te pushen en builden heb ik de docker container opnieuw gebouwd en opgestart. Deze werkt nu wel en alles is toegankelijk. Hoe kan het nu zo zijn dat de azure versie met tomcat niet verder komt dan _Deploying web application archive_.. Alleen is het nu alweer tijd voor het eten en de ISKA en zal ik hier morgen verder naar moeten kijken.
+
+### ISKA - Kwartaalmeeting
+
+Dit was de laatste kwartaalmeeting van het jaar. Het gaat heel goed met Info Support, de exacte cijfers mag ik (denk ik) niet bekend maken. Ook worden er meer opleidingen gevolgd dan ooit.
+
+Er waren ook 2 jubilarissen
+
+- Tom Cools (5 jr.)
+- Chris Declat (10 jr.)
+
+Verder was het een gezellige ISKA met een leuke proost op het einde.
