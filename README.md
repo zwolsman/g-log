@@ -2995,3 +2995,20 @@ Het instellen van de release is super handig. Je kan zien dat Azure DevOps goed 
 ### Resultaat
 
 3 build pipelines en 1 releae pipeline. Deze worden allemaal automatisch getriggerd in sequence en zo staat er altijd een nieuwe versie online. Deze versie is terug te vinden [online](https://bbb-apiv2.azurewebsites.net/core/actuator/info).
+
+## Dag 79, 28-12-2018
+
+Ik ben gister avond naar huis gegaan want ik had om 10:30 een afspraak in Veenendaal. De Info Support group bestaat uit meerdere bedrijven en ik kon op gesprek komen bij R&R.
+
+### Gesprek R&R
+
+Ik had om 10:30 een afpsraak met Evert, dit is een manager bij R&R. Er was ook een architect bij, Mark. R&R is een product gemaakt voor de retail markt. Dit product genereert planningen, kan je je verlof in aanvagen en nog veel meer.
+
+Het is helemaal gemaakt op de Microsoft stack en daar ben ik niet helemaal fan van. Ook had ik meer diepgang verwacht, het daadwerkelijk inplannen van een shift binnen een supermarkt met medewerker X. Dit is niet het geval, dit wordt nog steeds gedaan door een teamleider of iets in die richting. Vandaar dat ik geen interesse heb bij R&R. Dit heb ik ook besproken met Mark & Evert nadien.
+
+### Portfolio feedback verwerken
+
+Toen het gesprek klaar was heb ik op een flex werkplek in Veenendaal gewerkt. Hier heb ik de feedback van Bartosz verwerkt. Ik had [issues](https://github.com/zwolsman/g-portfolio/issues?utf8=✓&q=is%3Aissue+) aangemaakt in [mijn repository](https://github.com/zwolsman/g-portfolio). Hier kan ik nu mooi de lijst afwerken.
+
+Ik ben een heel eind gekomen en moet alleen nog het interview gedeelte even goed doen (de transcriptie en het daadwerkelijke interview).
+
