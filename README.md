@@ -2916,3 +2916,9 @@ Er waren ook 2 jubilarissen
 - Chris Declat (10 jr.)
 
 Verder was het een gezellige ISKA met een leuke proost op het einde.
+
+## Dag 76, 20-12-2018
+
+Je zal het niet geloven maar ik ben het eerste dagdeel bezig geweest met de hele blog post van gister te schrijven. Dit was verassend veel werk. Verder heb ik mijn feedback van Bartosz verwerkt in mijn advies.
+
+Ook heb ik nog eens naar de deployment gekekn. Ik heb mijn tier geupgrade van _klein_ naar _middelgroot_. Ik merkte dat bij het deployen de CPU spiked naar 100% en dacht dat het daar aan zou kunnen liggen dat de tomcat niet verder gaat. Echter heeft dit geen effect gehad. Wel heb ik een ander soort error gekregen. Dat de applicatie niet kon starten.
