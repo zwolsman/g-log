@@ -2922,3 +2922,9 @@ Verder was het een gezellige ISKA met een leuke proost op het einde.
 Je zal het niet geloven maar ik ben het eerste dagdeel bezig geweest met de hele blog post van gister te schrijven. Dit was verassend veel werk. Verder heb ik mijn feedback van Bartosz verwerkt in mijn advies.
 
 Ook heb ik nog eens naar de deployment gekekn. Ik heb mijn tier geupgrade van _klein_ naar _middelgroot_. Ik merkte dat bij het deployen de CPU spiked naar 100% en dacht dat het daar aan zou kunnen liggen dat de tomcat niet verder gaat. Echter heeft dit geen effect gehad. Wel heb ik een ander soort error gekregen. Dat de applicatie niet kon starten.
+
+## Dag 77, 21-12-2018
+
+Vandaag was ik in Eindhoven, op school. Ik heb hier aan mijn portfolio gewerkt. Ik had Bartosz een dag van te voren gemaild om te vragen of die aanwezig was maar ik kon hem niet vinden. Ik heb hem 's avonds mijn portfolio opgestuurd voor feedback aangezien het einde in zicht begint te komen.
+
+Ik kwam wel een andere afstudeerder tegen, Qun. Hij zat het vorige semester bij mij in het groepje. We hebben onze stage ervaringen met elkaar gedeeld en geholpen waar nodig. Hij liep tegen een probleem met zijn database. Hier heb ik de suggestie op gegeven om een andere database te gebruiken (een timeseries database). Hij had problemen met queries die data moesten arregeren van een speciale timeslot. Hij gebruikte nu MySQL (relationele data) en dat vond ik een aparte keuze als je dus tijd-gebaseerde data hebt (en alleen dat). Hier hebben we het dus ook over gehad. Ook heb ik mijn portfolio laten zien en was die er positief over.
