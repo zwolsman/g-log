@@ -2928,3 +2928,70 @@ Ook heb ik nog eens naar de deployment gekekn. Ik heb mijn tier geupgrade van _k
 Vandaag was ik in Eindhoven, op school. Ik heb hier aan mijn portfolio gewerkt. Ik had Bartosz een dag van te voren gemaild om te vragen of die aanwezig was maar ik kon hem niet vinden. Ik heb hem 's avonds mijn portfolio opgestuurd voor feedback aangezien het einde in zicht begint te komen.
 
 Ik kwam wel een andere afstudeerder tegen, Qun. Hij zat het vorige semester bij mij in het groepje. We hebben onze stage ervaringen met elkaar gedeeld en geholpen waar nodig. Hij liep tegen een probleem met zijn database. Hier heb ik de suggestie op gegeven om een andere database te gebruiken (een timeseries database). Hij had problemen met queries die data moesten arregeren van een speciale timeslot. Hij gebruikte nu MySQL (relationele data) en dat vond ik een aparte keuze als je dus tijd-gebaseerde data hebt (en alleen dat). Hier hebben we het dus ook over gehad. Ook heb ik mijn portfolio laten zien en was die er positief over.
+
+## Dag 78, 24-12-2018
+
+(even vergeten)
+
+## 25-12-2018 & 26-12-2018
+
+> Niet gewerkt i.v.m. kerst
+
+Ik heb in deze dagen geen hele dag gewerkt, wel heb ik de nieuwe azure active directory versie geprobeerd. Dit kon ik niet laten uit nieuwschierigheid. De nieuwe versie werkt!
+
+Ik heb nu AAD geimplementeerd en het web project is dus beveiligd. Je kan nu alleen inloggen met een `@bbbapi.onmicrosoft.com` account of ik moet mensen handmatig uitnodigen in die AD.
+
+## Dag 78, 27-12-2018
+
+> Vandaag was een rustige dag op kantoor, we waren met zijn 4e!
+
+Heel veel mensen hadden verlof waardoor we met weinig waren. Ik had vandaag het doel mijn project pipelines om te gooien. De azure deployment deed het nog steeds niet en zoals bleek op dag 75 werkt het wel als ik zelf de docker image maak. Dit is dus ook het idee voor vandaag.
+
+### Pipelines
+
+Ik had nu 1 build en 1 release pipeline. Dit gaat nu anders. Ik heb voor de backend 1 pipeline (BBB API) en de frontend (BBB Web). Dit is omdat het nu uit 2 projecten bestaat, backend en frontend. Dan heb ik nog een pipeline (BBB Full Stack) en die bouwt de daadwerkelijke docker image.
+
+#### BBB API
+
+> Trigger: een commit op master van de BBB repo
+>
+> Type: Build pipeline
+
+Dit is de build pipeline van het gradle project, de backend. Hier is niets aan veranderd.
+
+#### BBB Web
+
+> Trigger: een commit op master van de BBB-web repo
+>
+> Type: Build pipeline
+
+Deze pipeline build het react project. Deze wordt anders gebouwd dan een gradle project.
+
+Er wordt gebruik gemaakt van NPM om de packages te installeren die in de `package.json` staan. Als deze geinstalleerd zijn wordt het project gebuild.
+
+Als de build succesvol is wordt de `./build` map als artifact geupload.
+
+#### BBB Full Stack
+
+> Trigger: een nieuwe build van BBB API of BBB Web
+>
+> Type: Build pipeline
+
+Hier wordt de daadwerkelijke docker container gemaakt. De docker file staat in de repo van `BBB`. Deze wordt uitgecheckt en de artifacts van de build pipelines worden gedownload. Dan wordt er het pad mee gegeven van de artifacts aan de docker context. Dit is omdat de agents tijdelijke mappen maken. Hier wordt op deze manier naar verwezen.
+
+Als het builden gelukt is van de docker image wordt die gepusht naar de registry. Deze is nu ook aangemaakt in Azure; hij heet `bbbimages`. Van deze registery wordt gebruik gemaakt in de release pipeline.
+
+#### BBB Full Docker
+
+> Trigger: een build van de BBB Full Stack
+>
+> Type: Release pipeline
+
+Dit is een hele andere release pipeline die ik had. Ik heb ook een nieuwe web service aangemaakt. De vorige was een web service for java (een tomcat server). Dit is nu een web service for containers. Dit wil zeggen dat het in staat is om een docker image te draaien.
+Hierdoor heb ik nu ook een nieuw domein [bbb-apiv2.azurewebsites.net](https://bbb-apiv2.azurewebsites.net/core/actuator/info), hier komt nu de nieuwe versie te staan.
+
+Het instellen van de release is super handig. Je kan zien dat Azure DevOps goed samen werkt met de Azure services. Je hebt maar 1 task nodig, de _Azure App Service Deploy_. Je vult in welke registery er gebruikt wordt en hoe de image heet. Als je dit hebt ingevuld werkt het al.
+
+### Resultaat
+
+3 build pipelines en 1 releae pipeline. Deze worden allemaal automatisch getriggerd in sequence en zo staat er altijd een nieuwe versie online. Deze versie is terug te vinden [online](https://bbb-apiv2.azurewebsites.net/core/actuator/info).
