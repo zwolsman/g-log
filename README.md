@@ -3038,3 +3038,11 @@ Eenmaal aangekomen kwamen we er achter dat we geen SD card reader bij hadden, de
 [![Benny's Blockchain Bonus - Info Support Stage](http://img.youtube.com/vi/6GvykLn81r4/0.jpg)](http://www.youtube.com/watch?v=6GvykLn81r4)
 
 Het resultaat! Geupload op YouTube, en [hier](https://youtu.be/6GvykLn81r4) terug te vinden. We willen nog animaties toevoegen als ik dingen aan het uitleggen ben maar daar hadden we gister geen tijd meer voor. Als het lukt wordt er een nieuwe versie nog geupload.
+
+## Dag 81, 3-1-2019
+
+### Interview transcriptie
+
+Omdat het interview nu finalised was moest de transcriptie ook opnieuw. Dit heb ik vandaag gedaan samen met het updaten van mijn blog. Een blog bij houden is meer werk dan ik had verwacht maar als ik er zo op terug kijk is het toch wel cool. Ik kan al mijn gedachtes gewoon terug vinden!
+
+De transcriptie zit in de interview map van mijn portfolio ([link](https://github.com/zwolsman/g-portfolio/blob/master/interview/transcriptie_FINAL.md)). Deze zal gebruikt worden voor de leraren om naar te refereren i.p.v. tijd momenten in mijn interview. Nu dit allemaal gedaan is heb ik om feedback gevraagd van Bartosz. Als die feedback heeft gegeven ga ik er nog eens iets mee doen (voor de laatste keer, volgende week alles inleveren!).
