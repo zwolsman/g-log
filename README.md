@@ -3085,3 +3085,13 @@ Demo: [http://bbb-apiv2.azurewebsites.net/web/](http://bbb-apiv2.azurewebsites.n
 Vandaag heb ik de feedback van Bartosz nog eens verwerkt. Hij had nog een paar tips voor het interview en die zijn toegepast. De nieuwe versie kan je nu [hier](https://www.youtube.com/watch?v=FyXBVl4dNRI) vinden. Ook ben ik nog bezig geweest aan mijn portfolio.
 
 Ook ben ik begonnen aan mijn presentatie voor mijn ISKA. Die ga ik morgen met Benny bespreken zodat ik daar feedback op kan hebben en dit nog kan verwerken. Ik zal deze ook toevoegen aan mijn portfolio.
+
+## Dag 84, 8-1-2019
+
+### INLEVER DAG
+
+Vandaag is de dag! Het inleveren. Ik heb eerst nog een gesprek met Benny en ga daarna nog eens door mijn portfolio lopen. Ook wil ik mijn ISKA presentatie bespreken en nog aanpassen indien nodig. Vandaag gaat het gebeuren.
+
+### Gesprek met Benny
+
+Benny vond de presentatie wel goed maar ik moest wel nog even de conclusie toevoegen. Dit ga ik doen en dan kan ik ook een demo geven over hoe ik het _wel_ zou doen. Als ik dit nog toevoeg en voorbereid (aangezien ik live ga coden) vind Benny het helemaal goed. Nu nog even door mijn portfolio heen lopen en dan ga ik het inleveren!
