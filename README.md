@@ -3046,3 +3046,34 @@ Het resultaat! Geupload op YouTube, en [hier](https://youtu.be/6GvykLn81r4) teru
 Omdat het interview nu finalised was moest de transcriptie ook opnieuw. Dit heb ik vandaag gedaan samen met het updaten van mijn blog. Een blog bij houden is meer werk dan ik had verwacht maar als ik er zo op terug kijk is het toch wel cool. Ik kan al mijn gedachtes gewoon terug vinden!
 
 De transcriptie zit in de interview map van mijn portfolio ([link](https://github.com/zwolsman/g-portfolio/blob/master/interview/transcriptie_FINAL.md)). Deze zal gebruikt worden voor de leraren om naar te refereren i.p.v. tijd momenten in mijn interview. Nu dit allemaal gedaan is heb ik om feedback gevraagd van Bartosz. Als die feedback heeft gegeven ga ik er nog eens iets mee doen (voor de laatste keer, volgende week alles inleveren!).
+
+## Dag 82, 4-1-2019
+
+Een programmeerdag, eindelijk! Ik wou aan mijn web project gaan werken zodat die online toegankelijk was voor de leraren om eens te bekijken. Hier moest nog wel het een en ander voor gebeuren. De deployment en alles compitable maken met elkaar.
+
+Alright, de bedoeling is dat de web ui (het react project) achter dezelfde security zit als het spring project (met de azure aad). Eerst wou ik de authenticatie maken in het react project maar dit is helemaal niet nodig. Spring kan statische html pagina's leveren en dat is wat react als output heeft. Het mapje in het spring project `/web/src/main/resources/static` is de map voor statische html pagina's. Stap 1: probeer het lokaal. Ik heb mijn react project gebuild en de content van de map `build` overgekopieerd in het `web` project. Start de debug server en kijken.
+
+Het werkt! Dit kan dus gewoon! Wel klopte de routing niet aangezien react er vanuit gaat dat die in de root van een webserver staat. Dit is nu niet het geval, hij staat onder `/web`. Hoe ga ik dit aanpassen..
+
+React heeft een property genoemd `PUBLIC_URL`, dit is de publieke url die gebruikt wordt voor statische content. Er is [hier](https://facebook.github.io/create-react-app/docs/using-the-public-folder) informatie beschikbaar over hoe je dit moet gebruiken. Deze public url kan gezet worden door de `homepage` property aan te passen in de `package.json`. Wat die dan doet is het sub path berekenen en gebruiken.
+
+```json
+{
+  "name": "bbb-ui",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://bbb-apiv2.azurewebsites.net/web/",
+  "dependencies": {
+      ...
+  }
+  ...
+}
+```
+
+Het juiste path wordt dan beschikbaar als ENV variable, toegankelijk door `process.env.PUBLIC_URL`. Als ik dit toevoeg aan mijn routes dan klopt het allemaal en kan ik mijn project dus deployen in een sub path in spring!
+
+Om dit allemaal werkend te krijgen moet de build pipeline aangepast worden (weer). Nu is er niet een BBB Full Stack die alles bundeld; er is nu een API die de build artifact van de UI gebruikt en plaats in de `/web/src/main/resources/static` map. Uiteindelijk rolt er bij de API pipeline nogsteeds de wars uit die gebruikt worden om de Docker image te bouwen. Dit is dus niet de grootste aanpassing maar wel nodig.
+
+Eenmaal aangekomen bij de Docker pipeline hoeft deze geen artifacts te downloaden van UI pipeline en wordt er ook niet meer door getriggerd. De enige pipeline waar die nu afhankelijk van is, is de API pipeline. Deze levert 4 wars aan (slack, facebook, web, core) en plaatst deze in een tomcat server. Deze wordt dan gedeployed op Azure en de ui is beschikbaar!
+
+Demo: [http://bbb-apiv2.azurewebsites.net/web/](http://bbb-apiv2.azurewebsites.net/web/), je hebt een account nodig.
