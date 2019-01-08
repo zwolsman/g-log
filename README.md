@@ -3077,3 +3077,11 @@ Om dit allemaal werkend te krijgen moet de build pipeline aangepast worden (weer
 Eenmaal aangekomen bij de Docker pipeline hoeft deze geen artifacts te downloaden van UI pipeline en wordt er ook niet meer door getriggerd. De enige pipeline waar die nu afhankelijk van is, is de API pipeline. Deze levert 4 wars aan (slack, facebook, web, core) en plaatst deze in een tomcat server. Deze wordt dan gedeployed op Azure en de ui is beschikbaar!
 
 Demo: [http://bbb-apiv2.azurewebsites.net/web/](http://bbb-apiv2.azurewebsites.net/web/), je hebt een account nodig.
+
+## Dag 83, 7-1-2019
+
+[![Benny's Blockchain Bonus - Info Support Stage](http://img.youtube.com/vi/FyXBVl4dNRI/0.jpg)](http://www.youtube.com/watch?v=FyXBVl4dNRI)
+
+Vandaag heb ik de feedback van Bartosz nog eens verwerkt. Hij had nog een paar tips voor het interview en die zijn toegepast. De nieuwe versie kan je nu [hier](https://www.youtube.com/watch?v=FyXBVl4dNRI) vinden. Ook ben ik nog bezig geweest aan mijn portfolio.
+
+Ook ben ik begonnen aan mijn presentatie voor mijn ISKA. Die ga ik morgen met Benny bespreken zodat ik daar feedback op kan hebben en dit nog kan verwerken. Ik zal deze ook toevoegen aan mijn portfolio.
