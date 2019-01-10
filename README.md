@@ -3123,4 +3123,8 @@ Ik heb mezelf voorbereid maar vind het toch spannend. Er zijn allemaal externe c
 Wat nu, ik kan niet op de beamer. Ik heb het opgelost door mijn werk laptop te pakken (die heeft een VGA poort) en te teamviewer naar mijn MacBook. Er zit dan wel wat delay in maar ik heb wel beeld. Ik heb mijn presentatie op deze manier gegeven. Het nadeel was dat de Windows Machine zich meerdere malen uitlogde na inactiviteit. Dit was wel jammer maar verder ging het goed.
 
 ![Mijn Iska](./img/mijn-iska.jpeg)
-Mijn live code ging goed en heb de code [hier](https://github.com/zwolsman/iska-web3) beschikbaar gemaakt. De feedback was zeer positief en er ontstonden interessante disucissies van de usecases of bitcoin. Ook zijn er interessante vragen geweest zoals _zou je blockchain nog eens gebruiken_, _waar zou je de blockchain voor inzetten_ en _kan je niet je private key naar de spring applicatie sturen_. 
+Mijn live code ging goed en heb de code [hier](https://github.com/zwolsman/iska-web3) beschikbaar gemaakt. De feedback was zeer positief en er ontstonden interessante disucissies van de usecases of bitcoin. Ook zijn er interessante vragen geweest zoals _zou je blockchain nog eens gebruiken_, _waar zou je de blockchain voor inzetten_ en _kan je niet je private key naar de spring applicatie sturen_.
+
+## Dag 86, 10-1-2019
+
+Ik heb Bartosz gemaild om een 2e bedrijfsbezoek in te plannen. Ik had aan Benny gevraagd voor data waarop hij kon en deze doorgestuurd. Ik had snel een reactie van Bartosz en het staat nu ingeplanned op **16 januari 2019 om 09:30**. Ik heb dit ook meteen aan Ilse gevraagd en ga nu de tims mailen of die er ook bij willen zijn.
