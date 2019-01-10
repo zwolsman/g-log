@@ -3102,3 +3102,25 @@ Benny vond de presentatie wel goed maar ik moest wel nog even de conclusie toevo
 Het is gedaan! Ik heb alles ingeleverd. Ik heb van mijn `README.md` een pdf gemaakt met [markdowntopdf.com](https://www.markdowntopdf.com). Hier staat een linkje naar mijn YouTube video in en die linkt naar mijn portfolio. Hopelijk is dit goed. Ook heb ik mijn portfolio gezipt en via wetransfer gedeeld. Dit is omdat de code repositories private zijn en ik niet weet welke accounts het gaan bekijken. Als ik deze accounts op een later moment toegestuurd krijg voeg ik ze toe en kunnen ze de code bekijken.
 
 Verder heb ik nog met Youri, Maarten en Goos gebeld om te vragen of het hun gelukt was en hoe de stage was verlopen. Daarna ben ik nog verder gegaan aan mijn live code demo (meer hierover morgen).
+
+## Dag 85, 9-1-2019
+
+Ik heb gister avond nog door geprogrammeerd. Ik wou in mijn live code demo 2 applicaties laten zien.
+
+- Een versie met spring als tussenman
+- Een versie zoals ik het aanraad, direct contact met de blockchain
+
+De eerste versie ga ik live programmeren. De 2e versie wil ik voorbereid hebben zodat ik die kan laten zien. Dit was toch even uitzoek werk. Ik heb uiteindelijk voor [drizzle](https://truffleframework.com/drizzle) gekozen. Dit is ook onderdeel van het [truffle framework](https://truffleframework.com/). Deze kon ik integreren in een simpele React applicatie. Het was even uitzoek werk omdat ik hier zelf ook geen ervaring mee had. Ik heb een `README.md` gemaakt met de stappen die er moeten gebeuren om de demo applicatie te draaien. Deze staan in de [iska repo](https://github.com/zwolsman/iska-web3). Hier staat het contract, de spring applicatie en de web applicatie in (met drizzle).
+
+Ik heb een presentatie gegeven aan [@joelluijmes](https://github.com/joelluijmes) via een TeamViewer meeting. Ik heb ook live geprogrammeerd om te kijken hoe dat gaat en wat hij er van vond. Hij had als tip om een leeg project vast aangemaakt te hebben zodat je hier niet op hoeft te wachten. Verder ging de presentatie goed.
+
+Toch wou ik nog wat slides toevoegen. Ik merkte dat ik meer vertelde dan dat op de slides stond, hier heb ik dus nog even aan gewerkt. Ik heb ook de notities afgedrukt zodat ik ze er bij kon leggen. Ik heb er zin in!
+
+### Mijn ISKA!
+
+Ik heb mezelf voorbereid maar vind het toch spannend. Er zijn allemaal externe collega's gekomen om te horen wat ik te vertellen heb. Na het eten heb ik mezelf geïnstalleerd. Ik heb mijn MacBook gebruikt en kwam er achter dat de beamer VGA was.. Ik heb alleen maar USB-C poorten. Oke, hier was ik op voorbereid. Ik had een adapter mee voor USB-C -> HDMI. Ik wist alleen niet dat de beamer ook geen HDMI had. Even rondgevraagd naar een HDMI -> VGA converter en die was er. Ik probeerde het en het werkte niet. Als ik USB C -> HDMI aansloot op een TV (rechtstreeks op de HDMI) werkte het. Als ik een HDMI -> VGA aansloot op een scherm/beamer vanaf de laptop werkte het ook. Oei, ze werken niet samen!
+
+Wat nu, ik kan niet op de beamer. Ik heb het opgelost door mijn werk laptop te pakken (die heeft een VGA poort) en te teamviewer naar mijn MacBook. Er zit dan wel wat delay in maar ik heb wel beeld. Ik heb mijn presentatie op deze manier gegeven. Het nadeel was dat de Windows Machine zich meerdere malen uitlogde na inactiviteit. Dit was wel jammer maar verder ging het goed.
+
+![Mijn Iska](./img/mijn-iska.jpeg)
+Mijn live code ging goed en heb de code [hier](https://github.com/zwolsman/iska-web3) beschikbaar gemaakt. De feedback was zeer positief en er ontstonden interessante disucissies van de usecases of bitcoin. Ook zijn er interessante vragen geweest zoals _zou je blockchain nog eens gebruiken_, _waar zou je de blockchain voor inzetten_ en _kan je niet je private key naar de spring applicatie sturen_. 
