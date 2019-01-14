@@ -3183,3 +3183,18 @@ Mathias was ook aanwezig, die had ik nu al 2 weken niet gezien. Zijn stage zat e
 
 Ook alle stagiaires uit Nederland waren er, we zijn met zijn alle op de foto geweest samen met Nikki.
 
+## Dag 88, 14-1-2019
+
+Zoals ik vrijdag aan gaf wil ik een testomgeving op zetten zodat ik nog verder kan programmeren. Dit ga ik doen in Azure. Ik heb de volgende video gekeken: [0025 - 🚧 Testing in production using Azure Deployment Slots guide](https://www.youtube.com/watch?v=T4z2vxFcSn8). Nu is het idee van een deployment-slot wel duidelijk. Eens kijken of ik het ingesteld krijg.
+
+```log
+[access_denied] AADSTS65005: Using application 'bbb-app' is currently not supported for your organization majos.nl because it is in an unmanaged state. An administrator needs to claim ownership of the company by DNS validation of majos.nl before the application bbb-app can be provisioned. Trace ID: 1bd3e1cb-7802-4b1b-b255-e3a2598fe100 Correlation ID: d20f88e9-b0fa-45ce-80ca-75ee7196e987 Timestamp: 2019-01-14 09:41:14Z
+```
+
+Zoals je hier boven ziet was het niet toegestaan om met een @majos.nl account in te loggen. Om dit op te lossen moet je het domein registeren. Om dit te doen heb ik het domein (majos.nl) toegevoegd in de Azure Active Directory. Hiervoor moest ik de DNS instellingen aanpassen (zie screenshot hier hieronder). Eenmaal aangepast kon ik het domein verifieren en er mee inloggen. Dit is hetzelfde account als dat ik gebruik op Slack en kan hier nu dus ook mijn punten inzien.
+
+![Majos AAD](./img/ss_majos_aad.png)
+
+De deployment slot is niet gelukt, ik moet mijn app service upgraden. Dit was niet helemaal duidelijk hoe en waar ik dit moet doen en dit bespreek ik morgen met Benny.
+
+Ik heb nog wat foutjes uit de API gehaald, ik had de spendings & earnings hetzelfde gemaakt. Dit was een foutje, dit heb ik even aangepast. Ook heb ik nog wat meer clean-up gedaan (unused imports etc.).
