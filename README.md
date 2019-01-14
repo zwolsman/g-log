@@ -3128,3 +3128,48 @@ Mijn live code ging goed en heb de code [hier](https://github.com/zwolsman/iska-
 ## Dag 86, 10-1-2019
 
 Ik heb Bartosz gemaild om een 2e bedrijfsbezoek in te plannen. Ik had aan Benny gevraagd voor data waarop hij kon en deze doorgestuurd. Ik had snel een reactie van Bartosz en het staat nu ingeplanned op **16 januari 2019 om 09:30**. Ik heb dit ook meteen aan Ilse gevraagd en ga nu de tims mailen of die er ook bij willen zijn.
+
+Tim Mahy zal er bij aanwezig zijn, Tim Vermeulen kan niet. Ik ben ook begonnen aan mijn presentatie en zal hier morgen aan verder gaan.
+
+## Dag 87, 11-1-2019
+
+Ik heb vandaag een kleine bugfix gedaan aan mijn applicatie. Ik durf eigenlijk niets groots aan te passen omdat ik geen test omgeving heb. Dit ga ik binnenkort toch even opzetten. Dan kan ik nog doorontwikkelen terwijl het op school al is ingeleverd.
+
+Verder ben ik bezig geweest met mijn presentatie. Deze is zo goed als af, ik zou deze graag willen oefenen. Ik heb een afspraak gemaakt met [@joelluijmes](https://github.com/joelluijmes) om hem voor hem te houden (aankomende maandag in de namiddag). Dan kan ik nog feedback krijgen en verwerken.
+
+Het coolste van de presentatie is dat ik me nu pas besef hoeveel technieken ik heb gebruikt. Ik heb een slide met waarom ik het een toffe stage vond uitgelecht wat ik allemala heb gedaan en gebruikt. Dit is best wel een waslijst.
+
+- Ethereum & Solidity
+
+  Spreekt voor zich, gebruik gemaakt voor het blockchain gedeelte
+
+- Docker
+
+  Uiteindelijke deployment is een docker container met tomcat en de web applicaties erin
+
+- Truffle Framework (Truffle, Drizzle en Ganache)
+
+  Truffle zelf om mijn smart contract te testen en deployen. Drizzle voor mijn ISKA om een demo te geven van een front-end web3 framework. Ganache als test omgeving en lokale blockchain.
+
+- React
+
+  De front-end applicatie is geschreven in React. Hier had ik voor deze stage helemaal geen ervaring mee.
+
+- Azure
+
+  De cloud omgeving die binnen Info Support wordt gebruikt. Ook dit was nieuw voor mij.
+
+- Spring & Kotlin
+
+  Een techniek die ik ook op school heb gebruikt en mij echt bevalt. Deze combinatie werkt fijn samen. Hier zijn alle web api's in geschreven.
+
+- Visual Studio Code
+
+  De editor waar ik mijn front-end en smart contract in heb gemaakt. Dit is een opensource IDE van Microsoft.
+
+- Node.JS & NPM
+
+  De Node Package Manager is de facto standaard voor js packages, dit heb ik gebruikt in mijn react project maar ook de truffle omgeving. De smart contract tests zijn ook geschreven in JS en worden gedraaid door Node.JS
+
+  Zoals je ziet zijn het nogal wat verschillende technieken. Dit vind ik echt leuk! Ik heb er heel veel geleerd en dat waardeer ik ook echt.
+  
