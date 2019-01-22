@@ -3217,7 +3217,28 @@ Het bleek ook dat er nog wat spellingsfoutjes in zaten, deze heb ik meteen aange
 
 ## Dag 91, 17-1-2019
 
-> TODO
+Omdat ik mijn demo wil geven met een iPad erbij moet de ondersteuning voor mobile devices worden aangepast. Hier was in het begin geen rekening mee gehouden met het design waardoor het als het volgende eruit zag..
+
+![Home old](./img/ss_home_old.png)
+![Reward old](./img/ss_rewards_old.png)
+
+Dit is natuurlijk niet de bedoeling. Ik heb geschetst hoe ik het er uit wil laten zien zodat het bruikbaar is voor de gebruiker.
+
+![Schets home](./img/bonus_list_sketch.jpg)
+![Schets rewards](./img/reward_list_sketch.jpg)
+
+Nu ik het had gevisualiseerd hoe ik het wou ben ik aan de slag gegaan. Ik kan met [ant design](https://ant.design) column constraints mee geven. Hiermee kan je per formaat (`xs`, `sm`, `md`, `lg`, `xl` en `xxl`) regels mee geven. Dit heb ik nu gedaan.
+
+```tsx
+<Col span={6} xs={{ span: 0 }} md={{ span: 6 }}>
+...
+</Col>
+```
+
+Het resultaat is het volgende! Een mooi gestylede mobile-friendly applicatie.
+
+![Home new](./img/ss_home_new.png)
+![Reward new](./img/ss_rewards_new.png)
 
 ## Dag 92, 18-1-2019
 
